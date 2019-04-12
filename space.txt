@@ -1,0 +1,8 @@
+#!/usr/bin/perl 
+
+@array;
+$array[0] = '    Hello';
+print "$array[0]\n";
+
+$array[0] = ~s/^\s+//;
+print "$array[0]\n";

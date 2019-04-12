@@ -58,21 +58,57 @@ sub WhatStatement{
     		print DST "$result2\n";
     		close DST;
 
-    		my @para = split/\n/, $result2;
+    		my @para = split/\n\n/, $result2;
+
+
+            $size = @para;
+            open (DST, ">White.txt");
+              #  print DST "$size";
+            foreach $q(@para){
+                $q =~s/^\s+//;
+                print DST "Array: $q\n";
+            }
+            close DST;
+
+
+
+            #foreach $q(@para){
+            #    print "$q\n";
+            #}
+
+
+
+            open (DST, ">Chartext.txt");
+         
+            
 
     		my $array_size = @para;
     		#print "size : $array_size\n";
     		for $i(0..$array_size -1)
     		{
     			$stringOfPara = $para[$i];
-    			#print "String : $stringOfPara\n";
+    			
+
     			$firstChar = substr($stringOfPara, 0, 1);
-    			#print "char : $firstChar\n";
-    			if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}")
+    			print DST "char : $firstChar\n";
+                print DST "String : $stringOfPara\n";
+
+    			if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n")
     			{
     				$para[$i] = "N";
+                    print DST "N found right here ---------------\n"
     			}
+                print DST "\n";
+                print DST "\n";
+                print DST "\n";
     		}
+            close DST;
+
+            #foreach $q(@para){
+             #   print "$q\n";
+            #}
+
+
 
     		my @correctParagraphs;
     		foreach $newPar(@para)
@@ -89,11 +125,11 @@ sub WhatStatement{
     		}
 
 
-    		#$result4;
-    		#foreach $par(@correctParagraphs)
-    		#{
-    		#	$result4 = $result4 . ' '. $par;
-    		#}
+    		$result4;
+    	   foreach $par(@correctParagraphs)
+    		{
+    			$result4 = $result4 . ' '. $par;
+    		}
 
     		$array_size = @correctParagraphs;
 
