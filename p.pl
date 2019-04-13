@@ -1,5 +1,7 @@
 #!/usr/bin/perl 
 
+no warnings;
+
 use WWW::Wikipedia;
 my $wiki = WWW::Wikipedia->new();
 $wiki->clean_html(1);
@@ -19,19 +21,18 @@ while(($line = <>) ne "exit\n")
 	#	print "$word\n";
 	#}
 
-	if ($question[0] eq "What") {
-		# body...
+	if ($question[0] eq "What" | $question[0] eq "what") {
 		#print "what\n";
 		WhatStatement($line);
 	}
-	elsif ($question[0] eq "When") {
+	elsif ($question[0] eq "When" | $question[0] eq "when") {
 		#print "when\n";
 	}
-	elsif ($question[0] eq "Where") {
+	elsif ($question[0] eq "Where" | $question[0] eq "where") {
 		#print "where\n";
 
 	}
-	elsif ($question[0] eq "Who")
+	elsif ($question[0] eq "Who" | $question[0] eq "who")
 	{
 		#print "who\n";
 		WhatStatement($line);
@@ -45,7 +46,7 @@ while(($line = <>) ne "exit\n")
 sub WhatStatement{
 	my $sentence = @_;
 
-	if($_[0]=~/\bWhat is (a|the) \b/)
+	if($_[0]=~/\b(What|what) is( a| the| an)? \b/)
 	{
 		#print "$&\n";
 		my $lookUp = $';
@@ -65,6 +66,8 @@ sub WhatStatement{
             open (DST, ">White.txt");
               #  print DST "$size";
             foreach $q(@para){
+                $q =~s/^\s+//;
+                $q =~s/(.)*\]//;
                 $q =~s/^\s+//;
                 print DST "Array: $q\n";
             }
@@ -92,8 +95,10 @@ sub WhatStatement{
     			$firstChar = substr($stringOfPara, 0, 1);
     			print DST "char : $firstChar\n";
                 print DST "String : $stringOfPara\n";
+                $lastChar = substr($stringOfPara, -1, 1);
 
-    			if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n")
+
+    			if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n" | $lastChar eq "]" | $lastChar eq "}")
     			{
     				$para[$i] = "N";
                     print DST "N found right here ---------------\n"
@@ -135,7 +140,7 @@ sub WhatStatement{
 
     		my $result4 = join ('', @correctParagraphs[0..$array_size -1]);
 
-    		my @wikiResultSentences = split/\./, $result4;
+    		my @wikiResultSentences = split/\.\s/, $result4;
 
     		#print "here\n";
 
@@ -147,7 +152,7 @@ sub WhatStatement{
     		#	print "\n";
     		#}
 
-    		print "$wikiResultSentences[0]\n";
+    		print "$wikiResultSentences[0].\n";
     		
 
 
