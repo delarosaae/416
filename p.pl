@@ -17,7 +17,8 @@ open (DST, ">>$file");
 
 
 # Our message that the reader will see, along with a small overview of what our Application does and how to end it
-print "Angel's Jeopardy Application. Please enter exit when finished.\n";
+print "Angel de la Rosa Jeopardy Application. Ask me any quesiton that begins with either Who, What, When, or Where, and I will try to answer it as best as I can.\n";
+print "Please enter exit when finished.\n\n";
 
 #checks to see if the user entered exit or asked a question
 #if it is a question it will continue, others it will stop the program
@@ -62,6 +63,8 @@ while(($line = <STDIN>) ne "exit\n")         #will get the user input and place 
 }
 
 close DST;
+close print "Thank you! Goodbye.\n";
+
 
 #whenever we have a what question, this function will be called
 #there are really only two types of what questions, and they both are for looking up definitions. 
