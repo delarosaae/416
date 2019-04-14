@@ -263,12 +263,76 @@ sub WhoStatement
 }
 
 
-
-
+# The when statement function looks for when questions and answers them if it fits one of the criteria 
+#The first is for asking for a birthday of someone Month + day only, the second is for finding the date of an event, the 3rd one is for finding
+# when someone was born Month + day + Year,  and the last one is for finding out when someone passed away
+# the different beteween them in code is really just how to remove text to find the answer
 sub WhenStatement
 {
     my $sentence = @_;
-    if($_[0]=~/\b^(When|when) is \b/)         
+    if($_[0]=~/(When|when) is (.+)+ birthday/)         
+    {
+        print "Category: When is ---- birthday\n";
+        print DST "Search Was executed: $lookUp\n\n\n";
+        my $lookUp = $2; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
+        $lookUp=~s/\'s//; 
+        print DST "Will look up: $lookUp\n\n";
+        my $result = $wiki->search($lookUp);  
+        if ( $result->text() ) {              
+            my $result2= $result->text();   
+            print DST "Wiki Result: \n";
+            print DST "$result2\n\n\n";  
+            my @para = split/\n\n/, $result2; #split the text by spaces between paragraphs 
+            $size = @para;         
+            foreach $q(@para){          
+                $q =~s/^\s+//;      
+                $q =~s/(.)*\]//;        
+                $q =~s/^\s+//;
+            }
+            my $array_size = @para;      
+            for $i(0..$array_size -1)     
+            {
+                $stringOfPara = $para[$i]; 
+                $firstChar = substr($stringOfPara, 0, 1);
+                $lastChar = substr($stringOfPara, -1, 1);
+                if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n" | $lastChar eq "]" | $lastChar eq "}")
+                {
+                    $para[$i] = "N"; 
+                }
+             }
+            my @correctParagraphs;   
+            foreach $newPar(@para)
+            {
+                if($newPar ne "N")   {
+                    push(@correctParagraphs, $newPar);
+                }
+            }
+            $result4;
+            foreach $par(@correctParagraphs)  {
+                $result4 = $result4 . ' '. $par;
+            }
+            $array_size = @correctParagraphs;
+            my $result4 = join ('', @correctParagraphs[0..$array_size -1]);   
+            my @wikiResultSentences = split/\.\s/, $result4;      
+            #print "$wikiResultSentences[0].\n";
+            print DST "Answer: $wikiResultSentences[0].\n";
+            if($wikiResultSentences[0]=~/(\()?(January|February|March|April|May|June|July|August|Semptember|October|November|December)? [0-9][0-9]\,/)
+            {
+                chomp ($lookUp);
+                $answer = $&;
+                $answer=~s/\s$|\,$/./;
+                $answer=~s/\(|\)$//;
+
+                print "$lookUp birthday is on $answer\n";
+            }
+            else
+            {
+                print "not found\n";
+            }
+           
+        }   
+    }
+    elsif($_[0]=~/\b^(When|when) is \b/)         
     {
         print DST "Search Was executed: $lookUp\n\n\n";
         my $lookUp = $'; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
@@ -310,10 +374,146 @@ sub WhenStatement
             $array_size = @correctParagraphs;
             my $result4 = join ('', @correctParagraphs[0..$array_size -1]);   
             my @wikiResultSentences = split/\.\s/, $result4;      
-            print "$wikiResultSentences[0].\n";
+            #print "$wikiResultSentences[0].\n";
             print DST "Answer: $wikiResultSentences[0].\n";
+          
+            if($wikiResultSentences[0]=~/(January|February|March|April|May|June|July|August|Semptember|October|November|December)? [0-9][0-9] (January|Feburary|March|April|May|June|July|August|Semptember|October|November|December)?,?/)
+            {
+                chomp ($lookUp);
+                $answer = $&;
+                $answer=~s/\,|\s$/./;
+                print "$lookUp is on $answer\n";
+            }
+            else
+            {
+                print "not found\n";
+            }
+           
         }   
     }
+    elsif($_[0]=~/\b^(When|when) was (.+)+ born\b/)         
+    {
+        print DST "Search Was executed: $lookUp\n\n\n";
+        my $lookUp = $2; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
+        $lookUp=~s/\?/ /; 
+        my $result = $wiki->search($lookUp);  
+        if ( $result->text() ) {              
+            my $result2= $result->text();   
+            print DST "Wiki Result: \n";
+            print DST "$result2\n\n\n";  
+            my @para = split/\n\n/, $result2; #split the text by spaces between paragraphs 
+            $size = @para;         
+            foreach $q(@para){          
+                $q =~s/^\s+//;      
+                $q =~s/(.)*\]//;        
+                $q =~s/^\s+//;
+            }
+            my $array_size = @para;      
+            for $i(0..$array_size -1)     
+            {
+                $stringOfPara = $para[$i]; 
+                $firstChar = substr($stringOfPara, 0, 1);
+                $lastChar = substr($stringOfPara, -1, 1);
+                if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n" | $lastChar eq "]" | $lastChar eq "}")
+                {
+                    $para[$i] = "N"; 
+                }
+             }
+            my @correctParagraphs;   
+            foreach $newPar(@para)
+            {
+                if($newPar ne "N")   {
+                    push(@correctParagraphs, $newPar);
+                }
+            }
+            $result4;
+            foreach $par(@correctParagraphs)  {
+                $result4 = $result4 . ' '. $par;
+            }
+            $array_size = @correctParagraphs;
+            my $result4 = join ('', @correctParagraphs[0..$array_size -1]);   
+            my @wikiResultSentences = split/\.\s/, $result4;      
+            #print "$wikiResultSentences[0].\n";
+            print DST "Answer: $wikiResultSentences[0].\n";
+          
+            if($wikiResultSentences[0]=~/\(?(January|February|March|April|May|June|July|August|Semptember|October|November|December)? [0-9][0-9]\, [0-9][0-9][0-9][0-9]\)?/)
+            {
+                chomp ($lookUp);
+                $answer = $&;
+                $answer=~s/\s$/./;
+                $answer=~s/\(|\)$//;
+                print "$lookUp was born on $answer";
+                print ".\n";
+            }
+            else
+            {
+                print "not found\n";
+            }
+           
+        }   
+    }      
+    elsif($_[0]=~/(When|when) did (.+)+ (die|pass away)/)         
+    {
+        print DST "Search Was executed: $lookUp\n\n\n";
+        my $lookUp = $2; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
+        $lookUp=~s/\'s//; 
+        print DST "Will look up: $lookUp\n\n";
+        my $result = $wiki->search($lookUp);  
+        if ( $result->text() ) {              
+            my $result2= $result->text();   
+            print DST "Wiki Result: \n";
+            print DST "$result2\n\n\n";  
+            my @para = split/\n\n/, $result2; #split the text by spaces between paragraphs 
+            $size = @para;         
+            foreach $q(@para){          
+                $q =~s/^\s+//;      
+                $q =~s/(.)*\]//;        
+                $q =~s/^\s+//;
+            }
+            my $array_size = @para;      
+            for $i(0..$array_size -1)     
+            {
+                $stringOfPara = $para[$i]; 
+                $firstChar = substr($stringOfPara, 0, 1);
+                $lastChar = substr($stringOfPara, -1, 1);
+                if($firstChar eq "*" | $firstChar eq "|" | $firstChar eq "" | $firstChar eq "{" | $firstChar eq "}" | $firstChar eq "\s" | $firstChar eq " " | $firstChar eq "\n" | $lastChar eq "]" | $lastChar eq "}")
+                {
+                    $para[$i] = "N"; 
+                }
+             }
+            my @correctParagraphs;   
+            foreach $newPar(@para)
+            {
+                if($newPar ne "N")   {
+                    push(@correctParagraphs, $newPar);
+                }
+            }
+            $result4;
+            foreach $par(@correctParagraphs)  {
+                $result4 = $result4 . ' '. $par;
+            }
+            $array_size = @correctParagraphs;
+            my $result4 = join ('', @correctParagraphs[0..$array_size -1]);   
+            my @wikiResultSentences = split/\.\s/, $result4;      
+            #print "$wikiResultSentences[0].\n";
+            print DST "Answer: $wikiResultSentences[0].\n";
+            if($wikiResultSentences[0]=~/(January|February|March|April|May|June|July|August|Semptember|October|November|December) [0-9][0-9]\, [0-9][0-9][0-9][0-9]\)/)
+            {
+                chomp ($lookUp);
+                $answer = $&;
+                $answer=~s/\s$|\,$/./;
+                $answer=~s/\(|\)$//;
+                print "$lookUp died on $answer";
+                print ".\n";
+            }
+            else
+            {
+                print "not found\n";
+            }
+           
+        }   
+    }
+
     else
     {
         print "Sorry, please rephrase the quesiton.\n";
@@ -323,11 +523,12 @@ sub WhenStatement
 
 
 
-
+#The where statement is a function that will answer questions relatiing to where something/somethings are 
+#
 sub WhereStatement
 {
     my $sentence = @_;
-    if($_[0]=~/\b^(Where|where) is \b/)         
+    if($_[0]=~/\b^(Where|where) (is|are) (the)?\b/)         
     {
         print DST "Search Was executed: $lookUp\n\n\n";
         my $lookUp = $'; #gets whats in the middle of does and mean, so whatever (.+)+ equals 

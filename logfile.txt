@@ -1,8 +1,42 @@
-User Question: What is a dog?
+User Question: Where is Lake Bled?
 
 
 
-Search Was executed: dog 
+Search Was executed: 
+
+
+Wiki Result: 
+
+{{Infobox lake
+| name = Lake Bled image = Lake Bled from the Mountain.jpg caption = Lake Bled
+| seen from Little Osojnica Hill image_bathymetry = caption_bathymetry =
+| location = Julian Alps coords = lake_type = inflow = outflow = catchment =
+| basin_countries = Slovenia length = width = area = depth = max-depth = volume
+| = residence_time = shore = elevation = frozen = islands = Bled Island cities =
+| Bled reference =
+}} 'Lake Bled' (; ) is a lake in the Julian Alps of the Upper Carniolan region
+of northwestern Slovenia, where it adjoins the town of Bled. The area is a
+tourist destination. The lake is from Ljubljana International Airport and from
+the capital city, Ljubljana.
+
+
+
+Answer: .
+------------------------------------------------------
+
+
+User Question: Who wrote the three musketeers?
+
+
+
+Search Was executed: 
+
+
+User Question: Who wrote The Three Musketeers?
+
+
+
+Search Was executed: 
 
 
 Wiki Result: 
@@ -10,55 +44,157 @@ Wiki Result:
 
 
 
-{{Subspeciesbox
-| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
-| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
-| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
-| species = lupus species_link = Gray wolf subspecies = familiaris authority =
-| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
-}} ]]
+{{Infobox book
+| title_orig = Les Trois Mousquetaires name = Les trois mousquetaires image =
+| Dartagnan-musketeers.jpg caption = "D'Artagnan, Athos, Aramis, and
+| Porthos"Image by Maurice Leloir cover_artist = country = France language =
+| French genre = Historical novel, Adventure novel release_date = March–July
+| 1844 (serialised) followed_by = Twenty Years After, The Vicomte of Bragelonne
+| pages = c. 700 (depending on edition)
+}}
 
-The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
-genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
-sister taxa as modern wolves are not closely related to the wolves that were
-first domesticated, which implies that the direct ancestor of the dog is
-extinct. The dog was the first species to be domesticated and has been
-selectively bred over millennia for various behaviors, sensory capabilities, and
-physical attributes.
+'The Three Musketeers' ( ) is a historical adventure novel written in 1844 by
+French author Alexandre Dumas.
 
-Their long association with humans has led dogs to be uniquely attuned to human
-behavior and they are able to thrive on a starch-rich diet that would be
-inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
-species/ Why are different breeds of dogs all considered the same species? –
-Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
-perform many roles for humans, such as hunting, herding, pulling loads,
-protection, assisting police and military, companionship and, more recently,
-aiding disabled people and therapeutic roles. This influence on human society
-has given them the sobriquet of "man's best friend".
+Situated between 1625 and 1628, it recounts the adventures of a young man named
+d'Artagnan (based on Charles de Batz-Castelmore d'Artagnan) after he leaves home
+to travel to Paris, to join the Musketeers of the Guard. Although d'Artagnan is
+not able to join this elite corps immediately, he befriends the three most
+formidable musketeers of the age – Athos, Porthos and Aramis, "the three
+inseparables," as these are called – and gets involved in affairs of the state
+and court.
+
+In genre, The Three Musketeers is primarily a historical and adventure novel.
+However, Dumas also frequently works into the plot various injustices, abuses,
+and absurdities of the old regime, giving the novel an additional political
+aspect at a time when the debate in France between republicans and monarchists
+was still fierce. The story was first serialised from March to July 1844, during
+the July Monarchy, four years before the French Revolution of 1848 violently
+established the Second Republic.
+
+The story of d'Artagnan is continued in [[Twenty Years After]] and [[The Vicomte
+of Bragelonne: Ten Years Later]].
 
 
 
-Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
- (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore.
+Answer: 'The Three Musketeers' ( ) is a historical adventure novel written in 1844 by
+French author Alexandre Dumas.Situated between 1625 and 1628, it recounts the adventures of a young man named
+d'Artagnan (based on Charles de Batz-Castelmore d'Artagnan) after he leaves home
+to travel to Paris, to join the Musketeers of the Guard.
 ------------------------------------------------------
 
 
-User Question: cat?
+User Question: Where is the Great Blue Hole?
 
 
 
+Search Was executed: 
+
+
+User Question: Where is Great Blue Hole?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+, Belize]]
+
+
+The 'Great Blue Hole' is a giant marine sinkhole off the coast of Belize. It
+lies near the center of Lighthouse Reef, a small atoll from the mainland and
+Belize City. The hole is circular in shape, across and deep.{{cite book
+|title=The Great Blue Hole of Lighthouse Reef Atoll, Belize, Central America:
+Deep Technical Diving to Collect Sea-Level Records |publisher=Transactions of
+the Fifteenth Caribbean Geological Conference. |url=https://encrypted.google.co-
+m/books?id=RZbjcQEvfN4C&pg=PA190&dq=great+blue+hole&hl=en&sa=X&ei=4ZSKUpaDJcPc4-
+AOd7ICgAw&ved=0CDsQ6AEwAQ#v=onepage&q=great%20blue%20hole&f=false}} It was
+formed during several episodes of quaternary glaciation when sea levels were
+much lower. Analysis of stalactites found in the Great Blue Hole shows that
+formation took place 153,000; 66,000; 60,000; and 15,000 years ago. As the ocean
+began to rise again, the cave was flooded.{{cite web |title=Belize Blue Hole
+reef |publisher=NASA
+|url=http://earthobservatory.nasa.gov/IOTD/view.php?id=37741&src=iotdrss }} The
+Great Blue Hole is a part of the larger Belize Barrier Reef Reserve System, a
+World Heritage Site of the United Nations Educational, Scientific and Cultural
+Organization (UNESCO). {{cite web |title=World Heritage Nomination – IUCN
+Summary Belize Barrier Reef Reserve System (Belize) |publisher=IUCN/WCMC
+|url=http://whc.unesco.org/archive/advisory_body_evaluation/764.pdf}}
+
+
+
+Answer: The 'Great Blue Hole' is a giant marine sinkhole off the coast of Belize.
 ------------------------------------------------------
 
 
-User Question: What is a bear?
+User Question: Where is the Great blue hole
 
 
 
-Search Was executed: bear 
+Search Was executed: 
+
+
+User Question: Where is The Great Blue Hole?
+
+
+
+Search Was executed: 
+
+
+User Question: Who is Claude Monet
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+{{Infobox artist
+| name = Claude Monet image = Claude Monet 1899 Nadar crop.jpg caption = Claude
+| Monet, photo by Nadar, 1899 birth_name = Oscar-Claude Monet birth_date =
+| birth_place = Paris, France death_date = death_place = Giverny, France
+| nationality = French field = Painter training = movement = Impressionism works
+| = [[Impression, Sunrise]][[Rouen cathedral (Monet painting)|Rouen Cathedral
+| series]][[London Parliament (Monet painting)|London Parliament series]][[Water
+| Lilies]][[Haystacks (Monet)|Haystacks]][[Poplar Series (Monet)|Poplars]]
+| patrons = Gustave Caillebotte, Ernest Hoschedé, Georges Clemenceau awards =
+}} 'Oscar-Claude Monet' (; ; 14 November 1840&nbsp;– 5 December 1926) was a
+French painter, a founder of French Impressionist painting and the most
+consistent and prolific practitioner of the movement's philosophy of expressing
+one's perceptions before nature, especially as applied to plein air landscape
+painting.House, John, et al.: Monet in the 20th century, page 2, Yale University
+Press, 1998. The term "Impressionism" is derived from the title of his painting
+Impression, soleil levant ([[Impression, Sunrise]]), which was exhibited in 1874
+in the first of the independent exhibitions mounted by Monet and his associates
+as an alternative to the Salon de Paris.
+
+Monet's ambition of documenting the French countryside led him to adopt a method
+of painting the same scene many times in order to capture the changing of light
+and the passing of the seasons. From 1883, Monet lived in Giverny, where he
+purchased a house and property and began a vast landscaping project which
+included lily ponds that would become the subjects of his best-known works. In
+1899, he began painting the water lilies, first in vertical views with a
+Japanese bridge as a central feature and later in the series of large-scale
+paintings that was to occupy him continuously for the next 20 years of his life.
+
+
+
+Answer: Monet's ambition of documenting the French countryside led him to adopt a method
+of painting the same scene many times in order to capture the changing of light
+and the passing of the seasons.
+------------------------------------------------------
+
+
+User Question: where is France
+
+
+
+Search Was executed: 
 
 
 Wiki Result: 
@@ -67,45 +203,1488 @@ Wiki Result:
 
 
 
-{{Automatic taxobox
-| taxon=Ursidae name=Bears fossil_range=Late Eocene – Recent image=2010-kodiak-bear-
-| 1.jpg image_caption=Brown bear in Alaska authority=G. Fischer de Waldheim,
-| 1817 subdivision_ranks=Subfamilies subdivision =
-Amphicynodontinae Hemicyoninae Ursavinae Agriotheriinae Ailuropodinae
-Tremarctinae Ursinae }}
+{{Infobox country
+| conventional_long_name = French Republic common_name = France native_name =
+| image_flag = Flag of France.svg image_coat = Emblem of the French Republic.svg
+| symbol_type = Emblem
+|other_symbol = Grand Sceau de la République française |other_symbol_type =
+Great Seal of France
+| national_motto = "" englishmotto = "Liberty, Equality, Fraternity"
+| national_anthem = "La Marseillaise""The Marsellaise"
 
-'Bears' are carnivoran mammals of the family 'Ursidae'. They are classified as
-caniforms, or doglike carnivorans. Although only eight species of bears are
-extant, they are widespread, appearing in a wide variety of habitats throughout
-the Northern Hemisphere and partially in the Southern Hemisphere. Bears are
-found on the continents of North America, South America, Europe, and Asia.
-Common characteristics of modern bears include large bodies with stocky legs,
-long snouts, small rounded ears, shaggy hair, plantigrade paws with five
-nonretractile claws, and short tails.
+| image_map = map_caption = image_map2 = File:France in the World (+Antarctica
+| claims).svg map_caption2 = capital = Paris coordinates = largest_city =
+| capital languages_type = Official language languages =
+| French{{infobox|child=yes regional_languages = See Languages of France
+|label1 = Nationality |data1 = (Maghrebis, Africans, Other Europeans, Asians,
+Turks, Americans)}} }}
+| religion_year = 2016 religion = }} demonym = French government_type = Unitary
+| semi‑presidential republic leader_title1 = President leader_name1 = Emmanuel
+| Macron leader_title2 = Prime Minister leader_name2 = Édouard Philippe
+| leader_title3 = President of the Senate leader_name3 = Gérard Larcher
+| leader_title4 = President of the National Assembly leader_name4 = Richard
+| Ferrand legislature = Parliament upper_house = Senate lower_house = National
+| Assembly sovereignty_type = Establishment established_event1 = Baptism of
+| Clovis I established_date1 = 25 December 496 established_event2 = Treaty of
+| Verdun established_date2 = August 843 established_event3 = Republic
+| established established_date3 = 22 September 1792 established_event4 =
+| Founded the EEC established_date4 = 1 January 1958 established_event5 =
+| Current&nbsp;constitution established_date5 = 4 October 1958 area_km2 =
+| 640,679 area_footnote = area_rank = 42nd area_sq_mi = 248,600 area_label2 =
+| Metropolitan France (IGN) area_data2 = (50th) area_label3 = Metropolitan
+| France (Cadastre) area_data3 = (50th) population_estimate = 67,348,000
+| population_estimate_year = October 2018 population_estimate_rank = 21st
+| population_label2 = Density population_data2 = (106th) population_label3 =
+| Metropolitan France, estimate population_data3 = 65,167,000 (22nd)
+| population_density_km2 = 116 population_density_sq_mi = 301 pop_den_footnote
+| = population_density_rank = 89th GDP_PPP = $3.081 trillion GDP_PPP_year =
+| 2019 GDP_PPP_rank = 10th GDP_PPP_per_capita = $47,113 GDP_PPP_per_capita_rank
+| = 26th GDP_nominal = $2.845 trillion GDP_nominal_year = 2019 GDP_nominal_rank
+| = 6th GDP_nominal_per_capita = $43,500 GDP_nominal_per_capita_rank = 22nd
+| Gini = 29.3 Gini_year = 2017 Gini_change = steady Gini_ref = Gini_rank = HDI
+| = 0.901 HDI_year = 2017 HDI_change = increase HDI_ref = HDI_rank = 24th
+| currency = {{ubl
+|Euro (€) (EUR) |CFP franc (XPF) }}
+| time_zone = Central European Time utc_offset = +1 utc_offset_DST = +2
+| time_zone_DST = Central European Summer Time DST_note = date_format =
+| dd/mm/yyyy&nbsp;(AD) drives_on = right calling_code = +33 cctld = .fr
+| footnotes = Source gives area of metropolitan France as 551,500 km2 (212,900
+| sq mi) and lists overseas regions separately, whose areas sum to 89,179 km2
+| (34,432 sq mi). Adding these give the total shown here for the entire French
+| Republic. The CIA reports the total as 643,801 km2 (248,573 sq mi).
+}}
 
-While the polar bear is mostly carnivorous, and the giant panda feeds almost
-entirely on bamboo, the remaining six species are omnivorous with varied diets.
-With the exception of courting individuals and mothers with their young, bears
-are typically solitary animals. They may be diurnal or nocturnal and have an
-excellent sense of smell. Despite their heavy build and awkward gait, they are
-adept runners, climbers, and swimmers. Bears use shelters, such as caves and
-logs, as their dens; most species occupy their dens during the winter for a long
-period of hibernation, up to 100 days.
+'France' (), officially the 'French Republic' (, ), is a country whose territory
+consists of metropolitan France in Western Europe and several overseas regions
+and territories. The metropolitan area of France extends from the Mediterranean
+Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic
+Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast,
+Switzerland and Italy to the east, and Andorra and Spain to the south. The
+overseas territories include French Guiana in South America and several islands
+in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions
+(five of which are situated overseas) span a combined area of and a total
+population of 67.3 million (). France, a sovereign state, is a unitary semi-
+presidential republic with its capital in Paris, the country's largest city and
+main cultural and commercial centre. Other major urban areas include Lyon,
+Marseille, Toulouse, Bordeaux, Lille and Nice.
 
-Bears have been hunted since prehistoric times for their meat and fur; they have
-been used for bear-baiting and other forms of entertainment, such as being made
-to dance. With their powerful physical presence, they play a prominent role in
-the arts, mythology, and other cultural aspects of various human societies. In
-modern times, bears have come under pressure through encroachment on their
-habitats and illegal trade in bear parts, including the Asian bile bear market.
-The IUCN lists six bear species as vulnerable or endangered, and even least
-concern species, such as the brown bear, are at risk of extirpation in certain
-countries. The poaching and international trade of these most threatened
-populations are prohibited, but still ongoing.
+During the Iron Age, what is now metropolitan France was inhabited by the Gauls,
+a Celtic people. Rome annexed the area in 51 BC, holding it until the arrival of
+Germanic Franks in 476, who formed the Kingdom of Francia. The Treaty of Verdun
+of 843 partitioned Francia into East Francia, Middle Francia and West Francia.
+West Francia which became the Kingdom of France in 987 emerged as a major
+European power in the Late Middle Ages following its victory in the Hundred
+Years' War (1337–1453). During the Renaissance, French culture flourished and a
+global colonial empire was established, which by the 20th century would become
+the second largest in the world. The 16th century was dominated by religious
+civil wars between Catholics and Protestants (Huguenots). France became Europe's
+dominant cultural, political, and military power in the 17th century under Louis
+XIV. In the late 18th century, the French Revolution overthrew the absolute
+monarchy, established one of modern history's earliest republics, and saw the
+drafting of the Declaration of the Rights of Man and of the Citizen, which
+expresses the nation's ideals to this day.
+
+In the 19th century, Napoleon took power and established the First French
+Empire. His subsequent Napoleonic Wars (1803–15) shaped the course of
+continental Europe. Following the collapse of the Empire, France endured a
+tumultuous succession of governments culminating with the establishment of the
+French Third Republic in 1870. France was a major participant in World War I,
+from which it emerged victorious, and was one of the Allies in World War II,
+but came under occupation by the Axis powers in 1940. Following liberation in
+1944, a Fourth Republic was established and later dissolved in the course of
+the Algerian War. The Fifth Republic, led by Charles de Gaulle, was formed in
+1958 and remains today. Algeria and nearly all the other colonies became
+independent in the 1960s and typically retained close economic and military
+connections with France.
+
+France has long been a global centre of art, science, and philosophy. It hosts
+the world's fourth-largest number of UNESCO World Heritage Sites and is the
+leading tourist destination, receiving around 83&nbsp;million foreign visitors
+annually. France is a developed country with the world's sixth-largest economy
+by nominal GDP, and tenth-largest by purchasing power parity. In terms of
+aggregate household wealth, it ranks fourth in the world. France performs well
+in international rankings of education, health care, life expectancy, and human
+development. France is considered a great power in global affairs,Jack S. Levy,
+War in the Modern Great Power System, 1495–1975, (2014) p. 29 being one of the
+five permanent members of the United Nations Security Council with the power to
+veto and an official nuclear-weapon state. It is a leading member state of the
+European Union and the Eurozone, and a member of the Group of 7, North Atlantic
+Treaty Organization (NATO), Organisation for Economic Co-operation and
+Development (OECD), the World Trade Organization (WTO), and La Francophonie.
 
 
 
-Answer: 'Bears' are carnivoran mammals of the family 'Ursidae'.
+Answer: 'France' (), officially the 'French Republic' (, ), is a country whose territory
+consists of metropolitan France in Western Europe and several overseas regions
+and territories.
+------------------------------------------------------
+
+
+User Question: Where is Budapest?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+{{Infobox settlement
+
+| name = Budapest official_name = Capital City of Hungary Budapest főváros
+| settlement_type = Capital city
+
+| image_skyline = Montage of Budapest.jpg imagesize = 275 image_caption =
+| Clockwise from top left: St. Stephen's Basilica, Liberty Statue on Gellért
+| Hill, Fisherman's Bastion, Széchenyi Chain Bridge, Hungarian Parliament and
+| Heroes' Square image_flag = Flag of Budapest (2011-).svg image_shield = Coa
+| Hungary Town Budapest big.svg shield_alt = Coat of arms of Budapest nicknames
+| = Heart of Europe, Queen of the Danube, Pearl of the Danube, Capital of
+| Freedom, Capital of Spas and Thermal Baths, Capital of Festivals
+
+| pushpin_map = Hungary#Europe pushpin_relief = 1 pushpin_map_caption = Location
+| within Hungary##Location within Europe coordinates = coor_pinpoint =
+| coordinates_footnotes = subdivision_type = Country subdivision_name =
+| subdivision_type2 = Region subdivision_name2 = Central Hungary
+| subdivision_type3 = Subregion parts = 23 Districts p1 = I., Várkerület p2 =
+| II., Rózsadomb p3 = III., Óbuda-Békásmegyer p4 = IV., Újpest p5 = V., Belváros-
+| Lipótváros p6 = VI., Terézváros p7 = VII., Erzsébetváros p8 = VIII.,
+| Józsefváros p9 = IX., Ferencváros p10 = X., Kőbánya p11 = XI., Újbuda p12 =
+| XII., Hegyvidék p13 = XIII., Angyalföld p14 = XIV., Zugló p15 = XV.,
+| Rákospalota, Pestújhely, Újpalota p16 = XVI., Sashalom p17 = XVII., Rákosmente
+| p18 = XVIII., Pestszentlőrinc-Pestszentimre p19 = XIX., Kispest p20 = XX.,
+| Pesterzsébet p21 = XXI., Csepel p22 = XXII., Budafok-Tétény p23 = XXIII.,
+| Soroksár
+
+| established_title = Unification of Buda, Pest and Óbuda established_date = 17
+| November 1873
+
+| government_footnotes = government_type = Mayor – Council governing_body =
+| General Assembly of Budapest leader_title = Mayor leader_name = István Tarlós
+| (Independent, supported by Fidesz)
+
+| unit_pref = Metric
+
+| area_footnotes = area_total_km2 = 525.2 area_urban_km2 = 2538
+| area_metro_km2 = 7626
+
+| elevation_footnotes = elevation_m = Lowest (Danube) 96 m Highest (János hill)
+| 527 elevation_ft = 315 to 1,729
+
+| population_footnotes = population_total = 1,779,361 population_rank = 1st
+| (10th in EU) population_urban = 2,947,722 population_metro = 3,303,786
+| population_as_of = 2017 population_density_km2 = 3351 population_demonyms =
+| Budapester, budapesti (Hungarian)
+|blank3_name = HDI (2017) |blank3_info =
+0.896https://hdi.globaldatalab.org/areadata/shdi/ – very high
+
+| timezone1 = CET utc_offset1 = +1 timezone1_DST = CEST utc_offset1_DST = +2
+
+| postal_code_type = Postal code(s) postal_code = 1011–1239 area_code_type =
+| Area code area_code = 1 iso_code = HU-BU
+
+| blank_name_sec1 = NUTS code blank_info_sec1 = HU101 website = footnotes =
+| {{Infobox UNESCO World Heritage Site
+  |child = yes |Official_name = Budapest, including the Banks of the Danube, the
+  Buda Castle Quarter and Andrássy Avenue |Year = 1987 |Extension = 2002 |ID =
+  400 |Criteria = Cultural: ii, iv |Area = 473.3 ha |Buffer_zone = 493.8 ha }}
+  }} 'Budapest' (, ) is the capital and the most populous city of Hungary, and
+  the tenth-largest city in the European Union by population within city limits.
+  The city had an estimated population of 1,752,704 in 2016 distributed over a
+  land area of about . Budapest is both a city and county, and forms the centre
+  of the Budapest metropolitan area, which has an area of and a population of
+  3,303,786, comprising 33 percent of the population of Hungary.
+
+The history of Budapest began when an early Celtic settlement transformed into
+the Roman town of Aquincum, the capital of Lower Pannonia. The Hungarians
+arrived in the territory in the late 9th century. The area was pillaged by the
+Mongols in 1241. Buda, the settlements on the west bank of the river, became one
+of the centres of Renaissance humanist culture by the 15th century. The Battle
+of Mohács in 1526 was followed by nearly 150 years of Ottoman rule.Molnar, A
+Concise History of Hungary, Chronology pp. 15 After the reconquest of Buda in
+1686, the region entered a new age of prosperity. Pest-Buda became a global city
+with the unification of Buda, Óbuda, and Pest on 17 November 1873, with the name
+'Budapest' given to the new capital.Molnar, A Concise History of Hungary,
+Chronology pp. 15. Budapest also became the co-capital of the Austro-Hungarian
+Empire,Alexander Watson, Ring of Steel: Germany and Austria-Hungary at War,
+1914–1918 (2014). pp 536–40.: In the capital cities of Vienna and Budapest, the
+leftist and liberal movements and opposition parties strengthened and supported
+the separatism of ethnic minorities. a great power that dissolved in 1918,
+following World War I. The city was the focal point of the Hungarian Revolution
+of 1848, the Battle of Budapest in 1945, and the Hungarian Revolution of 1956.UN
+General Assembly Special Committee on the Problem of Hungary (1957) &nbsp;
+
+Budapest is an ''Alpha −'' global city with strengths in commerce, finance,
+media, art, fashion, research, technology, education, and entertainment. It is
+Hungary's financial centre and the highest ranked Central and Eastern European
+city on Innovation Cities Top 100 index, as well ranked as the second fastest-
+developing urban economy in Europe. Budapest is the headquarters of the European
+Institute of Innovation and Technology, the European Police CollegeEuropean
+Union Document Nos. 2013/0812 (COD), ENFOPOL 395 CODEC 2773 PARLNAT 307 and the
+first foreign office of the China Investment Promotion Agency. Over 40 colleges
+and universities are located in Budapest, including the Eötvös Loránd
+University, the Semmelweis University and the Budapest University of Technology
+and Economics. Opened in 1896,Electric Railway Society (2003).
+https://books.google.com/books?id=9DdeAAAAIAAJ&redir_esc=y. Doppler Press. p.
+61. Retrieved 29 August 2012. the city's subway system, the Budapest Metro,
+serves 1.27 million, while the Budapest Tram Network serves 1.08 million
+passengers daily. Metro usage per day – Line 1: 120,000; Line 2: 405,000; Line
+3: 630,000. (Line 4 began operations in 2014, with a 110,000 ridership estimated
+by Centre for Budapest Transport (BKK) based on the latest year.)
+
+Budapest is cited as one of the most beautiful cities in Europe, ranked as "the
+world's second best city" by [[Condé Nast Traveler]], and "Europe's 7th most
+idyllic place to live" by Forbes. Among Budapest's important museums and
+cultural institutions is the Museum of Fine Arts. Further famous cultural
+institutions are the Hungarian National Museum, House of Terror, Franz Liszt
+Academy of Music, Hungarian State Opera House and National Széchényi Library.
+The central area of the city along the Danube River is classified as a UNESCO
+World Heritage Site and has many notable monuments, including the Hungarian
+Parliament, Buda Castle, Fisherman's Bastion, Gresham Palace, Széchenyi Chain
+Bridge, Matthias Church and the Liberty Statue. Other famous landmarks include
+Andrássy Avenue, St. Stephen's Basilica, Heroes' Square, the Great Market Hall,
+the Nyugati Railway Station built by the Eiffel Company of Paris in 1877 and the
+second-oldest metro line in the world, the Millennium Underground Railway. The
+city also has around 80 geothermal springs, the largest thermal water cave
+system, second largest synagogue, and third largest Parliament building in the
+world. Budapest attracts 4.4 million international tourists per year, making it
+a popular destination in Europe.
+
+
+
+Answer: The history of Budapest began when an early Celtic settlement transformed into
+the Roman town of Aquincum, the capital of Lower Pannonia.
+------------------------------------------------------
+
+
+User Question: Where is Rome?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+
+
+{{Infobox settlement
+
+| name = Rome official_name = Roma Capitale native_name = Roma settlement_type =
+| Capital city and comune image_skyline = Rome Montage 2017.png image_caption =
+| Clockwise from top: the Colosseum, St. Peter's Basilica, Castel Sant'Angelo,
+| Ponte Sant'Angelo, Trevi Fountain and the Pantheon image_flag = image_shield =
+| nickname = The Eternal City, Capital of the World, Throne of St. Peter
+
+| image_map = Map of comune of Rome (metropolitan city of Capital Rome, region
+| Lazio, Italy).svg map_caption = The territory of the comune (Roma Capitale, in
+| red) inside the Metropolitan City of Rome (Città Metropolitana di Roma, in
+| yellow). The white area in the centre is Vatican City. pushpin_map =
+| Italy#Europe pushpin_map_caption = Location within Italy##Location within
+| Europe pushpin_relief = yes coordinates = coor_pinpoint =
+
+| subdivision_type = Country subdivision_name = }} subdivision_type2 = Region
+| subdivision_name2 = Lazio
+
+| government_footnotes = government_type = Special [[Comune]] ("Roma Capitale")
+| governing_body = Rome City Council leader_title = Mayor leader_name = Virginia
+| Raggi (M5S) total_type = Total unit_pref = IT
+
+| area_footnotes = area_total_sq_mi = 496.3 elevation_footnote = elevation_m =
+| 21 elevation_ft = population_total = population_as_of = 30 April 2018
+| population_footnotes = population_density_km2 = 2236 population_rank = 1st,
+| Italy (4th in EU) population_blank1_title = Comune population_blank1 =
+| 2,872,800 population_blank2_title = Metropolitan City population_blank2 = 4,3-
+| 55,725[http://demo.istat.it/pop2014/popol.php?m1=&m2=&m3=&m4=&m5=y&f1=&f2=&f3-
+| =&f4=&f5=y&daanno=0&adanno=100&lingua=eng&Rip=S3&Reg=R12&Pro=P058&Com=000&sub-
+| mit=Save Bilancio demografico Anno 2014 (dati provvisori). Provincia: Roma] –
+| Demo.istat.it population_demonym =
+
+| timezone1 = CET utc_offset1 = +1
+
+| postal_code_type = CAP code(s) postal_code = 00100; 00118 to 00199 area_code =
+| 06 website = [http://www.comune.roma.it/ Comune di Roma] pushpin_label = Rome
+| un_locode = footnotes = {{Infobox UNESCO World Heritage Site child = yes
+| official_name = Historic Centre of Rome, the Properties of the Holy See in
+| that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura
+| criteria = ID = 91 year = 1980 area = buffer_zone =
+}} }}
+
+'Rome' (Latin and ) is the capital city and a special [[comune]] of Italy (named
+Comune di Roma Capitale). Rome also serves as the capital of the Lazio region.
+With 2,872,800 residents in , it is also the country's most populated comune. It
+is the fourth most populous city in the European Union by population within city
+limits. It is the centre of the Metropolitan City of Rome, which has a
+population of 4,355,725 residents, thus making it the most populous metropolitan
+city in Italy. Rome is located in the central-western portion of the Italian
+Peninsula, within Lazio (Latium), along the shores of the Tiber. The Vatican
+City (the smallest country in the world) is an independent country inside the
+city boundaries of Rome, the only existing example of a country within a city:
+for this reason Rome has been often defined as capital of two states.
+
+Rome's history spans 28 centuries. While Roman mythology dates the founding of
+Rome at around 753 BC, the site has been inhabited for much longer, making it
+one of the oldest continuously occupied sites in Europe.Heiken, G., Funiciello,
+R. and De Rita, D. (2005), The Seven Hills of Rome: A Geological Tour of the
+Eternal City. Princeton University Press. The city's early population originated
+from a mix of Latins, Etruscans, and Sabines. Eventually, the city successively
+became the capital of the Roman Kingdom, the Roman Republic and the Roman
+Empire, and is regarded by some as the first ever metropolis. It was first
+called The Eternal City (; ) by the Roman poet Tibullus in the 1st century BC,
+and the expression was also taken up by Ovid, Virgil, and Livy.Stephanie Malia
+Hom, "Consuming the View: Tourism, Rome, and the Topos of the Eternal City",
+Annali d'Igtalianistica '28':91–116 Rome is also called the "Caput Mundi"
+(Capital of the World). After the fall of the Western Empire, which marked the
+beginning of the Middle Ages, Rome slowly fell under the political control of
+the Papacy, and in the 8th century it became the capital of the Papal States,
+which lasted until 1870. Beginning with the Renaissance, almost all the popes
+since Nicholas V (1447–1455) pursued over four hundred years a coherent
+architectural and urban programme aimed at making the city the artistic and
+cultural centre of the world. In this way, Rome became first one of the major
+centres of the Italian Renaissance, and then the birthplace of both the Baroque
+style and Neoclassicism. Famous artists, painters, sculptors and architects made
+Rome the centre of their activity, creating masterpieces throughout the city. In
+1871, Rome became the capital of the Kingdom of Italy, which, in 1946, became
+the Italian Republic.
+
+Rome has the status of a global city. In 2016, Rome ranked as the 14th-most-
+visited city in the world, 3rd most visited in the European Union, and the most
+popular tourist attraction in Italy. Its historic centre is listed by UNESCO as
+a World Heritage Site. The famous Vatican Museums are among the world's most
+visited museums while the Colosseum was the most popular tourist attraction in
+world with 7.4 million visitors in 2018. Host city for the 1960 Summer Olympics,
+Rome is the seat of several specialized agencies of the United Nations, such as
+the Food and Agriculture Organization (FAO), the World Food Programme (WFP) and
+the International Fund for Agricultural Development (IFAD). The city also hosts
+the Secretariat of the Parliamentary Assembly of the Union for the Mediterranean
+(UfM) as well as the headquarters of many international business companies such
+as Eni, Enel, TIM, Leonardo S.p.A., and national and international banks such as
+Unicredit and BNL. Its business district, called EUR, is the base of many
+companies involved in the oil industry, the pharmaceutical industry, and
+financial services. Rome is also an important fashion and design centre thanks
+to renowned international brands centered in the city. Rome's Cinecittà Studios
+have been the set of many Academy Award–winning movies.
+
+
+
+Answer: ("Roma Capitale")
+| governing_body = Rome City Council leader_title = Mayor leader_name = Virginia
+| Raggi (M5S) total_type = Total unit_pref = ITof Italy (named
+Comune di Roma Capitale).
+------------------------------------------------------
+
+
+User Question: Where is Ohio?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox U.S. state |Name = Ohio |Fullname = State of Ohio |Flag = Flag of
+Ohio.svg |Flaglink = Flag |Seal = Seal of Ohio (Official).svg |Seallink = Seal
+|Map = Ohio in United States.svg |Nickname = The Buckeye State;Birthplace of
+Aviation; The Heart of It All |Motto = With God, all things are possible (1959)
+|StateAnthem = Beautiful Ohio (1969)Hang On Sloopy (1985) |Capital = Columbus
+|LargestCity = capital |LargestMetro = Greater CincinnatiGreater Columbus(see
+footnotesAccording to the U.S. Census [https://factfinder.census.gov/faces/tabl-
+eservices/jsf/pages/productview.xhtml?src=bkmk July 2017 Annual Estimate],
+Greater Columbus is the largest Metropolitan Statistical Area (MSA) that is
+entirely within Ohio, with a population of 2,078,725; and Greater Cincinnati is
+the largest MSA that is at least partially within Ohio, with a population of
+2,179,082, approximately 25% of which is in Indiana or Kentucky. Which MSA is
+the largest in Ohio depends on the context.) |Languages = English 93.3%Spanish
+2.2%Other 4.5% |Demonym = Ohioan; Buckeye (colloq.) |List of Governors of
+Ohio|Governor = Mike DeWine (R) |Lieutenant Governor = Jon Husted (R)
+|Legislature = General Assembly |Upperhouse = Senate |Lowerhouse = House of
+Representatives |Senators = Sherrod Brown (D)Rob Portman (R) |Representative =
+12 Republicans 4 Democrats |PostalAbbreviation = OH |OfficialLang = '[[De
+jure]]': None'[[De facto]]': English |AreaRank = 34th |TotalAreaUS = 44,825
+|TotalArea = 116,096 |LandAreaUS = 40,948 |LandArea = 106,156 |WaterAreaUS =
+3,877 |WaterArea = 10,040 |PCWater = 8.7 |PopRank = 7th
+|2010Pop = 11,689,442 (2018)
+|DensityRank = 10th
+|2000DensityUS = 282 2000Density = 109
+|MedianHouseholdIncome = $54,021 |IncomeRank = 36th |AdmittanceOrder = 17th,
+onAugust 7, 1953 |AdmittanceDate = March 1, 1803 |TimeZone = Eastern: UTC -5/-4
+|Latitude = 38° 24′ N to 41° 59′ N |Longitude = 80° 31′ W to 84° 49′ W |WidthUS
+= 220 |Width = 355 |LengthUS = 220 |Length = 355 |HighestPoint = Campbell
+HillElevation adjusted to North American Vertical Datum of 1988. |HighestElevUS
+= 1,549 |HighestElev = 472 |MeanElevUS = 850 |MeanElev = 260 |LowestPoint = Ohio
+River at |LowestElevUS = 455 |LowestElev = 139 |ISOCode = US-OH |Website =
+www.ohio.gov }} {{Infobox U.S. state symbols |Name = Ohio |Flag = Flag of
+Ohio.svg |Flagborder = no |FlagLink = |Seal = Seal of Ohio (Official).svg
+|Amphibian = Spotted salamander |Bird = Cardinal (1933) |Butterfly = |Crustacean
+= |Fish = |Flower = Red carnation (1904) |Grass = |Insect = Ladybug (1975)
+|Mammal = White-tailed deer (1987) |Reptile = Black racer snake (1995) |Tree =
+Buckeye (1953) |Beverage = Tomato juice (1965) |Colors = |Dance = |Dinosaur =
+|Firearm = |Food = |Fossil = [[Isotelus|Isotelus maximus]], a trilobite (1985)
+|Gemstone = Ohio flint (1965) |Instrument = |Mineral = |Poem = |Rock = |Shell =
+|Ships = |Slogan = So Much to Discover |Soil = |Sport = |Tartan = |Toy = |Other
+= Wild flower: Great white trillium (1986)Fruit: Pawpaw |Route Marker = OH-7.svg
+|Quarter = 2002 OH Proof.png |QuarterReleaseDate = 2002 }}
+
+'Ohio' is a Midwestern state in the Great Lakes region of the United States.
+Of the fifty states, it is the 34th largest by area, the seventh most
+populous, and the tenth most densely populated. The state's capital and
+largest city is Columbus.
+
+The state takes its name from the Ohio River, whose name in turn originated from
+the Seneca word ohiːyo', meaning "good river", "great river" or "large creek".
+Partitioned from the Northwest Territory, Ohio was the 17th state admitted to
+the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio is
+historically known as the "Buckeye State" after its Ohio buckeye trees, and
+Ohioans are also known as "Buckeyes".
+
+Ohio rose from the wilderness of Ohio Country west of Appalachia in colonial
+times through the Northwest Indian Wars as part of the Northwest Territory in
+the early frontier, to become the first non-colonial free state admitted to the
+union, to an industrial powerhouse in the 20th century before transmogrifying to
+a more information and service based economy in the 21st.
+
+The government of Ohio is composed of the executive branch, led by the Governor;
+the legislative branch, which comprises the bicameral Ohio General Assembly; and
+the judicial branch, led by the state Supreme Court. Ohio occupies 16 seats in
+the United States House of Representatives. Ohio is known for its status as both
+a swing state and a bellwether in national elections.{{cite web
+ | last = Pollard first = Kelvin title = Swing, Bellwether, and Red and Blue
+ | States publisher=Population Reference Bureau year = 2008 url =
+ | http://www.prb.org/Articles/2008/electiondemographics.aspx accessdate = March
+ | 25, 2009}} Six Presidents of the United States have been elected who had Ohio
+ | as their home state.
+
+Ohio is an industrial state, ranking 8th out of 50 states in GDP (2015), and is
+the second largest producer of automobiles behind Michigan.
+
+
+
+Answer: 'Ohio' is a Midwestern state in the Great Lakes region of the United States.
+------------------------------------------------------
+
+
+User Question: Where is Quebec City?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+{{Infobox settlement
+| name = Quebec City official_name = Québec native_name = Ville de Québec
+| settlement_type = Provincial capital city image_skyline = Quebec City Montage
+| 2016.jpg image_flag = Flag of Quebec City.svg flag_size = 120x100px image_seal
+| = seal_size = 1 image_shield = Armoiries de la ville de Québec.svg shield_size
+| = 74x100px image_blank_emblem = Quebec City Logo.png nickname = "La Vieille
+| Capitale" motto = Don de Dieu ferai valoir("I shall put God's gift to good
+| use"; the Don de Dieu was Champlain's ship) pushpin_map = Canada#Quebec
+| pushpin_map_caption = Location of Quebec City in Canada coordinates =
+| coor_pinpoint = coordinates_footnotes = image_map1 = Quebec city map
+| Canada.svg mapsize1 = 250px map_caption1 = Quebec City map subdivision_type =
+| Country subdivision_name = Canada subdivision_type1 = Province
+| subdivision_type2 = Region subdivision_type3 = Metropolitan community
+| subdivision_type4 = Agglomeration subdivision_name1 = Quebec subdivision_name2
+| = Capitale-Nationale subdivision_name3 = Communauté métropolitaine de Québec
+| subdivision_name4 = Agglomeration of Quebec City subdivision_type5 = Historic
+| countries subdivision_name5 = Kingdom of FranceKingdom of Great Britain
+| established_title = First settled established_date = 11 October 1535, by
+| Jacques Cartier established_title1 = Founded established_date1 = 3 July 1608,
+| by Samuel de Champlain established_title2 = Constituted established_date2 = 1
+| January 2002 established_title3 = Incorporated established_date3 = 1832
+| established_title4 = established_date4 = parts_type = Boroughs parts_style =
+| parts = p1 = Beauport government_footnotes = government_type = Quebec City
+| Council leader_title = Mayor leader_name = Régis Labeaume leader_title1 = MPs
+| leader_name1 = {{Collapsible list
+|title = List of MPs |frame_style = border:none; padding: 0; |list_style = text-
+align:left;display:none;
+|1 = Sylvie Boucher (C) 2 = Alupa Clarke (C) 3 = Gérard Deltell (C) 4 =
+|Jean-Yves Duclos (L) 5 = Joël Godin (C) 6 = Joël Lightbound (L) 7 =
+|Pierre Paul-Hus (C)
+}}
+| area_footnotes = area_magnitude = area_total_km2 = 485.77 area_land_km2 =
+| 453.38 area_water_km2 = area_water_percent = area_metro_km2 = 3408.70
+| elevation_footnotes = elevation_m = 98 elevation_ft = population_total =
+| 531,902 (11th) population_as_of = 2016 population_footnotes =
+| population_density_km2 = 1173.2 population_metro = 800,296 (7th)
+| population_metro_footnotes = population_density_metro_km2 = 234.8
+| population_blank1_title = Pop&nbsp;2011-2016 population_blank1 = 3.0%
+| population_density_blank1_km2 = postal_code_type = Postal code(s) postal_code
+| = G1A to G2N area_code = 418 and 581 website = footnotes = p2 = Charlesbourg
+| p3 = La Cité-Limoilou p4 = La Haute-Saint-Charles p5 = Les Rivières p6 = Sainte-Foy–Sillery–Cap-
+| Rouge leader_title2 = MNAs leader_name2 = {{Collapsible list
+|title = List |frame_style = border:none; padding: 0; |list_style = text-
+align:left;display:none;
+|1 = François Blais (L) 2 = Raymond Bernier (L) 3 = Éric Caire (C) 4 = André
+|Drolet (L) 5 = Geneviève Guilbault (C) 6 = Patrick Huot (L) 7 = Agnès Maltais
+|(PQ) 8 = Sébastien Proulx (L) 9 = Véronyque Tremblay (L)
+}}
+| area_metro_footnotes = timezone = EST utc_offset = −5 timezone_DST = EDT
+| utc_offset_DST = −4
+}}
+
+'Quebec City' (pronounced or ; ; , ), officially 'Québec', is the capital city
+of the Canadian province of Quebec. The city had a population estimate of
+531,902 in July 2016 (an increase of 3.0% from 2011), and the metropolitan area
+had a population of 800,296 in July 2016 (an increase of 4.3% from 2011), making
+it the second largest city in Quebec after Montreal, and the seventh largest
+metropolitan area and eleventh largest city in the country.
+
+The Algonquian people had originally named the area Kébec, an AlgonquinThe
+Algonquin language is a distinct language of the Algonquian language family, and
+is not a misspelling. word meaning "where the river narrows", because the Saint
+Lawrence River narrows proximate to the promontory of Quebec and its Cape
+Diamant. Explorer Samuel de Champlain founded a French settlement here in 1608,
+and adopted the Algonquin name. Quebec City is one of the oldest European cities
+in North America. The ramparts surrounding Old Quebec () are the only fortified
+city walls remaining in the Americas north of Mexico. This area was declared a
+World Heritage Site by UNESCO in 1985 as the "Historic District of Old
+Québec"."[http://whc.unesco.org/en/list/300 Historic District of Old Québec]".
+World Heritage; UNESCO. Retrieved 12 January 2009.
+
+The city's landmarks include the Château Frontenac hotel that dominates the
+skyline and the Citadelle of Quebec, an intact fortress that forms the
+centrepiece of the ramparts surrounding the old city and includes a secondary
+royal residence. The National Assembly of Quebec (provincial legislature), the
+Musée national des beaux-arts du Québec (National Museum of Fine Arts of
+Quebec), and the Musée de la civilisation (Museum of Civilization) are found
+within or near Vieux-Québec.
+
+
+
+Answer: 'Quebec City' (pronounced or ; ; , ), officially 'Qu�bec', is the capital city
+of the Canadian province of Quebec.
+------------------------------------------------------
+
+
+User Question: Where is St. Tropez?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+{{Infobox French commune |name = Saint-Tropez |commune status = Commune |image
+flag =Flag of Saint-Tropez.svg |image = Saint Tropez Ville.jpg |caption = August
+2008 panoramic view of Saint-Tropez |coordinates = |arrondissement = Draguignan
+|canton = Sainte-Maxime |intercommunality = |mayor = Jean-Pierre Tuveri |term =
+2014– |elevation m = 15 |elevation min m = 0 |elevation max m = 113 |area km2 =
+15.18 |population = 5612 |population date = 2006 |INSEE = 83119 |timezone = CET
+|utc_offset = +01:00 |timezone_DST = CEST |utc_offset_DST = +02:00 |postal code
+= 83990 |image coat of arms =Blason ville fr Saint-Tropez2 (Var).svg }} 'Saint-
+Tropez' (; {{lang|oc|Sant-Troupès}} in Provençal dialect) is a town on the
+French Riviera, west of Nice in the Var department of the Provence-Alpes-Côte
+d'Azur region of southeastern France.
+
+Saint-Tropez was a military stronghold and fishing village until the beginning
+of the 20th century. It was the first town on this coast to be liberated during
+World War II as part of Operation Dragoon. After the war, it became an
+internationally known seaside resort, renowned principally because of the influx
+of artists of the French New Wave in cinema and the Yé-yé movement in music. It
+later became a resort for the European and American [[jet set]] and tourists.
+
+The inhabitants of Saint-Tropez are called {{lang|fr|Tropéziens}}[http://www.habitants.fr/habitants_saint-
+tropez_83119.html gentilé sur le site habitants.fr] Accessed 18 May 2008. (),
+and the town is familiarly called St-Trop ().
+
+
+
+Answer: Saint-Tropez was a military stronghold and fishing village until the beginning
+of the 20th century.
+------------------------------------------------------
+
+
+User Question: When did JFK die?
+
+
+
+Search Was executed: 
+
+
+Will look up: JFK
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox officeholder |name = John F. Kennedy |image = John F. Kennedy, White
+House color photo portrait.jpg |caption = Official White House portrait |office
+= 35th President of the United States |vicepresident = Lyndon B. Johnson
+|term_start = January 20, 1961 |term_end = November 22, 1963 |predecessor =
+Dwight D. Eisenhower |successor = Lyndon B. Johnson |jr/sr1 = United States
+Senator |state1 = Massachusetts |term_start1 = January 3, 1953 |term_end1 =
+December 22, 1960 |predecessor1 = Henry Cabot Lodge Jr. |successor1 = Benjamin
+A. Smith II |state2 = Massachusetts |district2 = |term_start2 = January 3, 1947
+|term_end2 = January 3, 1953 |predecessor2 = James Michael Curley |successor2 =
+Tip O'Neill |birth_name = John Fitzgerald Kennedy |birth_date = |birth_place =
+Brookline, Massachusetts, U.S. |death_date = }} |death_cause = Assassination
+(gunshot wound to the head) |death_place = Dallas, Texas, U.S. |restingplace =
+Arlington National Cemetery |party = Democratic |spouse = |children = 4
+(including John Jr. and Caroline) |parents = Joseph P. Kennedy Sr.Rose
+Fitzgerald |relatives = See Kennedy family |education = Harvard University
+(BA)Stanford University |signature = John F Kennedy Signature 2.svg
+|signature_alt = Cursive signature in ink |allegiance = |branch = |serviceyears
+= 1941–1945 |rank = Lieutenant |unit = Motor Torpedo Squadron 2Patrol Torpedo
+Boat 109Patrol Torpedo Boat 59 |battles = World War IISolomon Islands campaign
+|mawards = Navy and Marine Corps Medal Purple Heart American Defense Service
+Medal American Campaign Medal Asiatic-Pacific Campaign Medal (with 3 service
+stars) World War II Victory }}
+
+'John Fitzgerald "Jack" Kennedy' (May 29, 1917 – November 22, 1963), commonly
+referred to by his initials 'JFK', was an American politician and journalist who
+served as the 35th president of the United States from January 1961 until his
+assassination in November 1963. He served at the height of the Cold War, and the
+majority of his presidency dealt with managing relations with the Soviet Union.
+A member of the Democratic Party, Kennedy represented Massachusetts in the U.S.
+House of Representatives and Senate prior to becoming president.
+
+Kennedy was born in Brookline, Massachusetts, the second child of Joseph P.
+Kennedy Sr. and Rose Kennedy. He graduated from Harvard University in 1940 and
+joined the U.S. Naval Reserve the following year. During World War II, he
+commanded a series of PT boats in the Pacific theater and earned the Navy and
+Marine Corps Medal for his service. After the war, Kennedy represented the 11th
+congressional district of Massachusetts in the U.S. House of Representatives
+from 1947 to 1953. He was subsequently elected to the U.S. Senate and served as
+the junior Senator from Massachusetts from 1953 to 1960. While in the Senate, he
+published his book [[Profiles in Courage]], which won a Pulitzer Prize for
+Biography. In the 1960 presidential election, Kennedy narrowly defeated
+Republican opponent Richard Nixon, who was the incumbent vice president. At age
+43, he became the second-youngest man to serve as president (after Theodore
+Roosevelt), the youngest man to be elected as U.S. president, as well as the
+only Roman Catholic to occupy that office. He was also the first president to
+have served in the U.S. Navy.
+
+Kennedy's time in office was marked by high tensions with communist states in
+the Cold War. He increased the number of American military advisers in South
+Vietnam by a factor of 18 over President Dwight D. Eisenhower. In April 1961, he
+authorized a failed joint-CIA attempt to overthrow the Cuban government of Fidel
+Castro in the Bay of Pigs Invasion.de Quesada, Alejandro The Bay of Pigs: Cuba
+1961 (2011) p. 17 He subsequently rejected Operation Northwoods plans by the
+Joint Chiefs of Staff to orchestrate false flag attacks on American soil in
+order to gain public approval for a war against Cuba. However his administration
+continued to plan for an invasion of Cuba in the summer of 1962.https://eu.usatoday.com/story/news/User Question: When is Festivus?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+{{Infobox holiday
+| holiday_name = Festivus image = Festivus Pole.jpg image_size = 120px caption =
+| Festivus pole observedby = duration = 1 day frequency = Annual date = December
+| 23 mdy = yes celebrations = Airing of Grievances, Feats of Strength, the
+| aluminum pole, Festivus dinner, Festivus miracles type = Secular significance
+| = A holiday celebrated as an alternative to the pressures and commercialism of
+| the Christmas holiday season.
+}}
+
+'Festivus' is a secular holiday celebrated on December 23 as an alternative to
+the pressures and commercialism of the Christmas season. Originally created by
+author Daniel O'Keefe, Festivus entered popular culture after it was made the
+focus of the 1997 [[Seinfeld]] episode "The Strike", which O'Keefe's son, Dan
+O'Keefe, co-wrote.
+
+The non-commercial holiday's celebration, as depicted on Seinfeld, occurs on
+December 23 and includes a Festivus dinner, an unadorned aluminum Festivus pole,
+practices such as the "Airing of Grievances" and "Feats of Strength", and the
+labeling of easily explainable events as "Festivus miracles". The episode refers
+to it as "a Festivus for the rest of us".
+
+It has been described both as a parody holiday festival and as a form of playful
+consumer resistance. Journalist Allen Salkin describes it as "the perfect
+secular theme for an all-inclusive December gathering".
+
+
+
+Answer: 'Festivus' is a secular holiday celebrated on December 23 as an alternative to
+the pressures and commercialism of the Christmas season.
+------------------------------------------------------
+
+
+User Question: When is Christmas?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox holiday
+| holiday_name = ChristmasChristmas Day image = Worship of the shepherds by
+| bronzino.jpg caption = A depiction of the Nativity scene nickname = Noël,
+| Nativity, Xmas observedby = Christians, many non-Christians date = {{blist|
+| December 25: Western Christianity and some Eastern churches
+| : Most Oriental Orthodox and Eastern Orthodox churches
+| January 6: Some Anabaptists, such as the Amish; Armenian Apostolic Church
+| : Armenian Patriarchate of Jerusalem''
+}}
+| observances = Church services celebrations = Gift-giving, family and other
+| social gatherings, symbolic decoration, feasting etc. type = Christian,
+| cultural significance = Commemoration of the Nativity of Jesus relatedto =
+| Christmastide, Christmas Eve, Advent, Annunciation, Epiphany, Baptism of the
+| Lord, Nativity Fast, Nativity of Christ, Old Christmas, Yule, St. Stephen's
+| Day, Boxing Day frequency = Annual duration = 1 day
+}}
+
+
+'Christmas' is an annual festival, commemorating the birth of Jesus Christ,[http://www.merriam-
+webster.com/dictionary/christmas Christmas], [[Merriam-Webster]]. Retrieved 2008-10-
+06.[https://www.webcitation.org/5kwKlFgsB?url=http://encarta.msn.com/encnet/ref-
+pages/RefArticle.aspx?refid=761556859 Archived] 2009-10-31. observed primarily
+on December 25 Several branches of Eastern Christianity that use the Julian
+calendar also celebrate on December 25 according to that calendar, which is now
+January 7 on the Gregorian calendar. Armenian Churches observed the nativity on
+January 6 even before the Gregorian calendar originated. Most Armenian
+Christians use the Gregorian calendar, still celebrating Christmas Day on
+January 6. Some Armenian churches use the Julian calendar, thus celebrating
+Christmas Day on January 19 on the Gregorian calendar, with January 18 being
+Christmas Eve. as a religious and cultural celebration among billions of people
+around the world. Christians|publisher = Pew Research Center|date = December 18,
+2012|accessdate = May 23, 2014}} A feast central to the Christian liturgical
+year, it is preceded by the season of Advent or the Nativity Fast and initiates
+the season of Christmastide, which historically in the West lasts twelve days
+and culminates on Twelfth Night; in some traditions, Christmastide includes an
+octave. Christmas Day is a public holiday in many of the world's nations,[http://www.pch.gc.ca/pgm/ceem-cced/jfa-ha/index-
+eng.cfm Canadian Heritage – Public holidays] – Government of Canada. Retrieved
+November 27, 2009.[http://www.opm.gov/Operating_Status_Schedules/fedhol/2009.asp
+2009 Federal Holidays] – U.S. Office of Personnel Management. Retrieved November
+27, 2009.[http://www.direct.gov.uk/en/Governmentcitizensandrights/LivingintheUK-
+/DG_073741 Bank holidays and British Summer time] – HM Government. Retrieved
+November 27, 2009. is celebrated religiously by a majority of Christians, as
+well as culturally by many non-Christians,Nick Hytrek, [http://www.siouxcityjournal.com/lifestyles/leisure/article_9914761e-ce50-11de-
+98cf-001cc4c03286.html "Non-Christians focus on secular side of Christmas"],
+Sioux City Journal, November 10, 2009. Retrieved November 18, 2009. and forms an
+integral part of the holiday season centered around it.
+
+The traditional Christmas narrative, the Nativity of Jesus, delineated in the
+New Testament says that Jesus was born in Bethlehem, in accordance with
+messianic prophecies. When Joseph and Mary arrived in the city, the inn had no
+room and so they were offered a stable where the Christ Child was soon born,
+with angels proclaiming this news to shepherds who then further disseminated the
+information.
+
+Although the month and date of Jesus' birth are unknown, the church in the early
+fourth century fixed the date as December 25.Corinna Laughlin, Michael R.
+Prendergast, Robert C. Rabe, Corinna Laughlin, Jill Maria Murdy, Therese Brown,
+Mary Patricia Storms, Ann E. Degenhard, Jill Maria Murdy, Ann E. Degenhard,
+Therese Brown, Robert C. Rabe, Mary Patricia Storms, Michael R. Prendergast, [h-
+ttps://books.google.com/books/about/Sourcebook_for_Sundays_Seasons_and_Weekd.ht-
+ml?id=kQWbWCXMGQgC Sourcebook for Sundays, Seasons, and Weekdays 2011: The
+Almanac for Pastoral Liturgy], LiturgyTrainingPublications, 2010, p. 29.[http:/-
+/www.tertullian.org/fathers/chronography_of_354_12_depositions_martyrs.htm "The
+Chronography of 354 AD. Part 12: Commemorations of the Martyrs"], The Tertullian
+Project. 2006. Retrieved November 24, 2011. This corresponds to the date of the
+solstice on the Roman calendar. Most Christians celebrate on December 25 in the
+Gregorian calendar, which has been adopted almost universally in the civil
+calendars used in countries throughout the world. However, some Eastern
+Christian Churches celebrate Christmas on December 25 of the older Julian
+calendar, which currently corresponds to a January date in the Gregorian
+calendar. For Christians, the belief that God came into the world in the form of
+man to atone for the sins of humanity, rather than the exact birth date, is
+considered to be the primary purpose in celebrating Christmas.
+
+The celebratory customs associated in various countries with Christmas have a
+mix of , Christian, and secular themes and origins. Popular modern customs of
+the holiday include gift giving, completing an Advent calendar or Advent wreath,
+Christmas music and caroling, lighting a Christingle, viewing a Nativity play,
+an exchange of Christmas cards, church services, a special meal, pulling
+Christmas crackers and the display of various Christmas decorations, including
+Christmas trees, Christmas lights, nativity scenes, garlands, wreaths,
+mistletoe, and holly. In addition, several closely related and often
+interchangeable figures, known as Santa Claus, Father Christmas, Saint Nicholas,
+and Christkind, are associated with bringing gifts to children during the
+Christmas season and have their own body of traditions and lore. Because gift-
+giving and many other aspects of the Christmas festival involve heightened
+economic activity, the holiday has become a significant event and a key sales
+period for retailers and businesses. The economic impact of Christmas has grown
+steadily over the past few centuries in many regions of the world.
+
+
+
+Answer: 'Christmas' is an annual festival, commemorating the birth of Jesus Christ,[http://www.merriam-
+.
+------------------------------------------------------
+
+
+User Question: When was George Washington born>
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+
+
+{{Infobox officeholder
+| image = Gilbert Stuart Williamstown Portrait of George Washington.jpg office =
+| 1st President of the United States vicepresident = John Adams term_start =
+| April 30, 1789}} term_end = March 4, 1797 predecessor = Office established
+| successor = John Adams office1 = 7th Senior Officer of the United States Army
+| president1 = John Adams term_start1 = July 13, 1798 term_end1 = December 14,
+| 1799 predecessor1 = James Wilkinson successor1 = Alexander Hamilton office2 =
+| Commander-in-Chief of the Continental Army appointer2 = Continental Congress
+| term_start2 = June 14, 1775 term_end2 = December 23, 1783 predecessor2 =
+| Office established successor2 = Henry Knox as Senior Officer office3 =
+| Delegate to the Continental Congressfrom Virginia term_start3 = May 10, 1775
+| term_end3 = June 15, 1775 constituency3 = predecessor3 = Office established
+| successor3 = Thomas Jefferson term_start4 = September 5, 1774 term_end4 =
+| October 26, 1774 constituency4 = First Continental Congress predecessor4 =
+| Office established successor4 = Office abolished office5 = Member of
+| theVirginia House of Burgesses term_start5 = May 18, 1761 term_end5 = May 6,
+| 1776 predecessor5 = Unknown successor5 = Office abolished constituency5 =
+| Fairfax County term_start6 = July 24, 1758 term_end6 = May 18, 1761
+| predecessor6 = Thomas Swearingen successor6 = George Mercer constituency6 =
+| Frederick County birth_date = birth_place = Popes Creek, Colony of Virginia,
+| British America death_date = }} death_place = Mount Vernon, Virginia, U.S.
+| party = Independent spouse = children = John (adopted) Patsy (adopted)
+| residence = Mount Vernon parents = Augustine WashingtonMary Ball Washington
+| awards = Congressional Gold MedalThanks of Congress signature = George
+| Washington signature.svg signature_alt = Cursive signature in ink allegiance =
+| branch = Colonial forces Continental Army serviceyears = 1752–58 (Colonial
+| forces)1775–83 (Continental Army)1798–99 (U.S. Army) rank = Colonel (Colonial
+| forces)General and Commander-in-Chief (Continental Army) (United States Army)
+| General of the Armies (promoted posthumously in 1976 by an Act of Congress)
+| commands = Virginia RegimentContinental ArmyUnited States Army battles =
+French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War }}
+
+
+'George Washington' (February 22, 1732}} – , 1799) was an American political
+leader, military general, statesman, and Founding Father who also served as the
+first president of the United States from 1789 to 1797. He led Patriot forces to
+victory in the nation's War of Independence, and he presided at the
+Constitutional Convention of 1787 which established the new federal government.
+He has been called the "Father of His Country" for his manifold leadership in
+the formative days of the new nation.
+
+Washington received his initial military training and command with the Virginia
+Regiment during the French and Indian War. He was later elected to the Virginia
+House of Burgesses and was named a delegate to the Continental Congress, where
+he was appointed Commanding General of the nation's Continental Army. Washington
+led American forces, allied with France, in the defeat and surrender of the
+British at Yorktown, and resigned his commission in 1783.
+
+Washington played a key role in the adoption and ratification of the
+Constitution and was then elected president by the Electoral College in the
+first two elections. He implemented a strong, well-financed national government
+while remaining impartial in a fierce rivalry between cabinet members Thomas
+Jefferson and Alexander Hamilton. During the French Revolution, he proclaimed a
+policy of neutrality while sanctioning the Jay Treaty. He set enduring
+precedents for the office of president, including the title "President of the
+United States", and his Farewell Address is widely regarded as a pre-eminent
+statement on republicanism.
+
+Washington utilized slave labor, owning and trading African American slaves, but
+he became troubled with the institution of slavery and freed them in his 1799
+will. He endeavored to assimilate Native Americans into Western culture, but
+responded to their brutality with military aggression. He was a member of the
+Anglican Church and the Freemasons, and he urged tolerance for all religions in
+his roles as general and president. Upon his death, he was eulogized as "first
+in war, first in peace, and first in the hearts of his countrymen." He has been
+memorialized by monuments, art, geographical locations, stamps, and currency,
+and many scholars and polls rank him among the top American presidents.
+
+
+
+Answer: 'George Washington' (February 22, 1732}} – , 1799) was an American political
+leader, military general, statesman, and Founding Father who also served as the
+first president of the United States from 1789 to 1797.
+------------------------------------------------------
+
+
+User Question: When was Claude monet born?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+
+{{Infobox artist
+| name = Claude Monet image = Claude Monet 1899 Nadar crop.jpg caption = Claude
+| Monet, photo by Nadar, 1899 birth_name = Oscar-Claude Monet birth_date =
+| birth_place = Paris, France death_date = death_place = Giverny, France
+| nationality = French field = Painter training = movement = Impressionism works
+| = [[Impression, Sunrise]][[Rouen cathedral (Monet painting)|Rouen Cathedral
+| series]][[London Parliament (Monet painting)|London Parliament series]][[Water
+| Lilies]][[Haystacks (Monet)|Haystacks]][[Poplar Series (Monet)|Poplars]]
+| patrons = Gustave Caillebotte, Ernest Hoschedé, Georges Clemenceau awards =
+}} 'Oscar-Claude Monet' (; ; 14 November 1840&nbsp;– 5 December 1926) was a
+French painter, a founder of French Impressionist painting and the most
+consistent and prolific practitioner of the movement's philosophy of expressing
+one's perceptions before nature, especially as applied to plein air landscape
+painting.House, John, et al.: Monet in the 20th century, page 2, Yale University
+Press, 1998. The term "Impressionism" is derived from the title of his painting
+Impression, soleil levant ([[Impression, Sunrise]]), which was exhibited in 1874
+in the first of the independent exhibitions mounted by Monet and his associates
+as an alternative to the Salon de Paris.
+
+Monet's ambition of documenting the French countryside led him to adopt a method
+of painting the same scene many times in order to capture the changing of light
+and the passing of the seasons. From 1883, Monet lived in Giverny, where he
+purchased a house and property and began a vast landscaping project which
+included lily ponds that would become the subjects of his best-known works. In
+1899, he began painting the water lilies, first in vertical views with a
+Japanese bridge as a central feature and later in the series of large-scale
+paintings that was to occupy him continuously for the next 20 years of his life.
+
+
+
+Answer: Monet's ambition of documenting the French countryside led him to adopt a method
+of painting the same scene many times in order to capture the changing of light
+and the passing of the seasons.
+------------------------------------------------------
+
+
+User Question: Where is Hyde Park?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+'Hyde Park' may refer to:
+
+
+
+Answer: 'Hyde Park' may refer to:
+.
+------------------------------------------------------
+
+
+User Question: Where are the alps?
+
+
+
+Search Was executed: 
+
+
+User Question: Where are the Alps?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+{{Infobox mountain |name=Alps |native_name= {{plainlist|
+*
+*
+*
+* }} |photo=Mont Blanc oct 2004.JPG |photo_caption= Mont Blanc, the highest
+  mountain in the Alps, view from the Savoy side |country = Austria |country1=
+  France |country2= Germany |country3= Italy |country4= Liechtenstein |country5=
+  Monaco |country6= Slovenia |country7= Switzerland |state_type=Region |region=
+  |border=| border1= |geology=Bündner schist | geology1=flysch |
+  geology2=molasse | period=Tertiary | orogeny=Alpine orogeny |area_km2= 200000
+  |length_km= 1200 |length_orientation= |width_km= 250 |width_orientation=
+  |highest=Mont Blanc
+| elevation_m = 4808.73 elevation_ref =
+|coordinates = |range_coordinates = |range_coordinates_note =
+|map_image=Alpenrelief 01.jpg | map_caption=Relief of the Alps. See also . }}
+
+ (Italy) are a UNESCO World Heritage Site.]]
+
+The 'Alps' (; ; ; ; ; ) are the highest and most extensive mountain range system
+that lies entirely in Europe,The Caucasus Mountains are higher, and the Urals
+longer, but both lie partly in Asia. separating Southern from Central and
+Western Europe and stretching approximately across eight Alpine countries (from
+west to east): France, Switzerland, Italy, Monaco, Liechtenstein, Austria,
+Germany, and Slovenia.[http://www.alpconv.org/index_en "Alpine Convention"].
+Alpine Conferences. Retrieved August 3, 2012 The mountains were formed over tens
+of millions of years as the African and Eurasian tectonic plates collided.
+Extreme shortening caused by the event resulted in marine sedimentary rocks
+rising by thrusting and folding into high mountain peaks such as Mont Blanc and
+the Matterhorn. Mont Blanc spans the French–Italian border, and at is the
+highest mountain in the Alps. The Alpine region area contains about a hundred
+peaks higher than {{convert.
+
+The altitude and size of the range affects the climate in Europe; in the
+mountains precipitation levels vary greatly and climatic conditions consist of
+distinct zones. Wildlife such as ibex live in the higher peaks to elevations of
+, and plants such as Edelweiss grow in rocky areas in lower elevations as well
+as in higher elevations. Evidence of human habitation in the Alps goes back to
+the Palaeolithic era. A mummified man, determined to be 5,000 years old, was
+discovered on a glacier at the Austrian–Italian border in 1991.
+
+By the 6th century BC, the Celtic La Tène culture was well established. Hannibal
+famously crossed the Alps with a herd of elephants, and the Romans had
+settlements in the region. In 1800, Napoleon crossed one of the mountain passes
+with an army of 40,000. The 18th and 19th centuries saw an influx of
+naturalists, writers, and artists, in particular, the Romantics, followed by the
+golden age of alpinism as mountaineers began to ascend the peaks.
+
+The Alpine region has a strong cultural identity. The traditional culture of
+farming, cheesemaking, and woodworking still exists in Alpine villages, although
+the tourist industry began to grow early in the 20th century and expanded
+greatly after World War II to become the dominant industry by the end of the
+century. The Winter Olympic Games have been hosted in the Swiss, French,
+Italian, Austrian and German Alps. At present, the region is home to 14 million
+people and has 120 million annual visitors.Chatré, Baptiste, et al. (2010), 8
+
+
+
+Answer: The 'Alps' (; ; ; ; ; ) are the highest and most extensive mountain range system
+that lies entirely in Europe,The Caucasus Mountains are higher, and the Urals
+longer, but both lie partly in Asia.
+------------------------------------------------------
+
+
+User Question: Where is Alps?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+{{Infobox mountain |name=Alps |native_name= {{plainlist|
+*
+*
+*
+* }} |photo=Mont Blanc oct 2004.JPG |photo_caption= Mont Blanc, the highest
+  mountain in the Alps, view from the Savoy side |country = Austria |country1=
+  France |country2= Germany |country3= Italy |country4= Liechtenstein |country5=
+  Monaco |country6= Slovenia |country7= Switzerland |state_type=Region |region=
+  |border=| border1= |geology=Bündner schist | geology1=flysch |
+  geology2=molasse | period=Tertiary | orogeny=Alpine orogeny |area_km2= 200000
+  |length_km= 1200 |length_orientation= |width_km= 250 |width_orientation=
+  |highest=Mont Blanc
+| elevation_m = 4808.73 elevation_ref =
+|coordinates = |range_coordinates = |range_coordinates_note =
+|map_image=Alpenrelief 01.jpg | map_caption=Relief of the Alps. See also . }}
+
+ (Italy) are a UNESCO World Heritage Site.]]
+
+The 'Alps' (; ; ; ; ; ) are the highest and most extensive mountain range system
+that lies entirely in Europe,The Caucasus Mountains are higher, and the Urals
+longer, but both lie partly in Asia. separating Southern from Central and
+Western Europe and stretching approximately across eight Alpine countries (from
+west to east): France, Switzerland, Italy, Monaco, Liechtenstein, Austria,
+Germany, and Slovenia.[http://www.alpconv.org/index_en "Alpine Convention"].
+Alpine Conferences. Retrieved August 3, 2012 The mountains were formed over tens
+of millions of years as the African and Eurasian tectonic plates collided.
+Extreme shortening caused by the event resulted in marine sedimentary rocks
+rising by thrusting and folding into high mountain peaks such as Mont Blanc and
+the Matterhorn. Mont Blanc spans the French–Italian border, and at is the
+highest mountain in the Alps. The Alpine region area contains about a hundred
+peaks higher than {{convert.
+
+The altitude and size of the range affects the climate in Europe; in the
+mountains precipitation levels vary greatly and climatic conditions consist of
+distinct zones. Wildlife such as ibex live in the higher peaks to elevations of
+, and plants such as Edelweiss grow in rocky areas in lower elevations as well
+as in higher elevations. Evidence of human habitation in the Alps goes back to
+the Palaeolithic era. A mummified man, determined to be 5,000 years old, was
+discovered on a glacier at the Austrian–Italian border in 1991.
+
+By the 6th century BC, the Celtic La Tène culture was well established. Hannibal
+famously crossed the Alps with a herd of elephants, and the Romans had
+settlements in the region. In 1800, Napoleon crossed one of the mountain passes
+with an army of 40,000. The 18th and 19th centuries saw an influx of
+naturalists, writers, and artists, in particular, the Romantics, followed by the
+golden age of alpinism as mountaineers began to ascend the peaks.
+
+The Alpine region has a strong cultural identity. The traditional culture of
+farming, cheesemaking, and woodworking still exists in Alpine villages, although
+the tourist industry began to grow early in the 20th century and expanded
+greatly after World War II to become the dominant industry by the end of the
+century. The Winter Olympic Games have been hosted in the Swiss, French,
+Italian, Austrian and German Alps. At present, the region is home to 14 million
+people and has 120 million annual visitors.Chatré, Baptiste, et al. (2010), 8
+
+
+
+Answer: The 'Alps' (; ; ; ; ; ) are the highest and most extensive mountain range system
+that lies entirely in Europe,The Caucasus Mountains are higher, and the Urals
+longer, but both lie partly in Asia.
+------------------------------------------------------
+
+
+User Question: Where is the Great Blue Hole?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+, Belize]]
+
+
+The 'Great Blue Hole' is a giant marine sinkhole off the coast of Belize. It
+lies near the center of Lighthouse Reef, a small atoll from the mainland and
+Belize City. The hole is circular in shape, across and deep.{{cite book
+|title=The Great Blue Hole of Lighthouse Reef Atoll, Belize, Central America:
+Deep Technical Diving to Collect Sea-Level Records |publisher=Transactions of
+the Fifteenth Caribbean Geological Conference. |url=https://encrypted.google.co-
+m/books?id=RZbjcQEvfN4C&pg=PA190&dq=great+blue+hole&hl=en&sa=X&ei=4ZSKUpaDJcPc4-
+AOd7ICgAw&ved=0CDsQ6AEwAQ#v=onepage&q=great%20blue%20hole&f=false}} It was
+formed during several episodes of quaternary glaciation when sea levels were
+much lower. Analysis of stalactites found in the Great Blue Hole shows that
+formation took place 153,000; 66,000; 60,000; and 15,000 years ago. As the ocean
+began to rise again, the cave was flooded.{{cite web |title=Belize Blue Hole
+reef |publisher=NASA
+|url=http://earthobservatory.nasa.gov/IOTD/view.php?id=37741&src=iotdrss }} The
+Great Blue Hole is a part of the larger Belize Barrier Reef Reserve System, a
+World Heritage Site of the United Nations Educational, Scientific and Cultural
+Organization (UNESCO). {{cite web |title=World Heritage Nomination – IUCN
+Summary Belize Barrier Reef Reserve System (Belize) |publisher=IUCN/WCMC
+|url=http://whc.unesco.org/archive/advisory_body_evaluation/764.pdf}}
+
+
+
+Answer: The 'Great Blue Hole' is a giant marine sinkhole off the coast of Belize.
+------------------------------------------------------
+
+
+User Question: Where is the Great Barrier Reef?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+Great Barrier Reef }}
+
+
+
+
+{{Infobox UNESCO World Heritage Site |WHS=Great Barrier Reef |Image=GreatBarrierReef-
+EO.JPG |Caption =Satellite image of part of the Great Barrier Reef adjacent to
+the Queensland coastal areas of Airlie Beach and Mackay. |ID=154 |Year=1981
+|Criteria=Natural: vii, viii, ix, x |Location=Off the east coast of the
+Queensland mainland, Australia |Coordinates= |Area= 34,870,000 ha
+|locmapin=Australia Queensland#Australia |map_caption=Centre of the Great
+Barrier Reef |Website= }}
+
+The 'Great Barrier Reef' is the world's largest coral reef system composed of
+over 2,900 individual reefsThe Great Barrier Reef World Heritage Area, which is
+348,000&nbsp;km squared, has 2900 reefs. However, this does not include the
+reefs found in the Torres Strait, which has an estimated area of 37,000&nbsp;km
+squared and with a possible 750 reefs and shoals. and 900 islands stretching for
+over over an area of approximately . The reef is located in the Coral Sea, off
+the coast of Queensland, Australia. The Great Barrier Reef can be seen from
+outer space and is the world's biggest single structure made by living
+organisms. This reef structure is composed of and built by billions of tiny
+organisms, known as coral polyps. It supports a wide diversity of life and was
+selected as a World Heritage Site in 1981. CNN labelled it one of the seven
+natural wonders of the world. The Queensland National Trust named it a state
+icon of Queensland.
+
+A large part of the reef is protected by the Great Barrier Reef Marine Park,
+which helps to limit the impact of human use, such as fishing and tourism. Other
+environmental pressures on the reef and its ecosystem include runoff, climate
+change accompanied by mass coral bleaching, dumping of dredging sludge and
+cyclic population outbreaks of the crown-of-thorns starfish. According to a
+study published in October 2012 by the [[Proceedings of the National Academy of
+Sciences]], the reef has lost more than half its coral cover since 1985.
+
+The Great Barrier Reef has long been known to and used by the Aboriginal
+Australian and Torres Strait Islander peoples, and is an important part of local
+groups' cultures and spirituality. The reef is a very popular destination for
+tourists, especially in the Whitsunday Islands and Cairns regions. Tourism is an
+important economic activity for the region, generating over AUD$3&nbsp;billion
+per year. In November 2014, Google launched Google Underwater Street View in 3D
+of the Great Barrier Reef.
+
+A March 2016 report stated that coral bleaching was more widespread than
+previously thought, seriously affecting the northern parts of the reef as a
+result of warming ocean temperatures. In October 2016, [[Outside
+(magazine)|Outside]] published an obituary for the reef; the article was
+criticized for being premature and hindering efforts to bolster the resilience
+of the reef. In March 2017, the journal [[Nature (journal)|Nature]] published a
+paper showing that huge sections of an 800-kilometre (500 mi) stretch in the
+northern part of the reef had died in the course of 2016 due to high water
+temperatures, an event that the authors put down to the effects of global
+climate change.
+
+
+
+Answer: The 'Great Barrier Reef' is the world's largest coral reef system composed of
+over 2,900 individual reefsThe Great Barrier Reef World Heritage Area, which is
+348,000&nbsp;km squared, has 2900 reefs.
+------------------------------------------------------
+
+
+User Question: What is a cat?
+
+
+
+Search Was executed: cat 
+
+
+Wiki Result: 
+
+
+
+
+
+
+
+{{Speciesbox |name= Domestic cat |status= DOM
+
+|image = Cat poster 1.jpg |image_upright = 1.2 |image_caption = Various types of
+domestic cat |genus = Felis |species = catus |authority =(Linnaeus, 1758)
+|synonyms= *F. catus domesticus *F. angorensis *F. vulgaris }} The 'cat' (Felis
+catus) is a small carnivorous mammal. It is the only domesticated species in the
+family Felidae and often referred to as the 'domestic cat' to distinguish it
+from wild members of the family. The cat is either a 'house cat', kept as a pet,
+or a '[[feral cat]]', freely ranging and avoiding human contact. A house cat is
+valued by humans for companionship and for its ability to hunt rodents. About 60
+cat breeds are recognized by various cat registries.
+
+Cats are similar in anatomy to the other felid species, with a strong flexible
+body, quick reflexes, sharp teeth and retractable claws adapted to killing small
+prey. They are predators who are most active at dawn and dusk (crepuscular).
+Cats can hear sounds too faint or too high in frequency for human ears, such as
+those made by mice and other small animals. Compared to humans, they see better
+in the dark (they see in near total darkness) and have a better sense of smell,
+but poorer color vision. Cats, despite being solitary hunters, are a social
+species. Cat communication includes the use of vocalizations including mewing,
+purring, trilling, hissing, growling and grunting as well as cat-specific body
+language. Cats also communicate by secreting and perceiving pheromones.
+
+Female domestic cats can have kittens from spring to late autumn, with litter
+sizes ranging from two to five kittens. Domestic cats can be bred and shown as
+registered pedigreed cats, a hobby known as cat fancy. Failure to control the
+breeding of pet cats by spaying and neutering, as well as abandonment of pets,
+has resulted in large numbers of feral cats worldwide, contributing to the
+extinction of entire bird species, and evoking population control.
+
+It was long thought that cat domestication was initiated in Egypt, because cats
+in ancient Egypt were venerated since around 3100 BC. However, the earliest
+indication for the taming of an African wildcat (F. lybica) was found in Cyprus,
+where a cat skeleton was excavated close by a human Neolithic grave dating to
+around 7500 BC. African wildcats were probably first domesticated in the Near
+East. The leopard cat (Prionailurus bengalensis) was tamed independently in
+China around 5500 BC, though this line of partially domesticated cats leaves no
+trace in the domestic cat populations of today.
+
+As of 2017, the domestic cat was the second-most popular pet in the U.S. by
+number of pets owned, after freshwater fish, with 95 million cats owned. As of
+2017, it was ranked the third-most popular pet in the UK, after fish and dogs,
+with around 8 million being owned. The number of cats in the UK has nearly
+doubled since 1965, when the cat population was 4.1 million.
+
+
+
+Answer: Cats are similar in anatomy to the other felid species, with a strong flexible
+body, quick reflexes, sharp teeth and retractable claws adapted to killing small
+prey.
+------------------------------------------------------
+
+
+User Question: what is a bird?
+
+
+
+Search Was executed: bird 
+
+
+Wiki Result: 
+
+
+
+
+
+
+{{Automatic taxobox |name = Birds |fossil_range = |image= File:Bird Diversity
+2013.png|300px rect 0 0 333 232 Red-crested turaco rect 0 232 333 470 Steller's
+sea eagle rect 0 696 333 470 Rock dove rect 0 928 333 700 Southern cassowary
+rect 0 1160 333 930 Gentoo penguin rect 0 1392 333 1160 Bar-throated minla
+
+rect 666 0 333 232 shoebill rect 666 232 333 470 grey crowned crane rect 666 696
+333 470 Anna's hummingbird rect 666 928 333 700 rainbow lorikeet rect 666 1160
+333 930 grey heron rect 666 1392 333 1160 Eurasian eagle-owl
+
+rect 999 0 333 232 white-tailed tropicbird rect 999 232 333 470 Indian peafowl
+rect 999 696 333 470 Atlantic puffin rect 999 928 333 700 American flamingo rect
+999 1160 333 930 blue-footed booby rect 999 1392 333 1160 keel-billed toucan
+
+|image_caption = Examples of various avian orders. Row 1: Red-crested turaco,
+shoebill, white-tailed tropicbirdRow 2: Steller's sea eagle, grey crowned crane,
+common peafowlRow 3: Great hornbill, Anna's hummingbird, Atlantic puffinRow 4:
+Southern cassowary, rainbow lorikeet, American flamingoRow 5: Gentoo penguin,
+grey heron, blue-footed boobyRow 6: Bar-throated minla, Eurasian eagle-owl, keel-
+billed toucan |taxon = Aves |authority = Linnaeus, 1758 |subdivision_ranks =
+Extant Orders and temporal range |subdivision =
+
+{{show
+|1=See orders 2=
+* Infraclass Palaeognathae ** Superorder Struthionimorphae *** Struthioniformes
+  (Ostrichs) – 58?–0 Mya, Late Paleocene?–Present ** Superorder
+  Notopalaeognathae *** Rheiformes (Rheas) – 56–0 Mya, Late Paleocene–Present
+  *** Tinamiformes (Tinamous) – 10–0 Mya, Middle Miocene–Present ***
+  Casuariiformes (Casowaries and Emus) – 58.7–0 Mya, Late Paleocene–Present ***
+  Apterygiformes (Kiwis) – 23.03–0 Mya, Early Miocene–Present
+* Infraclass Neognathae ** Superorder Galloanserae *** Galliformes (Gamebirds) –
+  45–0 Mya, Middle Eocene–Present *** Anseriformes (Waterfowl) – 71–0 Mya, Late
+  Cretaceous (Maastrichtian)–Present ** Superorder Neoaves ***
+  Phoenicopteriformes (Flamingos) – 50–0 Mya, Early Eocene–Present ***
+  Podicipediformes (Grebes) – 25–0 Mya, Late Oligocene–Present *** Columbiformes
+  (Pigeons and doves) – 23.03–0 Mya, Early Miocene–Present ***
+  Mesitornithiformes (Mesites) – No fossil records *** Pteroclidiformes
+  (Sandgrouse) – 33.9–0 Mya, Late Oligocene–Present *** Apodiformes (swifts,
+  treeswifts and hummingbirds) – 52–0 Mya, Early Eocene–Present ***
+  Caprimulgiformes (Nightjars, nighthawks, potoos, oilbirds, frogmouths and owlet-
+  nightjars) – 59.2–0 Mya, Middle Paleocene–Present *** Cuculiformes (Cuckoos,
+  anis, etc) – 34–0 Mya, Late Miocene–Present *** Otidiformes (Bustards,
+  floricans, etc) – 13–0 Mya, Middle Miocene–Present *** Musophagiformes
+  (Turacos and go-away-birds) – 24–0 Mya, Late Oligocene–Present ***
+  Opisthocomiformes (Hoatzin) – 33.9–0 Mya, Late Eocene–Present *** Gruiformes
+  (Cranes, crakes, rails, wood-rails, fluftais, gallinules, limpkins,
+  trumpeters, finfoots and sungrebes) – 66–0 Mya, Late Cretaceous
+  (Maastrichtian)–Present *** Charadriiformes (Plovers, crab plovers, lapwings,
+  seagulls, puffins, auks, sandipipers, buttonquails, stilts, avocets,
+  ibisbills, woodcocks, skuas, etc) – 75–0 Mya, Late Cretaceous
+  (Campanian)–Present *** Gaviiformes (Loons) – 70–0 Mya, Late Cretaceous
+  (Maastrichtian)–Present *** Procellariiformes (petrels, storm petrels,
+  albatrosses and diving petrels) – 33.9–0 Mya, Early Oligocene–Present ***
+  Sphenisciformes (penguins) – 62–0 Mya, Early Paleocene–Present ***
+  Ciconiiformes (storks, openbills and jabirus) – 30–0 Mya, Early
+  Oligocene–Present *** Suliformes (boobiess, gannets, fregatbirds, cormorants,
+  shags and anhigas) – 90–0 Mya, Late Cretaceous (Turonian)–Present ***
+  Pelecaniformes (pelicans, ibises, shoebills, egretts, herons, etc) – 66–0 Mya,
+  Late Cretaceous (Maastrichtian)–Present *** Eurypygiformes (sunbitterns and
+  kagu) – 56–0 Mya, Late Paleocene–Present *** Phaethontiformes (tropicbirds) –
+  58.7–0 Mya, Late Paleocene–Present *** Cathartiformes (New World vultures) –
+  41–0 Mya, Middle Eocene–Present *** Accipitriformes (eagles, Old World
+  vultures, secretary-birds, hawks, harriers, etc) – 47–0 Mya, Late
+  Eocene–Present *** Strigiformes (owls) – 30–0 Mya, Early Oligocene–Present ***
+  Coliiformes (mousebirds) – ~65–0 Mya, Early Paleocene–Present ***
+  Leptosomiformes (cuckoorollers) – No fossil record *** Trogoniformes (trogons
+  and quetzals) – 49–0 Mya, Early Eocene–Present *** Bucerotiformes (hornbills,
+  hoopoes and wood-hoopoes) – ~40–0 Mya, Middle Eocene–Present *** Coraciiformes
+  (rollers, bee eaters, todys, kingfishers, etc) – 41.2–0 Mya, Middle
+  Eocene–Present *** Piciformes (woodpeckers, flickers, toucans, aracaris,
+  motmots, etc) – 56–0 Mya, Early Eocene–Present *** Cariamiformes (seriema) –
+  66–0 Mya, Late Cretaceous (Maastrichtian)–Present *** Falconiformes (falcons
+  and caracaras) – 50–0 Mya, Early Eocene–Present *** Psittaciformes (parrots
+  and cockatoos) – 50–0 Mya, Early Eocene–Present *** Passeriformes (passerines)
+  – 52.5–0 Mya, Early Eocene–Present }}
+| synonyms =
+* Neornithes Gadow, 1883 }}
+
+'Birds', also known as 'Aves', are a group of endothermic vertebrates,
+characterised by feathers, toothless beaked jaws, the laying of hard-shelled
+eggs, a high metabolic rate, a four-chambered heart, and a strong yet
+lightweight skeleton. Birds live worldwide and range in size from the bee
+hummingbird to the ostrich. They rank as the world's most numerically-successful
+class of tetrapods, with approximately ten thousand living species, more than
+half of these being passerines, sometimes known as perching birds. Birds have
+which are more or less developed depending on the species; the only known groups
+without wings are the extinct moa and elephant birds. Wings, which evolved from
+forelimbs, gave birds the ability to fly, although further evolution has led to
+the loss of flight in flightless birds, including ratites, penguins, and diverse
+endemic island species of birds. The digestive and respiratory systems of birds
+are also uniquely adapted for flight. Some bird species of aquatic environments,
+particularly seabirds and some waterbirds, have further evolved for swimming.
+
+The fossil record demonstrates that birds are modern feathered dinosaurs, having
+evolved from earlier feathered dinosaurs within the theropod group, which are
+traditionally placed within the saurischian dinosaurs. The closest living
+relatives of birds are the crocodilians. Primitive bird-like dinosaurs that lie
+outside class Aves proper, in the broader group Avialae, have been found dating
+back to the mid-Jurassic period, around 170 million years ago. Many of these
+early "stem-birds", such as [[Archaeopteryx]], were not yet capable of fully
+powered flight, and many retained primitive characteristics like toothy jaws in
+place of beaks, and long bony tails. DNA-based evidence finds that birds
+diversified dramatically around the time of the Cretaceous–Palaeogene extinction
+event 66 million years ago, which killed off the pterosaurs and all the non-
+avian dinosaur lineages. But birds, especially those in the southern continents,
+survived this event and then migrated to other parts of the world while
+diversifying during periods of global cooling. This makes them the sole
+surviving dinosaurs according to cladistics.
+
+Some birds, especially corvids and parrots, are among the most intelligent
+animals; several bird species make and use tools, and many social species pass
+on knowledge across generations, which is considered a form of culture. Many
+species annually migrate great distances. Birds are social, communicating with
+visual signals, calls, and bird songs, and participating in such social
+behaviours as cooperative breeding and hunting, flocking, and mobbing of
+predators. The vast majority of bird species are socially monogamous (referring
+to social living arrangement, distinct from genetic monogamy), usually for one
+breeding season at a time, sometimes for years, but rarely for life. Other
+species have breeding systems that are polygynous (arrangement of one male with
+many females) or, rarely, polyandrous (arrangement of one female with many
+males). Birds produce offspring by laying eggs which are fertilised through
+sexual reproduction. They are usually laid in a nest and incubated by the
+parents. Most birds have an extended period of parental care after hatching.
+Some birds, such as hens, lay eggs even when not fertilised, though unfertilised
+eggs do not produce offspring.
+
+Many species of birds are economically important as food for human consumption
+and raw material in manufacturing, with domesticated and undomesticated birds
+(poultry and game) being important sources of eggs, meat, and feathers.
+Songbirds, parrots, and other species are popular as pets. Guano (bird
+excrement) is harvested for use as a fertiliser. Birds prominently figure
+throughout human culture. About 120–130 species have become extinct due to human
+activity since the 17th century, and hundreds more before then. Human activity
+threatens about 1,200 bird species with extinction, though efforts are underway
+to protect them. Recreational birdwatching is an important part of the
+ecotourism industry.
+
+
+
+Answer: rect 666 0 333 232 shoebill rect 666 232 333 470 grey crowned crane rect 666 696
+333 470 Anna's hummingbird rect 666 928 333 700 rainbow lorikeet rect 666 1160
+333 930 grey heron rect 666 1392 333 1160 Eurasian eagle-owlrect 999 0 333 232 white-tailed tropicbird rect 999 232 333 470 Indian peafowl
+rect 999 696 333 470 Atlantic puffin rect 999 928 333 700 American flamingo rect
+999 1160 333 930 blue-footed booby rect 999 1392 333 1160 keel-billed toucan'Birds', also known as 'Aves', are a group of endothermic vertebrates,
+characterised by feathers, toothless beaked jaws, the laying of hard-shelled
+eggs, a high metabolic rate, a four-chambered heart, and a strong yet
+lightweight skeleton.
 ------------------------------------------------------
 
 
@@ -187,162 +1766,88 @@ Answer: 'Fish' are gill-bearing aquatic craniate animals that lack limbs with di
 ------------------------------------------------------
 
 
-User Question: What is a dog?
+User Question: What is a Trigger Fish?
 
 
 
-Search Was executed: dog 
+Search Was executed: Trigger Fish 
+
+
+User Question: What is a triggerfish?
+
+
+
+Search Was executed: triggerfish 
 
 
 Wiki Result: 
 
+{{Taxobox
+| name = Triggerfish fossil_range = image = Picasso.triggerfish.arp.jpg
+| image_caption = Lagoon triggerfish regnum = Animalia phylum = Chordata classis
+| = Actinopterygii ordo = Tetraodontiformes familia = 'Balistidae'
+| familia_authority = A. Risso, 1810 subdivision_ranks = Genera subdivision =
+| [[Abalistes]]
+[[Balistapus]] [[Balistes]] [[Balistoides]] [[Canthidermis]] [[Melichthys]]
+[[Odonus]] [[Pseudobalistes]] [[Rhinecanthus]] [[Sufflamen]] [[Xanthichthys]]
+[[Xenobalistes]] }}
+
+'Triggerfishes' are about 40 species of often brightly colored fish of the
+family 'Balistidae'. Often marked by lines and spots, they inhabit tropical and
+subtropical oceans throughout the world, with the greatest species richness in
+the Indo-Pacific. Most are found in relatively shallow, coastal habitats,
+especially at coral reefs, but a few, such as the oceanic triggerfish
+(Canthidermis maculata), are pelagic. While several species from this family are
+popular in the marine aquarium trade, they are often notoriously ill-
+tempered.Lieske, E. & Myers, R. (1999): Coral Reef Fishes. 2nd edition.
+Princeton University Press. McDavid, J. (2007).
+[http://www.advancedaquarist.com/2007/7/fish Aquarium Fish: Triggerfish.]
+Advanced Aquarist.
 
 
 
-{{Subspeciesbox
-| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
-| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
-| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
-| species = lupus species_link = Gray wolf subspecies = familiaris authority =
-| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
-}} ]]
-
-The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
-genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
-sister taxa as modern wolves are not closely related to the wolves that were
-first domesticated, which implies that the direct ancestor of the dog is
-extinct. The dog was the first species to be domesticated and has been
-selectively bred over millennia for various behaviors, sensory capabilities, and
-physical attributes.
-
-Their long association with humans has led dogs to be uniquely attuned to human
-behavior and they are able to thrive on a starch-rich diet that would be
-inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
-species/ Why are different breeds of dogs all considered the same species? –
-Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
-perform many roles for humans, such as hunting, herding, pulling loads,
-protection, assisting police and military, companionship and, more recently,
-aiding disabled people and therapeutic roles. This influence on human society
-has given them the sobriquet of "man's best friend".
-
-
-
-Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
- (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore.
+Answer: 'Triggerfishes' are about 40 species of often brightly colored fish of the
+family 'Balistidae'.
 ------------------------------------------------------
 
 
-User Question: What is a dog?
+User Question: What is a moray eel?
 
 
 
-Search Was executed: dog 
-
-
-Wiki Result: 
-
-
-
-
-{{Subspeciesbox
-| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
-| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
-| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
-| species = lupus species_link = Gray wolf subspecies = familiaris authority =
-| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
-}} ]]
-
-The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
-genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
-sister taxa as modern wolves are not closely related to the wolves that were
-first domesticated, which implies that the direct ancestor of the dog is
-extinct. The dog was the first species to be domesticated and has been
-selectively bred over millennia for various behaviors, sensory capabilities, and
-physical attributes.
-
-Their long association with humans has led dogs to be uniquely attuned to human
-behavior and they are able to thrive on a starch-rich diet that would be
-inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
-species/ Why are different breeds of dogs all considered the same species? –
-Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
-perform many roles for humans, such as hunting, herding, pulling loads,
-protection, assisting police and military, companionship and, more recently,
-aiding disabled people and therapeutic roles. This influence on human society
-has given them the sobriquet of "man's best friend".
-
-
-
-Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
- (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore.
-------------------------------------------------------
-
-
-User Question: What is the Mona Lisa?
-
-
-
-Search Was executed: Mona Lisa 
+Search Was executed: moray eel 
 
 
 Wiki Result: 
-
-
-
-
-
-{{Infobox artwork
-| image_file=Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg alt=See
-| adjacent text. title=Mona Lisa other_language_1=Italian other_title_1=La
-| Gioconda other_language_2=French other_title_2=La Joconde artist=Leonardo da
-| Vinci subject=Lisa Gherardini year= 1503–1506, perhaps continuing until 1517
-| material=Oil on poplar panel height_metric=77 width_metric=53 city=Paris
-| museum=The Louvre Museum
+{{Taxobox
+| name = Moray eel image = Moray_eel.jpg image_caption = Moray eel in the
+| Maldives fossil_range = regnum = Animalia phylum = Chordata classis =
+| Actinopterygii superordo = Elopomorpha ordo = Anguilliformes familia =
+| 'Muraenidae' familia_authority = Rafinesque, 1810 subdivision_ranks = Genera
+| subdivision = See text.
 }}
 
-The 'Mona Lisa' (; or 'La Gioconda' , ) is a half-length portrait painting by
-the Italian Renaissance artist Leonardo da Vinci that has been described as "the
-best known, the most visited, the most written about, the most sung about, the
-most parodied work of art in the world." The Mona Lisa is also one of the most
-valuable paintings in the world. It holds the Guinness World Record for the
-highest known insurance valuation in history at US$100 million in 1962
-(equivalent to $ million in ).
+'Moray eels', or 'Muraenidae' (), are a family of eels whose members are found
+worldwide. There are approximately 200 species in 15 genera which are almost
+exclusively marine, but several species are regularly seen in brackish water,
+and a few are found in fresh water.
 
-The painting is a portrait of Lisa Gherardini, the wife of Francesco del
-Giocondo, and is in oil on a white Lombardy poplar panel. It had been believed
-to have been painted between 1503 and 1506; however, Leonardo may have continued
-working on it as late as 1517. Recent academic work suggests that it would not
-have been started before 1513. It was acquired by King Francis I of France and
-is now the property of the French Republic, on permanent display at the Louvre
-Museum in Paris since 1797.
-
-The subject's expression, which is frequently described as enigmatic, the
-monumentality of the composition, the subtle modelling of forms, and the
-atmospheric illusionism were novel qualities that have contributed to the
-continuing fascination and study of the work.
+The English name, from the early 17th century, derives from the Portuguese
+moréia, which itself derives from the Latin mūrēna, in turn from the Greek
+muraina, a kind of eel.
 
 
 
-Answer: The 'Mona Lisa' (; or 'La Gioconda' , ) is a half-length portrait painting by
-the Italian Renaissance artist Leonardo da Vinci that has been described as "the
-best known, the most visited, the most written about, the most sung about, the
-most parodied work of art in the world." The Mona Lisa is also one of the most
-valuable paintings in the world.
+Answer: 'Moray eels', or 'Muraenidae' (), are a family of eels whose members are found
+worldwide.
 ------------------------------------------------------
 
 
-User Question: What is a dog?
+User Question: What is yellow?
 
 
 
-Search Was executed: dog 
+Search Was executed: yellow 
 
 
 Wiki Result: 
@@ -350,48 +1855,62 @@ Wiki Result:
 
 
 
-{{Subspeciesbox
-| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
-| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
-| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
-| species = lupus species_link = Gray wolf subspecies = familiaris authority =
-| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
-}} ]]
+{{Infobox colour |title = Yellow |image= {{photomontage |photo1a=Aspen-PopulusTremuloides-2001-09-
+27.jpg |photo1b=Ochre quarry, Roussillon, France (465185258).jpg
+|photo1c=20130304FeteDuCitronMenton 010.jpg |photo2a=Bradley Wiggins, 2012 Tour
+de France finish.jpg |photo2b=清 佚名 《清仁宗嘉庆皇帝朝服像》.jpg |photo2c=Basil Soda Yellow
+Dress - Paris Haute Couture Spring-Summer 2012.jpg |photo3a=Cornwall
+Daffodils.jpg
+| size = 243 color_border = #009001 color = #000000 caption= foot_montage = }}
 
-The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
-genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
-sister taxa as modern wolves are not closely related to the wolves that were
-first domesticated, which implies that the direct ancestor of the dog is
-extinct. The dog was the first species to be domesticated and has been
-selectively bred over millennia for various behaviors, sensory capabilities, and
-physical attributes.
+ |wavelength=575–585 |frequency=521–512 |hex = FFFF00 |textcolour= purple
+ |spelling = Color |r=255|g=255|b=0 |c=0|m=0|y=100|k=0 |h=60|s=100|v=100
+ |source=HTML/CSS }}
 
-Their long association with humans has led dogs to be uniquely attuned to human
-behavior and they are able to thrive on a starch-rich diet that would be
-inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
-species/ Why are different breeds of dogs all considered the same species? –
-Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
-perform many roles for humans, such as hunting, herding, pulling loads,
-protection, assisting police and military, companionship and, more recently,
-aiding disabled people and therapeutic roles. This influence on human society
-has given them the sobriquet of "man's best friend".
+'Yellow' is the color between orange and green on the spectrum of visible light.
+It is evoked by light with a dominant wavelength of roughly 570590 nm. It is a
+primary color in subtractive color systems, used in painting or color printing.
+In the RGB color model, used to create colors on television and computer
+screens, yellow is a secondary color made by combining red and green at equal
+intensity. Carotenoids give the characteristic yellow color to autumn leaves,
+corn, canaries, daffodils, and lemons, as well as egg yolks, buttercups, and
+bananas. They absorb light energy and protect plants from photodamage. Sunlight
+has a slight yellowish hue, due to the surface temperature of the sun.
 
 
+Because it was widely available, yellow ochre pigment was one of the first
+colors used in art; the Lascaux cave in France has a painting of a yellow horse
+17,000 years old. Ochre and orpiment pigments were used to represent gold and
+skin color in Egyptian tombs, then in the murals in Roman villas. In the early
+Christian church, yellow was the color associated with the Pope and the golden
+keys of the Kingdom, but was also associated with Judas Iscariot and was used to
+mark heretics. In the 20th century, Jews in Nazi-occupied Europe were forced to
+wear a yellow star. In China, bright yellow was the color of the Middle Kingdom,
+and could be worn only by the Emperor and his household; special guests were
+welcomed on a yellow carpet.Cited in Eva Heller (2000), Psychologie de la
+couleur – effets et symboliques, p. 82.
 
-Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
-wolf or Canis familiaris when considered a distinct species) is a member of the
- (canines), which forms part of the wolf-like canids, and is the
-most widely abundant terrestrial carnivore.
+
+According to surveys in Europe, Canada, and the United States, yellow is the
+color people most often associate with amusement, gentleness, humor, and
+spontaneity, but also with duplicity, envy, jealousy, avarice, and, in the U.S.,
+with cowardice.Eva Heller (2000), Psychologie de la couleur – effets et
+symboliques, pp. 69–86. In Iran it has connotations of pallor/sickness, but also
+wisdom and connection. In China and many Asian countries, it is seen as the
+color of happiness, glory, harmony and wisdom.Eva Heller (2000), Psychologie de
+la couleur – effets et symboliques, pp. 69–86
+
+
+
+Answer: 'Yellow' is the color between orange and green on the spectrum of visible light.
 ------------------------------------------------------
 
 
-User Question: What is a car?
+User Question: What is a carrot?
 
 
 
-Search Was executed: car 
+Search Was executed: carrot 
 
 
 Wiki Result: 
@@ -400,185 +1919,1494 @@ Wiki Result:
 
 
 
-{{Infobox machine
-| name = Car image = caption = Modern cars and trucks driving on an expressway
-| in Ontario, Canada classification = Vehicle industry = Various application =
-| dimensions = weight = fuel_source = Gasoline, diesel, natural gas, electric,
-| hydrogen, solar, vegetable oil powered = Yes self-propelled = Yes wheels = 3–4
-| tracks = legs = aerofoils = axles = 2 components = invented = inventor = Karl
-| Benz examples =
-}} A 'car' (or 'automobile') is a wheeled motor vehicle used for transportation.
-Most definitions of car say they run primarily on roads, seat one to eight
-people, have four tires, and mainly transport people rather than goods.
-
-Cars came into global use during the 20th century, and developed economies
-depend on them. The year 1886 is regarded as the birth year of the modern car
-when German inventor Karl Benz patented his Benz Patent-Motorwagen. Cars became
-widely available in the early 20th century. One of the first cars accessible to
-the masses was the 1908 Model T, an American car manufactured by the Ford Motor
-Company. Cars were rapidly adopted in the US, where they replaced animal-drawn
-carriages and carts, but took much longer to be accepted in Western Europe and
-other parts of the world.
-
-Cars have controls for driving, parking, passenger comfort, and safety, and
-controlling a variety of lights. Over the decades, additional features and
-controls have been added to vehicles, making them progressively more complex.
-These include rear reversing cameras, air conditioning, navigation systems, and
-in-car entertainment. Most cars in use in the 2010s are propelled by an internal
-combustion engine, fueled by the combustion of fossil fuels. Electric cars,
-which were invented early in the history of the car, began to become
-commercially available in 2008.
-
-There are costs and benefits to car use. The costs include acquiring the
-vehicle, interest payments (if the car is financed), repairs and maintenance,
-fuel, depreciation, driving time, parking fees, taxes, and insurance. The costs
-to society include maintaining roads, land use, road congestion, air pollution,
-public health, health care, and disposing of the vehicle at the end of its life.
-Road traffic accidents are the largest cause of injury-related deaths worldwide.
-
-The benefits include on-demand transportation, mobility, independence, and
-convenience. The societal benefits include economic benefits, such as job and
-wealth creation from the automotive industry, transportation provision, societal
-well-being from leisure and travel opportunities, and revenue generation from
-the . People's ability to move flexibly from place to place has far-reaching
-implications for the nature of societies. There are around 1 billion cars in use
-worldwide. The numbers are increasing rapidly, especially in China, India and
-other newly industrialized countries.
-
-
-
-Answer: Cars came into global use during the 20th century, and developed economies
-depend on them.
-------------------------------------------------------
-
-
-User Question: Where is Walt Disney World?
-
-
-
-Search Was executed: 
-
-
-Wiki Result: 
-
-
-
-{{Infobox company
-| name = Walt Disney World Resort logo = Walt Disney World Logo 2018.svg image =
-| Magic Kingdom - Cinderella Castle panorama - by mrkathika.jpg image_caption =
-| industry = Theme parks and resorts founders = Walt and Roy Disney key_people =
-| George Kalogridis (President) num_employees = 74,000 parent = Disney Parks,
-| Experiences and Products(The Walt Disney Company) foundation = location = Lake
-| Buena Vista and Bay Lake, Florida, U.S. homepage =
+{{Infraspeciesbox
+| name = Carrot image = 13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-037.jpg
+| genus = Daucus species = carota subspecies = sativus authority = (Hoffm.)
+| Sch�bl. & G. Martens
 }}
 
+The 'carrot' ([[Daucus carota]] subsp. sativus) is a root vegetable, usually
+orange in colour, though purple, black, red, white, and yellow cultivars exist.
+Carrots are a domesticated form of the wild carrot, Daucus carota, native to
+Europe and southwestern Asia. The plant probably originated in Persia and was
+originally cultivated for its leaves and seeds. The most commonly eaten part of
+the plant is the taproot, although the stems and leaves are eaten as well. The
+domestic carrot has been selectively bred for its greatly enlarged, more
+palatable, less woody-textured taproot.
 
+The carrot is a biennial plant in the umbellifer family Apiaceae. At first, it
+grows a rosette of leaves while building up the enlarged taproot. Fast-growing
+cultivars mature within three months (90 days) of sowing the seed, while slower-
+maturing cultivars need a month longer (120 days). The roots contain high
+quantities of alpha- and beta-carotene, and are a good source of vitamin K and
+vitamin B6, but the belief that eating carrots improves night vision is a myth
+put forward by the British in World War II to mislead the enemy about their
+military capabilities.
 
-The 'Walt Disney World Resort', also called 'Walt Disney World' and 'Disney
-World', is an entertainment complex in Bay Lake and Lake Buena Vista, Florida,
-in the United States, near the cities Orlando and Kissimmee. Opened on October
-1, 1971, the resort is owned and operated by Disney Parks, Experiences and
-Products, a division of The Walt Disney Company. It was first operated by Walt
-Disney World Company. The property, which covers nearly , only half of which
-has been used, comprises four theme parks, two water parks, twenty-seven
-themed resort hotels, nine non-Disney hotels, several golf courses, a camping
-resort, and other entertainment venues, including the outdoor shopping center
-Disney Springs.
-
-Designed to supplement Disneyland, in Anaheim, California, which had opened in
-1955, the complex was developed by Walt Disney in the 1960s. "The Florida
-Project", as it was known, was intended to present a distinct vision with its
-own diverse set of attractions. Walt Disney's original plans also called for the
-inclusion of an "Experimental Prototype Community of Tomorrow" (EPCOT), a
-planned community intended to serve as a test bed for new city-living
-innovations. Walt Disney died on December 15, 1966, during construction of the
-complex. Without him spearheading the construction, the company built a resort
-similar to Disneyland, abandoning the experimental concepts for a planned
-community. Magic Kingdom was the first theme park to open in the complex, in
-1971, followed by Epcot (1982), Disney's Hollywood Studios (1989), and Disney's
-Animal Kingdom (1998).
-
-Today, Walt Disney World is the most visited vacation resort in the world, with
-average annual attendance of more than 52 million. The resort is the flagship
-destination of Disney's worldwide corporate enterprise and has become a popular
-staple in American culture.
+The United Nations Food and Agriculture Organization (FAO) reports that world
+production of carrots and turnips (these plants are combined by the FAO) for the
+calendar year 2013 was 37.2 million tonnes; almost half (~45%) were grown in
+China. Carrots are widely used in many cuisines, especially in the preparation
+of salads, and carrot salads are a tradition in many regional cuisines.
 
 
 
-Answer: The 'Walt Disney World Resort', also called 'Walt Disney World' and 'Disney
-World', is an entertainment complex in Bay Lake and Lake Buena Vista, Florida,
-in the United States, near the cities Orlando and Kissimmee.
+Answer: The carrot is a biennial plant in the umbellifer family Apiaceae.
 ------------------------------------------------------
 
 
-User Question: Where is Central Park?
+User Question: What is a beak?
 
 
 
-Search Was executed: 
+Search Was executed: beak 
+
+
+Wiki Result: 
+
+
+The 'beak', 'bill', and/or 'rostrum' is an external anatomical structure of
+birds that is used for eating and for preening, manipulating objects, killing
+prey, fighting, probing for food, courtship and feeding young. The terms beak
+and [[Rostrum (anatomy)|rostrum]] are also used to refer to a similar mouth part
+in some ornithischians, pterosaurs, turtles, cetaceans, dicynodonts, anuran
+tadpoles, sirens, pufferfishes, billfishes and cephalopods.
+
+Although beaks vary significantly in size, shape, color and texture, they
+share a similar underlying structure. Two bony projections—the upper and lower
+mandibles—are covered with a thin keratinized layer of epidermis known as the
+rhamphotheca. In most species, two holes known as nares lead to the
+respiratory system.
+
+
+
+Answer: The 'beak', 'bill', and/or 'rostrum' is an external anatomical structure of
+birds that is used for eating and for preening, manipulating objects, killing
+prey, fighting, probing for food, courtship and feeding young.
+------------------------------------------------------
+
+
+User Question: What is a desk?
+
+
+
+Search Was executed: desk 
+
+
+Wiki Result: 
+
+ in a home]] A 'desk' or 'bureau' is a piece of furniture with a flat table-
+ style work surface used in a school, office, home or the like for academic,
+ professional or domestic activities such as reading, writing, or using
+ equipment such as a computer. Desks often have one or more drawers,
+ compartments, or pigeonholes to store items such as office supplies and papers.
+ Desks are usually made of wood or metal, although materials such as glass are
+ sometimes seen.
+
+Some desks have the form of a table, although usually only one side of a desk is
+suitable to sit at (there are some exceptions, such as a partners desk), unlike
+most usual tables. Some desks do not have the form of a table, for instance, an
+armoire desk is a desk built within a large wardrobe-like cabinet, and a
+portable desk is light enough to be placed on a person's lap. Since many people
+lean on a desk while using it, a desk must be sturdy. In most cases, people sit
+at a desk, either on a separate chair or a built-in chair (e.g., in some school
+desks). Some people use standing desks to be able to stand while using them.
+
+
+
+Answer: A 'desk' or 'bureau' is a piece of furniture with a flat table-
+ style work surface used in a school, office, home or the like for academic,
+ professional or domestic activities such as reading, writing, or using
+ equipment such as a computer.
+------------------------------------------------------
+
+
+User Question: What is ribon eel?
+
+
+
+Search Was executed: ribon eel 
+
+
+User Question: What is a mask?
+
+
+
+Search Was executed: mask 
 
 
 Wiki Result: 
 
 
 
-{{Infobox park
-| name = Central Park photo = Southwest corner of Central Park, looking east,
-| NYC.jpg photo_width = 300px photo_caption = The Pond and Hallett Nature
-| Sanctuary in the park's southeast corner type = Urban park location =
-| Manhattan, New York City area = map_image = map_width = map_caption =
-| Interactive map showing location of Central Park coords = created = 1857 owner
-| = New York City Department of Parks and Recreation operator = Central Park
-| Conservancy visitation_num = about 37.5 million annually
+)]] , Germany]]
 
+A 'mask' is an object normally worn on the face, typically for protection,
+disguise, performance, or entertainment. Masks have been used since antiquity
+for both ceremonial and practical purposes, as well as in the performing arts
+and for entertainment. They are usually worn on the face, although they may also
+be positioned for effect elsewhere on the wearer's body.
 
-| status = Open all year embedded = {{Infobox NRHP embed = yes name = nrhp_type
-| = nhl image = built = architect = Frederick Law Olmsted (1822–1903), Calvert
-| Vaux (1824–1895) designated_nrhp_type = May 23, 1963 area = added = October
-| 15, 1966 refnum = 66000538
- }} }}
-
-'Central Park' is an urban park in Manhattan, New York City. It is located
-between the Upper West Side and Upper East Side, roughly bounded by Fifth
-Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park
-South (59th Street) on the south, and Central Park North (110th Street) on the
-north. Central Park is the most visited urban park in the United States, with
-40 million visitors in 2013, and one of the most filmed locations in the world.
-In terms of area, Central Park is the fifth largest park in New York City,
-covering .
-
-Central Park was first approved in 1853 as a . In 1857, landscape architect
-Frederick Law Olmsted and architect/landscape designer Calvert Vaux won a design
-competition to construct the park with a plan they titled the "Greensward Plan".
-Construction began the same year, and the park's first areas were opened to the
-public in late 1858. Additional land at the northern end of Central Park was
-purchased in 1859, and the park was completed in 1873. After a period of decline
-in the early 20th century, New York City parks commissioner Robert Moses started
-a program to clean up Central Park. Another decline in the late 20th century
-spurred the creation of the Central Park Conservancy in 1980, which refurbished
-many parts of the park during the 1980s and 1990s.
-
-Central Park was designated a National Historic Landmark by the U.S. Department
-of the Interior in 1963,https://npgallery.nps.gov/AssetDetail/NRIS/66000538 and
-it was placed on the tentative list for UNESCO World Heritage sites in April
-2017.[http://whc.unesco.org/en/tentativelists/6234/ Central Park], UNESCO
-tentative list The park, managed for decades by the New York City Department of
-Parks and Recreation, is currently managed by the Central Park Conservancy under
-contract with the municipal government in a public-private partnership. The
-Conservancy is a non-profit organization that contributes 75 percent of Central
-Park's $65 million annual budget and is responsible for all basic care of the
-843-acre park.
+More generally in art history, especially sculpture, "mask" is the term for a
+face without a body that is not modelled in the round (which would make it a
+"head"), but for example appears in low relief.
 
 
 
-Answer: 'Central Park' is an urban park in Manhattan, New York City.
+Answer: A 'mask' is an object normally worn on the face, typically for protection,
+disguise, performance, or entertainment.
 ------------------------------------------------------
 
 
-User Question: Who is Gary Clarke Jr.?
+User Question: What is a cytoplasma
 
 
 
-Search Was executed: 
+Search Was executed: cytoplasma
+
+
+User Question: What is cytoplasma
+
+
+
+Search Was executed: cytoplasma
+
+
+User Question: What is cytoplasm
+
+
+
+Search Was executed: cytoplasm
+
+
+Wiki Result: 
+
+
+
+In cell biology, the 'cytoplasm' is all of the material within a cell, enclosed
+by the cell membrane, except for the cell nucleus. The material inside the
+nucleus and contained within the nuclear membrane is termed the nucleoplasm. The
+main components of the cytoplasm are cytosol – a gel-like substance, the
+organelles – the cell's internal sub-structures, and various cytoplasmic
+inclusions. The cytoplasm is about 80% water and usually colorless.
+
+The submicroscopic ground cell substance, or cytoplasmatic matrix which remains
+after exclusion the cell organelles and particles is groundplasm. It is the
+hyaloplasm of light microscopy, and high complex, polyphasic system in which all
+of resolvable cytoplasmic elements of are suspended, including the larger
+organelles such as the ribosomes, mitochondria, the plant plastids, lipid
+droplets, and vacuoles.
+
+Most cellular activities take place within the cytoplasm, such as many metabolic
+pathways including glycolysis, and processes such as cell division. The
+concentrated inner area is called the endoplasm and the outer layer is called
+the cell cortex or the ectoplasm.
+
+Movement of calcium ions in and out of the cytoplasm is a signaling activity for
+metabolic processes.Hogan, C. Michael (2010).
+[http://www.eoearth.org/article/Calcium?topic=49557 "Calcium"] in Encyclopedia
+of Earth. A. Jorgensen, C. Cleveland (eds.). National Council for Science and
+the Environment.
+
+In plants, movement of the cytoplasm around vacuoles is known as cytoplasmic
+streaming.
+
+
+
+Answer: In cell biology, the 'cytoplasm' is all of the material within a cell, enclosed
+by the cell membrane, except for the cell nucleus.
+------------------------------------------------------
+
+
+User Question: [A
+
+
+
+------------------------------------------------------
+
+
+User Question: What is the nucleas?
+
+
+
+Search Was executed: nucleas 
+
+
+Wiki Result: 
+
+'Nucleus' (pl: nuclei) is a Latin word for the seed inside a fruit. It most
+often refers to:
+
+*Atomic nucleus, the very dense central region of an atom *Cell nucleus, a
+central organelle of a eukaryotic cell, containing most of the cell's DNA
+
+'Nucleus' may also refer to:
+
+
+
+Answer: 'Nucleus' (pl: nuclei) is a Latin word for the seed inside a fruit.
+------------------------------------------------------
+
+
+User Question: What is lunch?
+
+
+
+Search Was executed: lunch 
+
+
+Wiki Result: 
+
+
+
+
+
+
+
+
+'Lunch', the abbreviation for 'luncheon', is a meal eaten around midday. During
+the 20th century, the meaning gradually narrowed to a small or mid-sized meal
+eaten midday. Lunch is commonly the second meal of the day, after breakfast. The
+meal varies in size depending on the culture, and significant variations exist
+in different areas of the world.
+
+
+
+Answer: 'Lunch', the abbreviation for 'luncheon', is a meal eaten around midday.
+------------------------------------------------------
+
+
+User Question: What is a book?
+
+
+
+Search Was executed: book 
+
+
+Wiki Result: 
+
+
+
+
+
+
+
+As a physical object, a 'book' is a stack of usually rectangular pages (made of
+papyrus, parchment, vellum, or paper) oriented with one edge tied, sewn, or
+otherwise fixed together and then bound to the flexible spine of a protective
+cover of heavier, relatively inflexible material.IEILS, p. 41 The technical term
+for this physical arrangement is ''codex'' (in the plural, codices). In the
+history of hand-held physical supports for extended written compositions or
+records, the codex replaces its immediate predecessor, the scroll. A single
+sheet in a codex is a leaf, and each side of a leaf is a page.
+
+As an intellectual object, a book is prototypically a composition of such great
+length that it takes a considerable investment of time to compose and a still
+considerable, though not so extensive, investment of time to read. This sense of
+book has a restricted and an unrestricted sense. In the restricted sense, a book
+is a self-sufficient section or part of a longer composition, a usage that
+reflects the fact that, in antiquity, long works had to be written on several
+scrolls, and each scroll had to be identified by the book it contained. So, for
+instance, each part of Aristotle's [[Physics (Aristotle)|Physics]] is called a
+book, as of course the Bible encompasses many different books. In the
+unrestricted sense, a book is the compositional whole of which such sections,
+whether called books or chapters or parts, are parts.
+
+The intellectual content in a physical book need not be a composition, nor even
+be called a book. Books can consist only of drawings, engravings, or
+photographs, or such things as crossword puzzles or cut-out dolls. In a physical
+book the pages can be left blank or can feature an abstract set of lines as
+support for on-going entries, i.e., an account book, an appointment book, a log
+book, an autograph book, a notebook, a diary or day book, or a sketch book. Some
+physical books are made with pages thick and sturdy enough to support other
+physical objects, like a scrapbook or photograph album. Books may be distributed
+in electronic form as e-books and other formats.
+
+Although in ordinary academic parlance a monograph is understood to be a
+specialist academic work, rather than a reference work on a single scholarly
+subject, in library and information science monograph denotes more broadly any
+non-serial publication complete in one volume (book) or a finite number of
+volumes (even a novel like Proust's seven-volume [[In Search of Lost Time]]), in
+contrast to serial publications like a magazine, journal, or newspaper. An avid
+reader or collector of books or a book lover is a bibliophile or colloquially,
+"bookworm". A shop where books are bought and sold is a bookshop or bookstore.
+Books are also sold elsewhere. Books can also be borrowed from libraries. Google
+has estimated that as of 2010, approximately 130,000,000 distinct titles had
+been published. In some wealthier nations, the sale of printed books has
+decreased because of the use of e-books, though sales of e-books declined in the
+first half of 2015.
+
+
+
+Answer: As a physical object, a 'book' is a stack of usually rectangular pages (made of
+papyrus, parchment, vellum, or paper) oriented with one edge tied, sewn, or
+otherwise fixed together and then bound to the flexible spine of a protective
+cover of heavier, relatively inflexible material.IEILS, p.
+------------------------------------------------------
+
+
+User Question: What is a watch?
+
+
+
+Search Was executed: watch 
+
+
+Wiki Result: 
+
+
+
+
+
+A 'watch' is a timepiece intended to be carried or worn by a person. It is
+designed to keep working despite the motions caused by the person's activities.
+A 'wristwatch' is designed to be worn around the wrist, attached by a watch
+strap or other type of bracelet. A '[[pocket watch]]' is designed for a person
+to carry in a pocket. The study of timekeeping is known as horology.
+
+Watches progressed in the 17th&nbsp;century from spring-powered clocks, which
+appeared as early as the 14th&nbsp;century. During most of its history the watch
+was a mechanical device, driven by clockwork, powered by winding a mainspring,
+and keeping time with an oscillating balance wheel. These are called
+[[mechanical watch]]es. Christopher Ward QUARTZ VS AUTOMATIC|website=www.christopherward.com|access-date=2018-11-
+27}} Est.1897|website=est1897.co.uk|access-date=2018-11-27}} In the 1960s the
+electronic ''quartz watch'' was invented, which was powered by a battery and
+kept time with a vibrating quartz crystal. By the 1980s the quartz watch had
+taken over most of the market from the mechanical watch. Historically, this is
+called the quartz revolution. Developments in the 2010s include
+''smartwatches'', which are elaborate computer-like electronic devices designed
+to be worn on a wrist. They generally incorporate timekeeping functions, but
+these are only a small subset of the smartwatch's facilities.
+
+In general, modern watches often display the day, date, month and year. For
+mechanical watches, various extra features called "complications", such as
+moon-phase displays and the different types of tourbillon, are sometimes
+included.Wikipedia: sections under Functions. Most electronic quartz watches,
+on the other hand, include time-related features such as timers, chronographs
+and alarm functions. Furthermore, some modern smartwatches even incorporate
+calculators, GPS and Bluetooth technology or have heart-rate monitoring
+capabilities, and some of them use radio clock technology to regularly
+correct the time.
+
+Today, most watches in the market that are inexpensive and medium-priced, used
+mainly for timekeeping, have quartz movements. However, expensive collectible
+watches, valued more for their elaborate craftsmanship, aesthetic appeal and
+glamorous design than for simple timekeeping, often have traditional mechanical
+movements, even though they are less accurate and more expensive than electronic
+ones. As of 2018, the most expensive watch ever sold at auction is the Patek
+Philippe Henry Graves Supercomplication, which is the world's most complicated
+mechanical watch until 1989, fetching 24 million US dollars (23,237,000 CHF) in
+Geneva on November 11, 2014.
+
+
+
+Answer: A 'watch' is a timepiece intended to be carried or worn by a person.
+------------------------------------------------------
+
+
+User Question: What is a calander?
+
+
+
+Search Was executed: calander 
+
+
+Wiki Result: 
+
+
+
+
+
+
+
+
+
+A 'calender' is a series of hard pressure rollers used to finish or smooth a
+sheet of material such as paper, textiles, or plastics. Calender rolls are also
+used to form some types of plastic films and to apply coatings.{{cite patent
+| number =US5167894A title =Apparatus comprising an extruder and a calender for
+| producing sheets and/or foils from plastic or rubber mixtures pubdate =1992
+| inventor =Wilfried W. Baumgarten url
+| =https://patents.google.com/patent/US5167894A/en
+}} Some calender rolls are heated or cooled as needed.{{cite patent
+| number = US4425489A title =Electromagnetic heating system for calender rolls
+| or the like pubdate =1984 inventor =Pav, Lauscher url
+| =https://patents.google.com/patent/US4425489A/en
+}} Calenders are sometimes spelled calendars.
+
+
+
+Answer: A 'calender' is a series of hard pressure rollers used to finish or smooth a
+sheet of material such as paper, textiles, or plastics.
+------------------------------------------------------
+
+
+User Question: What is a bag?
+
+
+
+Search Was executed: bag 
+
+
+Wiki Result: 
+
+
+
+
+s) of coffee]]
+
+]] (Native American), late 19th or early 20th century, Brooklyn Museum]] ,
+Switzerland]]
+
+A 'bag' (also known regionally as a 'sack') is a common tool in the form of a
+non-rigid container. The use of bags predates recorded history, with the
+earliest bags being no more than lengths of animal skin, cotton, or woven plant
+fibers, folded up at the edges and secured in that shape with strings of the
+same material.Farid Chenoune, Carried Away: All About Bags (2005).
+
+Despite their simplicity, bags have been fundamental for the development of
+human civilization, as they allow people to easily collect loose materials such
+as berries or food grains, and to transport more items than could readily be
+carried in the hands. The word probably has its origins in the Norse word baggi,
+from the reconstructed Proto-Indo-European bʰak, but is also comparable to the
+Welsh baich (load, bundle), and the Greek βάσταγμα (bástagma, load).
+
+Cheap disposable paper bags and plastic shopping bags are very common in the
+retail trade as a convenience for shoppers, and are often supplied by the shop
+for free or for a small fee. Customers may also take their own shopping bags to
+use in shops. Although, paper had been used for purposes of wrapping and padding
+in ancient China since the 2nd century BC,Needham, Volume 4, 122. the first use
+of paper bags (for preserving the flavor of tea) in China came during the later
+Tang Dynasty (618–907 AD).
+
+
+
+Answer: A 'bag' (also known regionally as a 'sack') is a common tool in the form of a
+non-rigid container.
+------------------------------------------------------
+
+
+User Question: What is computer science?
+
+
+
+Search Was executed: computer science 
+
+
+Wiki Result: 
+
+
+
+
+
+
+{| style="border:1px solid #ccc;"
+|-
+|
+|
+|-
+|
+|
+|}
+Computer science deals with the theoretical foundations of computation and
+practical techniques for their application.
+
+
+
+
+'Computer science' is the study of processes that interact with data and that
+can be represented as data in the form of programs. It enables the use of
+algorithms to manipulate, store, and communicate digital information. A computer
+scientist studies the theory of computation and the practice of designing
+software systems.
+
+Its fields can be divided into theoretical and practical disciplines.
+Computational complexity theory is highly abstract, while computer graphics
+emphasizes real-world applications. Programming language theory considers
+approaches to the description of computational processes, while computer
+programming itself involves the use of programming languages and complex
+systems. Human–computer interaction considers the challenges in making computers
+useful, usable, and accessible.
+
+
+
+Answer: 'Computer science' is the study of processes that interact with data and that
+can be represented as data in the form of programs.
+------------------------------------------------------
+
+
+User Question: What is life?
+
+
+
+Search Was executed: life 
+
+
+Wiki Result: 
+
+
+
+
+
+{{automatic taxobox
+| name = Life fossil_range = image = Ruwenpflanzen.jpg image_upright = 1.2
+| image_caption = Plants in the Rwenzori Mountains, Uganda taxon = Life
+| authority = subdivision_ranks = Domains and Supergroups subdivision = Life
+| on Earth:
+* Non-cellular lifeThe "evolution" of viruses and other similar forms is still
+  uncertain. Therefore, this classification may be paraphyletic because cellular
+  life might have evolved from non-cellular life, or polyphyletic because the
+  most recent common ancestor might not be included. Infectious protein
+  molecules prions are not considered living organisms, but can be described as
+  "organism-comparable organic structures". ** VirusesCertain specific organism-
+  comparable organic structures may be considered subviral agents, including virus-
+  dependent entities: satellites and defective interfering particles, both of
+  which require another virus for their replication. ** Viroids
+* Cellular life ** Domain Bacteria ** Domain Archaea ** Domain Eukarya ***
+  Archaeplastida *** SAR *** Excavata *** Amoebozoa *** Opisthokonta }}
+
+
+
+'Life' is a characteristic that distinguishes physical entities that have
+biological processes, such as signaling and self-sustaining processes, from
+those that do not, either because such functions have ceased (they have died),
+or because they never had such functions and are classified as . Various forms
+of life exist, such as plants, animals, fungi, protists, archaea, and bacteria.
+The criteria can at times be ambiguous and may or may not define viruses,
+viroids, or potential synthetic life as "living". Biology is the science
+concerned with the study of life.
+
+There is currently no consensus regarding the definition of life. One popular
+definition is that organisms are open systems that maintain homeostasis, are
+composed of cells, have a life cycle, undergo metabolism, can grow, adapt to
+their environment, respond to stimuli, reproduce and evolve. However, several
+other definitions have been proposed, and there are some borderline cases of
+life, such as viruses or viroids.
+
+Abiogenesis is the natural process of life arising from non-living matter, such
+as simple organic compounds. The prevailing scientific hypothesis is that the
+transition from non-living to living entities was not a single event, but a
+gradual process of increasing complexity. Life on Earth first appeared as early
+as 4.28 billion years ago, soon after ocean formation 4.41 billion years ago,
+and not long after the formation of the Earth 4.54 billion years ago. The
+earliest known life forms are microfossils of bacteria. Researchers generally
+think that current life on Earth descends from an RNA world,*
+*
+* : "There is now strong evidence indicating that an RNA World did indeed exist
+  before DNA- and protein-based life."
+* : "[The RNA world's existence] has broad support within the community today."
+  although RNA-based life may not have been the first life to have existed. The
+  classic 1952 Miller–Urey experiment and similar research demonstrated that
+  most amino acids, the chemical constituents of the proteins used in all living
+  organisms, can be synthesized from inorganic compounds under conditions
+  intended to replicate those of the early Earth. Complex organic molecules
+  occur in the Solar System and in interstellar space, and these molecules may
+  have provided starting material for the development of life on Earth.
+
+Since its primordial beginnings, life on Earth has changed its environment on a
+geologic time scale, but it has also adapted to survive in most ecosystems and
+conditions. Some microorganisms, called extremophiles, thrive in physically or
+geochemically extreme environments that are detrimental to most other life on
+Earth. The cell is considered the structural and functional unit of life.[https://www.scribd.com/doc/14425949/Cell-The-Fundamental-Unit-of-
+Life Chapter-5, The Fundamental Unit of Life]. Monika Mehan. Scribd. There are
+two kinds of cells, prokaryotic and eukaryotic, both of which consist of
+cytoplasm enclosed within a membrane and contain many biomolecules such as
+proteins and nucleic acids. Cells reproduce through a process of cell division,
+in which the parent cell divides into two or more daughter cells.
+
+In the past, there have been many attempts to define what is meant by "life"
+through obsolete concepts such as odic force, hylomorphism, spontaneous
+generation and vitalism, that have now been disproved by biological discoveries.
+Aristotle was the first person to classify organisms. Later, Carl Linnaeus
+introduced his system of binomial nomenclature for the classification of
+species. Eventually new groups and categories of life were discovered, such as
+cells and microorganisms, forcing dramatic revisions of the structure of
+relationships between living organisms. Though currently only known on Earth,
+life need not be restricted to it, and many scientists speculate in the
+existence of extraterrestrial life. Artificial life is a computer simulation or
+man-made reconstruction of any aspect of life, which is often used to examine
+systems related to natural life.
+
+Death is the permanent termination of all biological functions which sustain an
+organism, and as such, is the end of its life. Extinction is the term describing
+the dying out of a group or taxon, usually a species. Fossils are the preserved
+remains or traces of organisms.
+
+
+
+Answer: 'Life' is a characteristic that distinguishes physical entities that have
+biological processes, such as signaling and self-sustaining processes, from
+those that do not, either because such functions have ceased (they have died),
+or because they never had such functions and are classified as .
+------------------------------------------------------
+
+
+User Question: What is the moon?
+
+
+
+Search Was executed: moon 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox planet
+| name = Moon apsis = gee symbol = image = FullMoon2010.jpg image_alt = Full
+| Moon in the darkness of the night sky. It is patterned with a mix of light-
+| tone regions and darker, irregular blotches, and scattered with varying sizes
+| of impact craters, circles surrounded by out-thrown rays of bright ejecta.
+| caption = Full moon seen from North America background = #ddd adjectives =
+| periapsis = &nbsp;km(–&nbsp;km) apoapsis = &nbsp;km(–&nbsp;km) semimajor = ()
+| eccentricity = period = }} synodic_period = }} avg_speed = inclination = }}
+| asc_node = arg_peri = satellite_of = Earth flattening = equatorial_radius = }}
+| polar_radius = }} mean_radius = }} circumference = }} surface_area = }} volume
+| = }} mass = of Earth's)}}}} density = × Earth surface_grav = )}}}}
+| moment_of_inertia_factor = escape_velocity= sidereal_day = }}
+
+| rot_velocity = axial_tilt = , BibCode: 1971Moon....2..293M}} epoch = J2000
+| right_asc_north_pole =
+  {{plainlist |
+*
+* 266.86°{{Cite journal |doi = 10.1007/s10569-010-9320-4 |title = Report of the
+  IAU Working Group on Cartographic Coordinates and Rotational Elements: 2009
+  |url = http://astropedia.astrogeology.usgs.gov/alfresco/d/d/workspace/SpacesS-
+  tore/28fd9e81-1964-44d6-a58b-fbbf61e64e15/WGCCRE2009reprint.pdf |journal =
+  Celestial Mechanics and Dynamical Astronomy |volume = 109 |issue = 2 |pages =
+  101–135 |year = 2010 |last1 = Archinal |first1 = Brent A. |last2 = A'Hearn
+  |first2 = Michael F. |last3 = Bowell |first3 = Edward G. |last4 = Conrad
+  |first4 = Albert R. |last5 = Consolmagno |first5 = Guy J. |display-authors = 5
+  |last6 = Courtin |first6 = Régis |last7 = Fukushima |first7 = Toshio |last8 =
+  Hestroffer |first8 = Daniel |last9 = Hilton |first9 = James L. |last10 =
+  Krasinsky |first10 = George A. |last11 = Neumann |first11 = Gregory A. |last12
+  = Oberst |first12 = Jürgen |last13 = Seidelmann |first13 = P. Kenneth |last14
+  = Stooke |first14 = Philip J. |last15 = Tholen |first15 = David J. |last16 =
+  Thomas |first16 = Paul C. |last17 = Williams |first17 = Iwan P. |bibcode =
+  2011CeMDA.109..101A |access-date = 24 September 2018 |archive-url = https://w-
+  eb.archive.org/web/20160304065344/http://astropedia.astrogeology.usgs.gov/alf-
+  resco/d/d/workspace/SpacesStore/28fd9e81-1964-44d6-a58b-
+  fbbf61e64e15/WGCCRE2009reprint.pdf |archive-date = 4 March 2016 |dead-url =
+  yes |df = dmy-all }} }}
+| declination = 65.64° albedo = 0.136 temp_name1 = Equator min_temp_1 = 100 K
+| mean_temp_1 = 220 K max_temp_1 = 390 K temp_name2 = 85°N&nbsp; min_temp_2 =
+| mean_temp_2 = 150 K max_temp_2 = 230 K magnitude = |−12.74}} angular_size = }}
+| atmosphere = yes atmosphere_ref = surface_pressure = Pa (1 picobar) |10 Pa (1
+| femtobar) }} atmosphere_composition =
+}}
+
+The 'Moon' is an astronomical body that orbits planet Earth and is Earth's only
+permanent natural satellite. It is the fifth-largest natural satellite in the
+Solar System, and the largest among planetary satellites relative to the size of
+the planet that it orbits (its primary). The Moon is after Jupiter's satellite
+Io the second-densest satellite in the Solar System among those whose densities
+are known.
+
+The Moon is thought to have formed about 4.51 billion years ago, not long after
+Earth. The most widely accepted explanation is that the Moon formed from the
+debris left over after a giant impact between Earth and a Mars-sized body
+called Theia.
+
+The Moon is in synchronous rotation with Earth, and thus always shows the same
+side to Earth, the near side. The near side is marked by dark volcanic maria
+that fill the spaces between the bright ancient crustal highlands and the
+prominent impact craters. After the Sun, the Moon is the second-brightest
+regularly visible celestial object in Earth's sky. Its surface is actually dark,
+although compared to the night sky it appears very bright, with a reflectance
+just slightly higher than that of worn asphalt. Its gravitational influence
+produces the ocean tides, body tides, and the slight lengthening of the day.
+
+The Moon's average orbital distance is , or 1.28 light-seconds. This is about
+thirty times the diameter of Earth. The Moon's apparent size in the sky is
+almost the same as that of the Sun, since the star is about 400 times the lunar
+distance and diameter. Therefore, the Moon covers the Sun nearly precisely
+during a total solar eclipse. This matching of apparent visual size will not
+continue in the far future because the Moon's distance from Earth is gradually
+increasing.
+
+The Moon was first reached in September 1959 by the Soviet Union's Luna 2, an
+unmanned spacecraft. The United States' NASA Apollo program achieved the only
+manned lunar missions to date, beginning with the first manned orbital mission
+by Apollo 8 in 1968, and six manned landings between 1969 and 1972, with the
+first being Apollo 11. These missions returned lunar rocks which have been used
+to develop a geological understanding of the Moon's origin, internal structure,
+and the Moon's later history. Since the Apollo 17 mission in 1972, the Moon has
+been visited only by unmanned spacecraft.
+
+Both the Moon's natural prominence in the earthly sky and its regular cycle of
+phases as seen from Earth have provided cultural references and influences for
+human societies and cultures since time immemorial. Such cultural influences can
+be found in language, lunar calendar systems, art, and mythology.
+
+
+
+Answer: The 'Moon' is an astronomical body that orbits planet Earth and is Earth's only
+permanent natural satellite.
+------------------------------------------------------
+
+
+User Question: What is the sun
+
+
+
+Search Was executed: sun
+
+
+Wiki Result: 
+
+
+
+
+
+
+
+{{Infobox
+| bodystyle = border-collapse:collapse title = Sun image = caption = Sun with
+| sunspots and limb darkening as seen in visible light with solar filter. image2
+| = caption2 = False-color photo of the Sun as seen in ultraviolet light
+| (wavelength of 30.4 nm) headerstyle = background:#FCC857 labelstyle =
+| padding:2px datastyle = padding:2px
+
+| header1 = Observation data label2 = Mean distancefrom Earth data2 = 1 au ≈
+| 8&nbsp;min 19&nbsp;s at light speed label3 = Visual brightness (V) data3 =
+| −26.74 label4 = Absolute magnitude data4 = 4.83 label5 = Spectral
+| classification data5 = G2V label6 = Metallicity data6 = Z = 0.0122 label7 =
+| Angular size data7 = 31.6–32.7 minutes of arc label8 = Adjectives data8 =
+| Solar header10 = Orbital characteristics label11 = Mean distancefrom Milky Way
+| core data11 = ≈ }} label12 = Galactic period data12 = (2.25–2.50) yr label13 =
+| Velocity data13 = ≈ (orbit around the center of the Milky Way) ≈ (relative to
+| average velocity of other stars in stellar neighborhood) ≈ (relative to the
+| cosmic microwave background)
+
+| header20 = Physical characteristics label21 = Equatorial radius data21 =
+| 695,700&nbsp;km, 696,342 km label22 = Equatorial circumference data22 = 109 ×
+| Earth{{cite web |title=Solar System Exploration: Planets: Sun: Facts & Figures
+| |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sun&Display=Facts-
+| &System=Metric |archiveurl=https://web.archive.org/web/20080102034758/http://-
+| solarsystem.nasa.gov/planets/profile.cfm?Object=Sun&Display=Facts&System=Metr-
+| ic |archivedate=2 January 2008 |publisher=NASA
+}}
+|  label23 = Flattening data23 = label24 = Surface area data24 = }} × Earth
+|  label25 = Volume data25 = }} × Earth label26 = Mass data26 = }} label27 =
+|  Average density data27 = × Earth label28 = Center density (modeled) data28 =
+|  × Earth label29 = Equatorial surface gravity data29 = 28 × Earth label30 =
+|  Moment of inertia factor data30 = (estimate) label31 = Escape velocity(from
+|  the surface) data31 = 55 × Earth label32 = Temperature data32 = Center
+|  (modeled): Photosphere (effective): }} Corona: ≈ label33 = Luminosity (Lsol)
+|  data33 = ≈ ≈ efficacy label34 = Color (B-V) data34 = 0.63 label35 = Mean
+|  radiance&nbsp;(Isol) data35 = label36 = Age data36 = ≈ 4.6 billion years
+
+| header40 = Rotation characteristics label41 = Obliquity data41 = 7.25°(to the
+| ecliptic)67.23°(to the galactic plane) label42 = Right ascensionof North pole
+| data42 = 286.13° label43 = Declinationof North pole data43 = +63.87°63° 52'
+| North label44 = Sidereal rotation period (at equator) data44 = 25.05 d label45
+| = (at 16° latitude) data45 = 25.38 d label46 = (at poles) data46 = 34.4 d
+| label47 = Rotation velocity(at equator) data47 =
+
+| header50 = Photospheric composition (by mass) label51 = Hydrogen data51 =
+| 73.46% Citing label52 = Helium data52 = 24.85% label53 = Oxygen data53 = 0.77%
+| label54 = Carbon data54 = 0.29% label55 = Iron data55 = 0.16% label56 = Neon
+| data56 = 0.12% label57 = Nitrogen data57 = 0.09% label58 = Silicon data58 =
+| 0.07% label59 = Magnesium data59 = 0.05% label60 = Sulfur data60 = 0.04%
+}}
+
+The 'Sun' is the star at the center of the Solar System. It is a nearly perfect
+sphere of hot plasma, {{Cite news |url=https://science.nasa.gov/science-news/science-at-
+nasa/2008/02oct_oblatesun/ |title=How Round is the Sun? |publisher=NASA |date=2
+October 2008 |accessdate=7 March 2011 }} {{Cite news |url=https://science.nasa.gov/science-news/science-at-
+nasa/2011/06feb_fullsun/ |title=First Ever STEREO Images of the Entire Sun
+|publisher=NASA |date=6 February 2011 |accessdate=7 March 2011 }} with internal
+convective motion that generates a magnetic field via a dynamo process. It is by
+far the most important source of energy for life on Earth. Its diameter is about
+1.39 million kilometers (864,000 miles), or 109 times that of Earth, and its
+mass is about 330,000 times that of Earth. It accounts for about 99.86% of the
+total mass of the Solar System. {{Cite journal |last=Woolfson |first=M.
+|date=2000 |title=The origin and evolution of the solar system
+|journal=Astronomy & Geophysics |volume=41 |issue=1 |page=12
+|bibcode=2000A&G....41a..12W |doi=10.1046/j.1468-4004.2000.00012.x |ref=harv }}
+Roughly three quarters of the Sun's mass consists of hydrogen (~73%); the rest
+is mostly helium (~25%), with much smaller quantities of heavier elements,
+including oxygen, carbon, neon, and iron. {{Cite journal |last=Basu |first=S.
+|last2=Antia |first2=H.M. |year=2008 |title=Helioseismology and Solar Abundances
+|journal=Physics Reports |volume=457 |issue=5–6 |pages=217–283 |arxiv=0711.4590
+|bibcode=2008PhR...457..217B |doi=10.1016/j.physrep.2007.12.002 |ref=harv }}
+
+The Sun is a G-type main-sequence star (G2V) based on its spectral class. As
+such, it is informally and not completely accurately referred to as a yellow
+dwarf (its light is closer to white than yellow). It formed approximately 4.6
+billionAll numbers in this article are short scale. One billion is 109, or
+1,000,000,000. years ago from the gravitational collapse of matter within a
+region of a large molecular cloud. Most of this matter gathered in the center,
+whereas the rest flattened into an orbiting disk that became the Solar System.
+The central mass became so hot and dense that it eventually initiated nuclear
+fusion in its core. It is thought that almost all stars form by this process.
+
+The Sun is roughly middle-aged; it has not changed dramatically for more than
+four billion years, and will remain fairly stable for more than another five
+billion years. It currently fuses about 600 million tons of hydrogen into helium
+every second, converting 4 million tons of matter into energy every second as a
+result. This energy, which can take between 10,000 and 170,000 years to escape
+from its core, is the source of the Sun's light and heat. In about 5 billion
+years, when hydrogen fusion in its core has diminished to the point at which the
+Sun is no longer in hydrostatic equilibrium, its core will undergo a marked
+increase in density and temperature while its outer layers expand to eventually
+become a red giant. It is calculated that the Sun will become sufficiently large
+to engulf the current orbits of Mercury and Venus, and render Earth
+uninhabitable. After this, it will shed its outer layers and become a dense type
+of cooling star known as a white dwarf, and no longer produce energy by fusion,
+but still glow and give off heat from its previous fusion.
+
+The enormous effect of the Sun on Earth has been recognized since prehistoric
+times, and the Sun has been regarded by some cultures as a deity. The synodic
+rotation of Earth and its orbit around the Sun are the basis of solar calendars,
+one of which is the predominant calendar in use today.
+
+
+
+Answer: The Sun is a G-type main-sequence star (G2V) based on its spectral class.
+------------------------------------------------------
+
+
+User Question: What is mars
+
+
+
+Search Was executed: mars
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox planet
+| name = Mars symbol = image = OSIRIS Mars true color.jpg image_alt = Mars
+| appears as a red-orange globe with darker blotches and white icecaps visible
+| on both of its poles. caption = Pictured in natural color in 2007 during its
+| February 2007 encounter. The view is centered on the Aeolis quadrangle, with
+| Gale crater, the landing site of the ''Curiosity'' rover, prominently visible
+| just left of center. The darker, more heavily cratered terrain in the south,
+| Terra Cimmeria, is composed of older terrain than the much smoother and
+| brighter Elysium Planitia to the north. Geologically recent processes, such as
+| the possible existence of a global ocean in Mars's past, could have helped lower-
+| elevated areas, such as Elysium Planitia, retain a more youthful look.}}
+| background = #f8f9fa pronounced = adjectives = Martian orbit_ref = epoch =
+| J2000 aphelion = perihelion = semimajor = eccentricity = period =
+| &nbsp;sols)}} synodic_period = avg_speed = inclination = to ecliptic; | the
+| Sun's equator; | to invariable plane}} asc_node = arg_peri = satellites = 2
+| allsatellites = yes mean_radius = (|)}} equatorial_radius = (|; 0.533
+| Earths)}} polar_radius = (|; 0.531 Earths)}} flattening = surface_area = (|;
+| 0.284 Earths)}} volume = (0.151 Earths) mass = (0.107 Earths) density =
+| surface_grav = (|; 0.3794&nbsp;[[g-force|g]])}} moment_of_inertia_factor =
+| escape_velocity = sidereal_day = rot_velocity = axial_tilt = to its orbital
+| plane right_asc_north_pole = declination = albedo = temp_name1 = Kelvin
+| min_temp_1 = 130&nbsp;K mean_temp_1 = 210&nbsp;K max_temp_1 = 308&nbsp;K
+| temp_name2 = Celsius min_temp_2 = −143&nbsp;°C mean_temp_2 = −63&nbsp;°C
+| max_temp_2 = 35&nbsp;°C temp_name3 = Fahrenheit min_temp_3 = −226&nbsp;°F
+| mean_temp_3 = −82&nbsp;°F max_temp_3 = 95&nbsp;°F magnitude = −2.94 to +1.86
+| angular_size = 3.5–25.1″ atmosphere_ref = surface_pressure = 0.636
+| (0.4–0.87)&nbsp;kPa atmosphere_composition = {{plainlist|
+* 95.97% carbon dioxide
+* 1.93% argon
+* 1.89% nitrogen
+* 0.146% oxygen
+* 0.0557% carbon monoxide }} }}
+
+'Mars' is the fourth planet from the Sun and the second-smallest planet in the
+Solar System after Mercury. In English, Mars carries a name of the Roman god of
+war, and is often referred to as the "'Red Planet'" because the reddish iron
+oxide prevalent on its surface gives it a reddish appearance that is
+distinctive among the astronomical bodies visible to the naked eye. Mars is a
+terrestrial planet with a thin atmosphere, having surface features reminiscent
+both of the impact craters of the Moon and the valleys, deserts, and polar ice
+caps of Earth.
+
+The days and seasons are likewise comparable to those of Earth, because the
+rotational period as well as the tilt of the rotational axis relative to the
+ecliptic plane are very similar. Mars is the site of Olympus Mons, the largest
+volcano and second-highest known mountain in the Solar System, and of Valles
+Marineris, one of the largest canyons in the Solar System. The smooth Borealis
+basin in the northern hemisphere covers 40% of the planet and may be a giant
+impact feature. Mars has two moons, Phobos and Deimos, which are small and
+irregularly shaped. These may be captured asteroids, similar to 5261 Eureka, a
+Mars trojan.
+
+There are ongoing investigations assessing the past habitability potential of
+Mars, as well as the possibility of extant life. Future astrobiology missions
+are planned, including the Mars 2020 and ExoMars rovers. Liquid water cannot
+exist on the surface of Mars due to low atmospheric pressure, which is less than
+1% of the Earth's, except at the lowest elevations for short periods. The two
+polar ice caps appear to be made largely of water. The volume of water ice in
+the south polar ice cap, if melted, would be sufficient to cover the entire
+planetary surface to a depth of . In November 2016, NASA reported finding a
+large amount of underground ice in the Utopia Planitia region of Mars. The
+volume of water detected has been estimated to be equivalent to the volume of
+water in Lake Superior.
+
+Mars can easily be seen from Earth with the naked eye, as can its reddish
+coloring. Its apparent magnitude reaches −2.94, which is surpassed only by
+Jupiter, Venus, the Moon, and the Sun. Optical ground-based telescopes are
+typically limited to resolving features about across when Earth and Mars are
+closest because of Earth's atmosphere.
+
+
+
+Answer: 'Mars' is the fourth planet from the Sun and the second-smallest planet in the
+Solar System after Mercury.
+------------------------------------------------------
+
+
+User Question: What is right?
+
+
+
+Search Was executed: right 
+
+
+Wiki Result: 
+
+
+
+'Rights' are legal, social, or ethical principles of freedom or entitlement;
+that is, rights are the fundamental normative rules about what is allowed of
+people or owed to people, according to some legal system, social convention, or
+ethical theory. Rights are of essential importance in such disciplines as law
+and ethics, especially theories of justice and deontology.
+
+Rights are often considered fundamental to civilization, for they are regarded
+as established pillars of society and culture,UN UDHR Preamble: "Whereas
+recognition of the inherent dignity and of the equal and inalienable rights of
+all members of the human family is the foundation of freedom, justice and peace
+in the world..." and the history of social conflicts can be found in the history
+of each right and its development. According to the Stanford Encyclopedia of
+Philosophy, "rights structure the form of governments, the content of laws, and
+the shape of morality as it is currently perceived".
+
+
+
+Answer: 'Rights' are legal, social, or ethical principles of freedom or entitlement;
+that is, rights are the fundamental normative rules about what is allowed of
+people or owed to people, according to some legal system, social convention, or
+ethical theory.
+------------------------------------------------------
+
+
+User Question: What is philosphy
+
+
+
+Search Was executed: philosphy
+
+
+Wiki Result: 
+
+
+
+'' (1509–1511) by Raphael, depicting famous classical Greek philosophers in an
+idealized setting inspired by ancient Greek architecture]]
+
+
+'Philosophy' (from Greek , philosophia, literally "love of wisdom") is the study
+of general and fundamental questions about existence, knowledge, values, reason,
+mind, and language. Such questions are often posed as problems to be studied or
+resolved. The term was probably coined by Pythagoras (c. 570 – 495 BCE).
+Philosophical methods include questioning, critical discussion, rational
+argument, and systematic presentation.|publisher=Open Court|isbn=978-0-8126-9412-
+3|location=Chicago, Ill.}} Classic philosophical questions include: Is it
+possible to know anything and to prove it?}}|publisher=A Bradford Book|isbn=978-0-262-52720-
+0|edition= 2nd|chapter=Chapters 1–6}} Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|access-
+date=25 April 2016}} What is most real? Philosophers also pose more practical
+and concrete questions such as: Is there a best way to live? Is it better to be
+just or unjust (if one can get away with it)? The Republic by Plato|website=classics.mit.edu|access-
+date=25 April 2016}} Do humans have free will? Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|access-
+date=25 April 2016}}
+
+Historically, "philosophy" encompassed any body of knowledge. From the time of
+Ancient Greek philosopher Aristotle to the 19th century, "natural philosophy"
+encompassed astronomy, medicine, and physics. For example, Newton's 1687
+[[Philosophiæ Naturalis Principia Mathematica|Mathematical Principles of Natural
+Philosophy]] later became classified as a book of physics. In the 19th century,
+the growth of modern research universities led academic philosophy and other
+disciplines to professionalize and specialize.|publisher=University Of Chicago
+Press|isbn=978-0-226-75021-7|edition= 1st}} In the modern era, some
+investigations that were traditionally part of philosophy became separate
+academic disciplines, including psychology, sociology, linguistics, and
+economics.
+
+Other investigations closely related to art, science, politics, or other
+pursuits remained part of philosophy. For example, is beauty objective or
+subjective? Loeb Classical Library|website=Loeb Classical Library|access-date=27
+April 2016}} Are there many scientific methods or just one?|publisher=Verso|isbn=978-1-84467-442-
+8|edition= 4th}} Is political utopia a hopeful dream or hopeless fantasy?
+Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|access-date=25 April
+2016}} Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|access-
+date=25 April 2016}}|publisher=Courier Corporation|isbn=978-0-486-11070-
+7|language=English}} Major sub-fields of academic philosophy include metaphysics
+("concerned with the fundamental nature of reality and being"), epistemology
+(about the "nature and grounds of knowledge [and]...its limits and validity"),
+ethics, aesthetics, political philosophy, logic and philosophy of science.
+
+
+
+Answer: '' (1509–1511) by Raphael, depicting famous classical Greek philosophers in an
+Historically, "philosophy" encompassed any body of knowledge.
+------------------------------------------------------
+
+
+User Question: What is pollen?
+
+
+
+Search Was executed: pollen 
+
+
+Wiki Result: 
+
+
+ with many grains of pollen]]
+
+ image (500x magnification) of pollen grains from a variety of common plants:
+ sunflower ([[Helianthus annuus]]), morning glory ([[Ipomoea purpurea]]),
+ prairie hollyhock ([[Sidalcea malviflora]]), oriental lily ([[Lilium
+ auratum]]), evening primrose ([[Oenothera fruticosa]]), and castor bean
+ ([[Ricinus communis]]).]]
+
+'Pollen' is a fine to coarse powdery substance comprising pollen grains which
+are male microgametophytes of seed plants, which produce male gametes (sperm
+cells). Pollen grains have a hard coat made of sporopollenin that protects the
+gametophytes during the process of their movement from the stamens to the pistil
+of flowering plants, or from the male cone to the female cone of coniferous
+plants. If pollen lands on a compatible pistil or female cone, it germinates,
+producing a pollen tube that transfers the sperm to the ovule containing the
+female gametophyte. Individual pollen grains are small enough to require
+magnification to see detail. The study of pollen is called palynology and is
+highly useful in paleoecology, paleontology, archaeology, and forensics. Pollen
+in plants is used for transferring haploid male genetic material from the anther
+of a single flower to the stigma of another in cross-pollination. In a case of
+self-pollination, this process takes place from the anther of a flower to the
+stigma of the same flower.
+
+Pollen is commonly used as food and food supplement. However, because of
+agricultural practices, it is often contaminated by agricultural pesticides.
+
+
+
+Answer: 'Pollen' is a fine to coarse powdery substance comprising pollen grains which
+are male microgametophytes of seed plants, which produce male gametes (sperm
+cells).
+------------------------------------------------------
+
+
+User Question: What is a nose-bleed?
+
+
+
+Search Was executed: nose-bleed 
+
+
+User Question: What is music?
+
+
+
+Search Was executed: music 
+
+
+Wiki Result: 
+
+
+
+
+{{Infobox performing art
+| name = Music image = Music lesson Staatliche Antikensammlungen 2421.jpg
+| caption = A painting on an ancient Greek vase depicts a music lesson (c.
+| 510&nbsp;BC). medium = Sound, silence, time types = ancestor = descendant =
+| culture = Various era = Paleolithic era
+}}
+
+'Music' is an art form and cultural activity whose medium is sound organized in
+time. General definitions of music include common elements such as pitch (which
+governs melody and harmony), rhythm (and its associated concepts tempo, meter,
+and articulation), dynamics (loudness and softness), and the sonic qualities of
+timbre and texture (which are sometimes termed the "color" of a musical sound).
+Different styles or types of music may emphasize, de-emphasize or omit some of
+these elements. Music is performed with a vast range of instruments and vocal
+techniques ranging from singing to rapping; there are solely instrumental
+pieces, solely vocal pieces (such as songs without instrumental accompaniment)
+and pieces that combine singing and instruments. The word derives from Greek
+(mousike; "art of the Muses"). See glossary of musical terminology.
+
+In its most general form, the activities describing music as an art form or
+cultural activity include the creation of works of music (songs, tunes,
+symphonies, and so on), the criticism of music, the study of the history of
+music, and the aesthetic examination of music. Ancient Greek and Indian
+philosophers defined music as tones ordered horizontally as melodies and
+vertically as harmonies. Common sayings such as "the harmony of the spheres" and
+"it is music to my ears" point to the notion that music is often ordered and
+pleasant to listen to. However, 20th-century composer John Cage thought that any
+sound can be music, saying, for example, "There is no noise, only sound."
+
+The creation, performance, significance, and even the definition of music vary
+according to culture and social context. Indeed, throughout history, some new
+forms or styles of music have been criticized as "not being music", including
+Beethoven's [[Grosse Fuge]] string quartet in 1825,Watson 2009, 109–10. early
+jazz in the beginning of the 1900sReiland Rabaka. Hip Hop's Amnesia: From Blues
+and the Black Women's Club Movement to Rap and the [[Hip Hop Movement]].
+Lexington Books, 2012. p. 103 and hardcore punk in the 1980s.Manabe, Noriko. The
+Revolution Will Not Be Televised: Protest Music After Fukushima. Oxford
+University Press, 2015. p. 163. There are many types of music, including popular
+music, traditional music, art music, music written for religious ceremonies and
+work songs such as chanteys. Music ranges from strictly organized
+compositions–such as Classical music symphonies from the 1700s and 1800s,
+through to spontaneously played improvisational music such as jazz, and avant-
+garde styles of chance-based contemporary music from the 20th and 21st
+centuries.
+
+Music can be divided into genres (e.g., country music) and genres can be further
+divided into subgenres (e.g., country blues and pop country are two of the many
+country subgenres), although the dividing lines and relationships between music
+genres are often subtle, sometimes open to personal interpretation, and
+occasionally controversial. For example, it can be hard to draw the line between
+some early 1980s hard rock and heavy metal. Within the arts, music may be
+classified as a performing art, a fine art or as an auditory art. Music may be
+played or sung and heard live at a rock concert or orchestra performance, heard
+live as part of a dramatic work (a music theater show or opera), or it may be
+recorded and listened to on a radio, MP3 player, CD player, smartphone or as
+film score or TV show.
+
+In many cultures, music is an important part of people's way of life, as it
+plays a key role in religious rituals, rite of passage ceremonies (e.g.,
+graduation and marriage), social activities (e.g., dancing) and cultural
+activities ranging from amateur karaoke singing to playing in an amateur funk
+band or singing in a community choir. People may make music as a hobby, like a
+teen playing cello in a youth orchestra, or work as a professional musician or
+singer. The music industry includes the individuals who create new songs and
+musical pieces (such as songwriters and composers), individuals who perform
+music (which include orchestra, jazz band and rock band musicians, singers and
+conductors), individuals who record music (music producers and sound engineers),
+individuals who organize concert tours, and individuals who sell recordings,
+sheet music, and scores to customers.
+
+
+
+Answer: 'Music' is an art form and cultural activity whose medium is sound organized in
+time.
+------------------------------------------------------
+
+
+User Question: What is baroque
+
+
+
+Search Was executed: baroque
+
+
+Wiki Result: 
+
+
+{{Infobox art movement
+| name = The Baroque image = {{photomontage
+|photo1a=Bernini Baldachino.jpg |photo1b= |photo1c= |photo2a= |photo2b=LouisXIV-
+Bernini.jpg |photo2c=Peter Paul Rubens - The Adoration of the Magi -
+WGA20244.jpg |photo3a=Wieskirche 003.JPG |photo3b= |photo3c=
+| size = 300 color_border = #AAAAAA color = #F9F9F9 caption= foot_montage = }}
+| alt = caption = Baldachin of St. Peter's Basilica by Bernini; Louis XIV by
+| Bernini; Adoration of the Magi by Peter Paul Rubens; Wieskirche, Bavaria
+| yearsactive = 17th–18th century country = Europe and Latin America
+}}
+
+The 'Baroque' (, ) is a highly ornate and often extravagant style of
+architecture, music, painting, sculpture and other arts that flourished in
+Europe from the early 17th until the mid-18th century. It followed the
+Renaissance style and preceded the Rococo (in the past often referred to as
+"late Baroque") and Neoclassical styles. It was encouraged by the Catholic
+Church as a means to counter the simplicity and austerity of Protestant
+architecture, art and music, though Lutheran Baroque art developed in parts of
+Europe as well. The Baroque style used contrast, movement, exuberant detail,
+deep colour, grandeur and surprise to achieve a sense of awe. The style began at
+the start of the 17th century in Rome, then spread rapidly to France, northern
+Italy, Spain and Portugal, then to Austria and southern Germany. By the 1730s,
+it had evolved into an even more flamboyant style, called [[rocaille]] or
+[[Rococo]], which appeared in France and central Europe until the mid to late
+18th century.
+
+
+
+Answer: The 'Baroque' (, ) is a highly ornate and often extravagant style of
+architecture, music, painting, sculpture and other arts that flourished in
+Europe from the early 17th until the mid-18th century.
+------------------------------------------------------
+
+
+User Question: What is classical music?
+
+
+
+Search Was executed: classical music 
+
+
+Wiki Result: 
+
+
+ performing for the Mozart Year 2006 in Vienna]] 'Classical music' is art music
+ produced or rooted in the traditions of Western culture, including both
+ liturgical (religious) and secular music. While a more precise term is also
+ used to refer to the period from 1750 to 1820 (the Classical period), this
+ article is about the broad span of time from before the 6th century AD to the
+ present day, which includes the Classical period and various other
+ periods."Classical", The Oxford Concise Dictionary of Music, ed. Michael
+ Kennedy, (Oxford, 2007), Oxford Reference Online. Retrieved July 23, 2007. The
+ central norms of this tradition became codified between 1550 and 1900, which is
+ known as the common-practice period. The major time divisions of Western art
+ music are as follows:
+* the ancient music period, before 500 AD
+* the early music period, which includes ** the Medieval (500–1400) including
+  *** the ars antiqua (1170–1310) *** the ars nova (1310–1377) *** the ars
+  subtilior (1360–1420) ** the Renaissance (1400–1600) eras. ** Baroque
+  (1600–1750) ** the galant music period (1720s–1770s)
+* the common-practice period, which includes ** Baroque (1600–1750) ** the
+  galant music period (1720s–1770s) ** Classical (1750–1820) ** Romantic eras
+  (c.1780–1910)
+* the 20th and 21st centuries (1901–present) which includes: ** the modern
+  (1890–1930) that overlaps from the late-19th century, ** impressionism (1875
+  or 1890–1925) that also overlaps from the late-19th century ** neoclassicism
+  (1920–1950), predominantly in the inter-war period ** the high modern
+  (1930–present) ** the postmodern (1930–present) eras ** the experimental
+  (1950–present) ** contemporary (1945 or 1975–present)
+
+European art music is largely distinguished from many other non-European
+classical and some popular musical forms by its system of staff notation, in use
+since about the 11th century. Catholic monks developed the first forms of modern
+European musical notation in order to standardize liturgy throughout the
+worldwide Church. Western staff notation is used by composers to indicate to the
+performer the pitches (which form the melodies, basslines and chords), tempo,
+metre and rhythms for a piece of music. This can leave less room for practices
+such as improvisation and [[ad libitum]] ornamentation, which are frequently
+heard in non-European art music and in popular-music styles such as jazz and
+blues. Another difference is that whereas most popular styles adopt the song
+(strophic) form or a derivation of this form, classical music has been noted for
+its development of highly sophisticated forms of instrumental music such as the
+symphony, concerto, fugue, sonata, and mixed vocal and instrumental styles such
+as opera, cantata, and mass.Julian Johnson (2002) Who Needs Classical Music?:
+Cultural Choice and Musical Value: p. 63.
+
+The term "classical music" did not appear until the early 19th century, in an
+attempt to distinctly canonize the period from Johann Sebastian Bach to Ludwig
+van Beethoven as a golden age.Rushton, Julian, Classical Music, (London, 1994),
+10 The earliest reference to "classical music" recorded by the [[Oxford English
+Dictionary]] is from about 1829.
+
+
+
+Answer: 'Classical music' is art music
+ produced or rooted in the traditions of Western culture, including both
+ liturgical (religious) and secular music.
+------------------------------------------------------
+
+
+User Question: What is tame?
+
+
+
+Search Was executed: tame 
+
+
+Wiki Result: 
+
+'Tame' may refer to:
+
+*Taming, the act of training wild animals *River Tame, Greater Manchester *River
+Tame, West Midlands and the Tame Valley *Tame, Arauca, a Colombian town and
+municipality *"Tame" (song), a song by the Pixies from their 1989 album
+Doolittle *TAME (IATA code: EQ), flag carrier of Ecuador *tert-Amyl methyl
+ether, an oxygenated chemical compound often added to gasoline. *Tame.it, a
+context search engine for Twitter *Tame, a variety of the Idi language of Papua
+New Guinea *Tame (surname), people with the surname
+
+
+
+Answer: 'Tame' may refer to:.
+------------------------------------------------------
+
+
+User Question: What is temperment?
+
+
+
+Search Was executed: temperment 
+
+
+User Question: What is temperament?
+
+
+
+Search Was executed: temperament 
+
+
+Wiki Result: 
+
+
+
+In psychology, 'temperament' broadly refers to consistent individual differences
+in behavior that are biologically based and are relatively independent of
+learning, system of values and attitudes. Some researchers point to association
+of temperament with formal dynamical features of behavior, such as energetic
+aspects, plasticity, sensitivity to specific reinforcers and emotionality.
+Temperament traits (such as Neuroticism, Sociability, Impulsivity, etc.) remain
+its distinct patterns in behavior throughout adulthood but they are most
+noticeable and most studied in children. Babies are typically described by
+temperament, but longitudinal research in the 1920s began to establish
+temperament as something which is stable across the lifespan.
+
+Although a broad definition of temperament is agreed upon, many classification
+schemes for temperament have been developed, and there is no consensus.
+
+Historically, the concept of temperament (originally "temperamentums" in Latin
+means "mixtures") was a part of the theory of the four humors, with their
+corresponding four temperaments.
+
+This historical concept was explored by philosophers, psychologists,
+psychiatrists and psycho-physiologists from very early times of psychological
+science, with theories proposed by Immanuel Kant, Hermann Lotze, Ivan Pavlov,
+Carl Jung, Gerardus Heymans among others.
+
+More recently, scientists seeking evidence of a biological basis of personality
+have further examined the relationship between temperament and neurotransmitter
+systemsDepue, R. & Fu, Y. (2012) Neurobiology and neurochemistry of temperament
+in adults. In: Zentner, M. & Shiner, R. (Eds.) Handbook of Temperament. NY:
+Guilford Publications, 368-399. (2012). and character (defined in this context
+as developmental aspects of personality). However, biological correlations have
+proven hard to confirm.
+
+
+
+Answer: In psychology, 'temperament' broadly refers to consistent individual differences
+in behavior that are biologically based and are relatively independent of
+learning, system of values and attitudes.
+------------------------------------------------------
+
+
+User Question: What is mold?
+
+
+
+Search Was executed: mold 
+
+
+Wiki Result: 
+
+
+{{multiple image
+ | align = right direction = vertical width = 220px
+
+ | image1 = DecayingPeachSmall.gif alt1 = Time-lapse photography sequence of a
+ | peach becoming progressively discolored and disfigured caption1 = The frames
+ | were taken approximately 12 hours apart over a period of six days. image2 =
+ | Mouldy Clementine.jpg caption2 = Mold growing on a clementine image3 =
+ | Spinellus fusiger 51504.jpg caption3 = [[Spinellus fusiger]] growing on the
+ | mushroom [[Mycena haematopus]] image4 = Mold on tomatoes (macro).jpg caption4
+ | = Moldy tomatoes image5 = Mold on dried Hibiscus sabdariffa.jpg caption5 =
+ | Mold on dried [[Hibiscus sabdariffa]] image6 = Hypha on rice.jpg caption6 =
+ | Hyphae growing from tomato sauce.
+}}
+
+A 'mold' () or 'mould' ( is a fungus that grows in the form of multicellular
+filaments called [[hyphae]]. In contrast, fungi that can adopt a single-celled
+growth habit are called yeasts.
+
+Molds are a large and taxonomically diverse number of fungal species in which
+the growth of hyphae results in discoloration and a fuzzy appearance, especially
+on food. The network of these tubular branching hyphae, called a mycelium, is
+considered a single organism. The hyphae are generally transparent, so the
+mycelium appears like very fine, fluffy white threads over the surface. Cross-
+walls (septa) may delimit connected compartments along the hyphae, each
+containing one or multiple, genetically identical nuclei. The dusty texture of
+many molds is caused by profuse production of asexual spores (conidia) formed by
+differentiation at the ends of hyphae. The mode of formation and shape of these
+spores is traditionally used to classify molds. Many of these spores are
+colored, making the fungus much more obvious to the human eye at this stage in
+its life-cycle.
+
+Molds are considered to be microbes and do not form a specific taxonomic or
+phylogenetic grouping, but can be found in the divisions Zygomycota and
+Ascomycota. In the past, most molds were classified within the Deuteromycota.
+
+Molds cause biodegradation of natural materials, which can be unwanted when it
+becomes food spoilage or damage to property. They also play important roles in
+biotechnology and food science in the production of various foods, beverages,
+antibiotics, pharmaceuticals and enzymes. Some diseases of animals and humans
+can be caused by certain molds: disease may result from allergic sensitivity to
+mold spores, from growth of pathogenic molds within the body, or from the
+effects of ingested or inhaled toxic compounds (mycotoxins) produced by molds.
+
+
+
+Answer: A 'mold' () or 'mould' ( is a fungus that grows in the form of multicellular
+.
+------------------------------------------------------
+
+
+User Question: What is is disposition
+
+
+
+Search Was executed: is disposition
+
+
+User Question: What is the constitution
+
+
+
+Search Was executed: constitution
+
+
+Wiki Result: 
+
+
+
+
+]]
+
+A 'constitution' is an aggregate of fundamental principles or established
+precedents that constitute the legal basis of a polity, organisation or other
+type of entity, and commonly determine how that entity is to be governed.The
+[[New Oxford American Dictionary]], Second Edn., Erin McKean (editor), 2051 pp.,
+2005, Oxford University Press, .
+
+When these principles are written down into a single document or set of legal
+documents, those documents may be said to embody a written constitution; if they
+are written down in a single comprehensive document, it is said to embody a
+codified constitution. Some constitutions (such as the constitution of the
+United Kingdom) are uncodified, but written in numerous fundamental Acts of a
+legislature, court cases or treaties.[[R (HS2 Action Alliance Ltd) v Secretary
+of State for Transport]] [2014] [http://www.bailii.org/uk/cases/UKSC/2014/3.html
+UKSC 3], [207]
+
+Constitutions concern different levels of organizations, from sovereign
+countries to companies and unincorporated associations. A treaty which
+establishes an international organization is also its constitution, in that it
+would define how that organization is constituted. Within states, a constitution
+defines the principles upon which the state is based, the procedure in which
+laws are made and by whom. Some constitutions, especially codified
+constitutions, also act as limiters of state power, by establishing lines which
+a state's rulers cannot cross, such as fundamental rights.
+
+The Constitution of India is the longest written constitution of any country in
+the world, containing 444 articles in 22 parts, 12 schedules and 118 amendments,
+with 146,385 words in its English-language version. The Constitution of Monaco
+is the shortest written constitution, containing 10 chapters with 97 articles,
+and a total of 3,814 words.
+
+
+
+Answer: A 'constitution' is an aggregate of fundamental principles or established
+precedents that constitute the legal basis of a polity, organisation or other
+type of entity, and commonly determine how that entity is to be governed.The
+, Second Edn., Erin McKean (editor), 2051 pp.,
+2005, Oxford University Press, .Constitutions concern different levels of organizations, from sovereign
+countries to companies and unincorporated associations.
+------------------------------------------------------
 
 
