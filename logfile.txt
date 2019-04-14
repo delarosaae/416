@@ -1,0 +1,584 @@
+User Question: What is a dog?
+
+
+
+Search Was executed: dog 
+
+
+Wiki Result: 
+
+
+
+
+{{Subspeciesbox
+| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
+| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
+| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
+| species = lupus species_link = Gray wolf subspecies = familiaris authority =
+| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
+}} ]]
+
+The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
+sister taxa as modern wolves are not closely related to the wolves that were
+first domesticated, which implies that the direct ancestor of the dog is
+extinct. The dog was the first species to be domesticated and has been
+selectively bred over millennia for various behaviors, sensory capabilities, and
+physical attributes.
+
+Their long association with humans has led dogs to be uniquely attuned to human
+behavior and they are able to thrive on a starch-rich diet that would be
+inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
+species/ Why are different breeds of dogs all considered the same species? –
+Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
+perform many roles for humans, such as hunting, herding, pulling loads,
+protection, assisting police and military, companionship and, more recently,
+aiding disabled people and therapeutic roles. This influence on human society
+has given them the sobriquet of "man's best friend".
+
+
+
+Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+ (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore.
+------------------------------------------------------
+
+
+User Question: cat?
+
+
+
+------------------------------------------------------
+
+
+User Question: What is a bear?
+
+
+
+Search Was executed: bear 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Automatic taxobox
+| taxon=Ursidae name=Bears fossil_range=Late Eocene – Recent image=2010-kodiak-bear-
+| 1.jpg image_caption=Brown bear in Alaska authority=G. Fischer de Waldheim,
+| 1817 subdivision_ranks=Subfamilies subdivision =
+Amphicynodontinae Hemicyoninae Ursavinae Agriotheriinae Ailuropodinae
+Tremarctinae Ursinae }}
+
+'Bears' are carnivoran mammals of the family 'Ursidae'. They are classified as
+caniforms, or doglike carnivorans. Although only eight species of bears are
+extant, they are widespread, appearing in a wide variety of habitats throughout
+the Northern Hemisphere and partially in the Southern Hemisphere. Bears are
+found on the continents of North America, South America, Europe, and Asia.
+Common characteristics of modern bears include large bodies with stocky legs,
+long snouts, small rounded ears, shaggy hair, plantigrade paws with five
+nonretractile claws, and short tails.
+
+While the polar bear is mostly carnivorous, and the giant panda feeds almost
+entirely on bamboo, the remaining six species are omnivorous with varied diets.
+With the exception of courting individuals and mothers with their young, bears
+are typically solitary animals. They may be diurnal or nocturnal and have an
+excellent sense of smell. Despite their heavy build and awkward gait, they are
+adept runners, climbers, and swimmers. Bears use shelters, such as caves and
+logs, as their dens; most species occupy their dens during the winter for a long
+period of hibernation, up to 100 days.
+
+Bears have been hunted since prehistoric times for their meat and fur; they have
+been used for bear-baiting and other forms of entertainment, such as being made
+to dance. With their powerful physical presence, they play a prominent role in
+the arts, mythology, and other cultural aspects of various human societies. In
+modern times, bears have come under pressure through encroachment on their
+habitats and illegal trade in bear parts, including the Asian bile bear market.
+The IUCN lists six bear species as vulnerable or endangered, and even least
+concern species, such as the brown bear, are at risk of extirpation in certain
+countries. The poaching and international trade of these most threatened
+populations are prohibited, but still ongoing.
+
+
+
+Answer: 'Bears' are carnivoran mammals of the family 'Ursidae'.
+------------------------------------------------------
+
+
+User Question: What is a fish?
+
+
+
+Search Was executed: fish 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Paraphyletic group |name = Fish |fossil_range = |image = Georgia Aquarium -
+Giant Grouper edit.jpg |image_caption = Giant grouper swimming among schools of
+other fish |image2 = Pterois volitans Manado-e edit.jpg |image2_caption = Head-
+on view of a red lionfish |auto = yes |parent = Vertebrata |includes = :Jawless
+fish :Armoured fish :Spiny sharks :Cartilaginous fish :Bony fish
+::Ray-finned fish :Lobe-finned fish
+|excludes = :Tetrapods }}
+
+'Fish' are gill-bearing aquatic craniate animals that lack limbs with digits.
+They form a sister group to the tunicates, together forming the olfactores.
+Included in this definition are the living hagfish, lampreys, and cartilaginous
+and bony fish as well as various extinct related groups. Tetrapods emerged
+within lobe-finned fishes, so cladistically they are fish as well. However,
+traditionally fish are rendered paraphyletic by excluding the tetrapods (i.e.,
+the amphibians, reptiles, birds and mammals which all descended from within the
+same ancestry). Because in this manner the term "fish" is defined negatively as
+a paraphyletic group, it is not considered a formal taxonomic grouping in
+systematic biology, unless it is used in the cladistic sense, including
+tetrapods. The traditional term 'pisces' (also 'ichthyes') is considered a , but
+not a phylogenetic classification.
+
+The earliest organisms that can be classified as fish were soft-bodied chordates
+that first appeared during the Cambrian period. Although they lacked a true
+spine, they possessed notochords which allowed them to be more agile than their
+invertebrate counterparts. Fish would continue to evolve through the Paleozoic
+era, diversifying into a wide variety of forms. Many fish of the Paleozoic
+developed external armor that protected them from predators. The first fish with
+jaws appeared in the Silurian period, after which many (such as sharks) became
+formidable marine predators rather than just the prey of arthropods.
+
+Most fish are ectothermic ("cold-blooded"), allowing their body temperatures to
+vary as ambient temperatures change, though some of the large active swimmers
+like white shark and tuna can hold a higher core temperature.
+
+Fish can communicate in their underwater environments through the use of
+acoustic communication. Acoustic communication in fish involves the transmission
+of acoustic signals from one individual of a species to another. The production
+of sounds as a means of communication among fish is most often used in the
+context of feeding, aggression or courtship behaviour. The sounds emitted by
+fish can vary depending on the species and stimulus involved. They can produce
+either stridulatory sounds by moving components of the skeletal system, or can
+produce non-stridulatory sounds by manipulating specialized organs such as the
+swimbladder.
+
+Fish are abundant in most bodies of water. They can be found in nearly all
+aquatic environments, from high mountain streams (e.g., char and gudgeon) to the
+abyssal and even hadal depths of the deepest oceans (e.g., gulpers and
+anglerfish), although no species has yet been documented in the deepest 25% of
+the ocean. With 33,600 described species, fish exhibit greater species diversity
+than any other group of vertebrates.
+
+Fish are an important resource for humans worldwide, especially as food.
+Commercial and subsistence fishers hunt fish in wild fisheries (see fishing)
+or farm them in ponds or in cages in the ocean (see aquaculture). They are
+also caught by recreational fishers, kept as pets, raised by fishkeepers, and
+exhibited in public aquaria. Fish have had a role in culture through the
+ages, serving as deities, religious symbols, and as the subjects of art,
+books and movies.
+
+
+
+Answer: 'Fish' are gill-bearing aquatic craniate animals that lack limbs with digits.
+------------------------------------------------------
+
+
+User Question: What is a dog?
+
+
+
+Search Was executed: dog 
+
+
+Wiki Result: 
+
+
+
+
+{{Subspeciesbox
+| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
+| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
+| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
+| species = lupus species_link = Gray wolf subspecies = familiaris authority =
+| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
+}} ]]
+
+The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
+sister taxa as modern wolves are not closely related to the wolves that were
+first domesticated, which implies that the direct ancestor of the dog is
+extinct. The dog was the first species to be domesticated and has been
+selectively bred over millennia for various behaviors, sensory capabilities, and
+physical attributes.
+
+Their long association with humans has led dogs to be uniquely attuned to human
+behavior and they are able to thrive on a starch-rich diet that would be
+inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
+species/ Why are different breeds of dogs all considered the same species? –
+Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
+perform many roles for humans, such as hunting, herding, pulling loads,
+protection, assisting police and military, companionship and, more recently,
+aiding disabled people and therapeutic roles. This influence on human society
+has given them the sobriquet of "man's best friend".
+
+
+
+Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+ (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore.
+------------------------------------------------------
+
+
+User Question: What is a dog?
+
+
+
+Search Was executed: dog 
+
+
+Wiki Result: 
+
+
+
+
+{{Subspeciesbox
+| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
+| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
+| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
+| species = lupus species_link = Gray wolf subspecies = familiaris authority =
+| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
+}} ]]
+
+The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
+sister taxa as modern wolves are not closely related to the wolves that were
+first domesticated, which implies that the direct ancestor of the dog is
+extinct. The dog was the first species to be domesticated and has been
+selectively bred over millennia for various behaviors, sensory capabilities, and
+physical attributes.
+
+Their long association with humans has led dogs to be uniquely attuned to human
+behavior and they are able to thrive on a starch-rich diet that would be
+inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
+species/ Why are different breeds of dogs all considered the same species? –
+Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
+perform many roles for humans, such as hunting, herding, pulling loads,
+protection, assisting police and military, companionship and, more recently,
+aiding disabled people and therapeutic roles. This influence on human society
+has given them the sobriquet of "man's best friend".
+
+
+
+Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+ (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore.
+------------------------------------------------------
+
+
+User Question: What is the Mona Lisa?
+
+
+
+Search Was executed: Mona Lisa 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox artwork
+| image_file=Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg alt=See
+| adjacent text. title=Mona Lisa other_language_1=Italian other_title_1=La
+| Gioconda other_language_2=French other_title_2=La Joconde artist=Leonardo da
+| Vinci subject=Lisa Gherardini year= 1503–1506, perhaps continuing until 1517
+| material=Oil on poplar panel height_metric=77 width_metric=53 city=Paris
+| museum=The Louvre Museum
+}}
+
+The 'Mona Lisa' (; or 'La Gioconda' , ) is a half-length portrait painting by
+the Italian Renaissance artist Leonardo da Vinci that has been described as "the
+best known, the most visited, the most written about, the most sung about, the
+most parodied work of art in the world." The Mona Lisa is also one of the most
+valuable paintings in the world. It holds the Guinness World Record for the
+highest known insurance valuation in history at US$100 million in 1962
+(equivalent to $ million in ).
+
+The painting is a portrait of Lisa Gherardini, the wife of Francesco del
+Giocondo, and is in oil on a white Lombardy poplar panel. It had been believed
+to have been painted between 1503 and 1506; however, Leonardo may have continued
+working on it as late as 1517. Recent academic work suggests that it would not
+have been started before 1513. It was acquired by King Francis I of France and
+is now the property of the French Republic, on permanent display at the Louvre
+Museum in Paris since 1797.
+
+The subject's expression, which is frequently described as enigmatic, the
+monumentality of the composition, the subtle modelling of forms, and the
+atmospheric illusionism were novel qualities that have contributed to the
+continuing fascination and study of the work.
+
+
+
+Answer: The 'Mona Lisa' (; or 'La Gioconda' , ) is a half-length portrait painting by
+the Italian Renaissance artist Leonardo da Vinci that has been described as "the
+best known, the most visited, the most written about, the most sung about, the
+most parodied work of art in the world." The Mona Lisa is also one of the most
+valuable paintings in the world.
+------------------------------------------------------
+
+
+User Question: What is a dog?
+
+
+
+Search Was executed: dog 
+
+
+Wiki Result: 
+
+
+
+
+{{Subspeciesbox
+| name = Domestic dogs fossil_range = Late Pleistocene&nbsp;– Present (at least
+| 14,700–0 years BP) status = DOM image = Collage of Nine Dogs.jpg image_upright
+| = 1.2 image_caption = Selection of the different breeds of dog genus = Canis
+| species = lupus species_link = Gray wolf subspecies = familiaris authority =
+| Linnaeus, 1758 synonyms = Canis familiaris Linnaeus, 1758
+}} ]]
+
+The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+genus [[Canis]] (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore. The dog and the extant gray wolf are
+sister taxa as modern wolves are not closely related to the wolves that were
+first domesticated, which implies that the direct ancestor of the dog is
+extinct. The dog was the first species to be domesticated and has been
+selectively bred over millennia for various behaviors, sensory capabilities, and
+physical attributes.
+
+Their long association with humans has led dogs to be uniquely attuned to human
+behavior and they are able to thrive on a starch-rich diet that would be
+inadequate for other canid species. Dogs vary widely in shape, size and colors.[http://www.scientificamerican.com/article/different-dog-breeds-same-
+species/ Why are different breeds of dogs all considered the same species? –
+Scientific American] . Nikhil Swaminathan. Accessed on 28 August 2016. They
+perform many roles for humans, such as hunting, herding, pulling loads,
+protection, assisting police and military, companionship and, more recently,
+aiding disabled people and therapeutic roles. This influence on human society
+has given them the sobriquet of "man's best friend".
+
+
+
+Answer: The 'domestic dog' (Canis lupus familiaris when considered a subspecies of the
+wolf or Canis familiaris when considered a distinct species) is a member of the
+ (canines), which forms part of the wolf-like canids, and is the
+most widely abundant terrestrial carnivore.
+------------------------------------------------------
+
+
+User Question: What is a car?
+
+
+
+Search Was executed: car 
+
+
+Wiki Result: 
+
+
+
+
+
+{{Infobox machine
+| name = Car image = caption = Modern cars and trucks driving on an expressway
+| in Ontario, Canada classification = Vehicle industry = Various application =
+| dimensions = weight = fuel_source = Gasoline, diesel, natural gas, electric,
+| hydrogen, solar, vegetable oil powered = Yes self-propelled = Yes wheels = 3–4
+| tracks = legs = aerofoils = axles = 2 components = invented = inventor = Karl
+| Benz examples =
+}} A 'car' (or 'automobile') is a wheeled motor vehicle used for transportation.
+Most definitions of car say they run primarily on roads, seat one to eight
+people, have four tires, and mainly transport people rather than goods.
+
+Cars came into global use during the 20th century, and developed economies
+depend on them. The year 1886 is regarded as the birth year of the modern car
+when German inventor Karl Benz patented his Benz Patent-Motorwagen. Cars became
+widely available in the early 20th century. One of the first cars accessible to
+the masses was the 1908 Model T, an American car manufactured by the Ford Motor
+Company. Cars were rapidly adopted in the US, where they replaced animal-drawn
+carriages and carts, but took much longer to be accepted in Western Europe and
+other parts of the world.
+
+Cars have controls for driving, parking, passenger comfort, and safety, and
+controlling a variety of lights. Over the decades, additional features and
+controls have been added to vehicles, making them progressively more complex.
+These include rear reversing cameras, air conditioning, navigation systems, and
+in-car entertainment. Most cars in use in the 2010s are propelled by an internal
+combustion engine, fueled by the combustion of fossil fuels. Electric cars,
+which were invented early in the history of the car, began to become
+commercially available in 2008.
+
+There are costs and benefits to car use. The costs include acquiring the
+vehicle, interest payments (if the car is financed), repairs and maintenance,
+fuel, depreciation, driving time, parking fees, taxes, and insurance. The costs
+to society include maintaining roads, land use, road congestion, air pollution,
+public health, health care, and disposing of the vehicle at the end of its life.
+Road traffic accidents are the largest cause of injury-related deaths worldwide.
+
+The benefits include on-demand transportation, mobility, independence, and
+convenience. The societal benefits include economic benefits, such as job and
+wealth creation from the automotive industry, transportation provision, societal
+well-being from leisure and travel opportunities, and revenue generation from
+the . People's ability to move flexibly from place to place has far-reaching
+implications for the nature of societies. There are around 1 billion cars in use
+worldwide. The numbers are increasing rapidly, especially in China, India and
+other newly industrialized countries.
+
+
+
+Answer: Cars came into global use during the 20th century, and developed economies
+depend on them.
+------------------------------------------------------
+
+
+User Question: Where is Walt Disney World?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+{{Infobox company
+| name = Walt Disney World Resort logo = Walt Disney World Logo 2018.svg image =
+| Magic Kingdom - Cinderella Castle panorama - by mrkathika.jpg image_caption =
+| industry = Theme parks and resorts founders = Walt and Roy Disney key_people =
+| George Kalogridis (President) num_employees = 74,000 parent = Disney Parks,
+| Experiences and Products(The Walt Disney Company) foundation = location = Lake
+| Buena Vista and Bay Lake, Florida, U.S. homepage =
+}}
+
+
+
+The 'Walt Disney World Resort', also called 'Walt Disney World' and 'Disney
+World', is an entertainment complex in Bay Lake and Lake Buena Vista, Florida,
+in the United States, near the cities Orlando and Kissimmee. Opened on October
+1, 1971, the resort is owned and operated by Disney Parks, Experiences and
+Products, a division of The Walt Disney Company. It was first operated by Walt
+Disney World Company. The property, which covers nearly , only half of which
+has been used, comprises four theme parks, two water parks, twenty-seven
+themed resort hotels, nine non-Disney hotels, several golf courses, a camping
+resort, and other entertainment venues, including the outdoor shopping center
+Disney Springs.
+
+Designed to supplement Disneyland, in Anaheim, California, which had opened in
+1955, the complex was developed by Walt Disney in the 1960s. "The Florida
+Project", as it was known, was intended to present a distinct vision with its
+own diverse set of attractions. Walt Disney's original plans also called for the
+inclusion of an "Experimental Prototype Community of Tomorrow" (EPCOT), a
+planned community intended to serve as a test bed for new city-living
+innovations. Walt Disney died on December 15, 1966, during construction of the
+complex. Without him spearheading the construction, the company built a resort
+similar to Disneyland, abandoning the experimental concepts for a planned
+community. Magic Kingdom was the first theme park to open in the complex, in
+1971, followed by Epcot (1982), Disney's Hollywood Studios (1989), and Disney's
+Animal Kingdom (1998).
+
+Today, Walt Disney World is the most visited vacation resort in the world, with
+average annual attendance of more than 52 million. The resort is the flagship
+destination of Disney's worldwide corporate enterprise and has become a popular
+staple in American culture.
+
+
+
+Answer: The 'Walt Disney World Resort', also called 'Walt Disney World' and 'Disney
+World', is an entertainment complex in Bay Lake and Lake Buena Vista, Florida,
+in the United States, near the cities Orlando and Kissimmee.
+------------------------------------------------------
+
+
+User Question: Where is Central Park?
+
+
+
+Search Was executed: 
+
+
+Wiki Result: 
+
+
+
+{{Infobox park
+| name = Central Park photo = Southwest corner of Central Park, looking east,
+| NYC.jpg photo_width = 300px photo_caption = The Pond and Hallett Nature
+| Sanctuary in the park's southeast corner type = Urban park location =
+| Manhattan, New York City area = map_image = map_width = map_caption =
+| Interactive map showing location of Central Park coords = created = 1857 owner
+| = New York City Department of Parks and Recreation operator = Central Park
+| Conservancy visitation_num = about 37.5 million annually
+
+
+| status = Open all year embedded = {{Infobox NRHP embed = yes name = nrhp_type
+| = nhl image = built = architect = Frederick Law Olmsted (1822–1903), Calvert
+| Vaux (1824–1895) designated_nrhp_type = May 23, 1963 area = added = October
+| 15, 1966 refnum = 66000538
+ }} }}
+
+'Central Park' is an urban park in Manhattan, New York City. It is located
+between the Upper West Side and Upper East Side, roughly bounded by Fifth
+Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park
+South (59th Street) on the south, and Central Park North (110th Street) on the
+north. Central Park is the most visited urban park in the United States, with
+40 million visitors in 2013, and one of the most filmed locations in the world.
+In terms of area, Central Park is the fifth largest park in New York City,
+covering .
+
+Central Park was first approved in 1853 as a . In 1857, landscape architect
+Frederick Law Olmsted and architect/landscape designer Calvert Vaux won a design
+competition to construct the park with a plan they titled the "Greensward Plan".
+Construction began the same year, and the park's first areas were opened to the
+public in late 1858. Additional land at the northern end of Central Park was
+purchased in 1859, and the park was completed in 1873. After a period of decline
+in the early 20th century, New York City parks commissioner Robert Moses started
+a program to clean up Central Park. Another decline in the late 20th century
+spurred the creation of the Central Park Conservancy in 1980, which refurbished
+many parts of the park during the 1980s and 1990s.
+
+Central Park was designated a National Historic Landmark by the U.S. Department
+of the Interior in 1963,https://npgallery.nps.gov/AssetDetail/NRIS/66000538 and
+it was placed on the tentative list for UNESCO World Heritage sites in April
+2017.[http://whc.unesco.org/en/tentativelists/6234/ Central Park], UNESCO
+tentative list The park, managed for decades by the New York City Department of
+Parks and Recreation, is currently managed by the Central Park Conservancy under
+contract with the municipal government in a public-private partnership. The
+Conservancy is a non-profit organization that contributes 75 percent of Central
+Park's $65 million annual budget and is responsible for all basic care of the
+843-acre park.
+
+
+
+Answer: 'Central Park' is an urban park in Manhattan, New York City.
+------------------------------------------------------
+
+
+User Question: Who is Gary Clarke Jr.?
+
+
+
+Search Was executed: 
+
+
