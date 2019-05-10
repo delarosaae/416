@@ -273,7 +273,7 @@ sub WhoStatement
 sub WhenStatement
 {
     my $sentence = @_;
-    if($_[0]=~/(When|when) (is) (.+)+ (birthday)/)         
+    if($_[0]=~/(When|when) is (.+)+ birthday/)         
     {
         print "Category: When is ---- birthday\n";
         print DST "Search Was executed: $lookUp\n\n\n";
@@ -335,7 +335,7 @@ sub WhenStatement
            
         }   
     }
-    elsif($_[0]=~/\b^(When|when) is \b/)         
+    elsif($_[0]=~/\b^(When|when) (is|was) \b/)         
     {
         print DST "Search Was executed: $lookUp\n\n\n";
         my $lookUp = $'; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
@@ -531,7 +531,7 @@ sub WhenStatement
 sub WhereStatement
 {
     my $sentence = @_;
-    if($_[0]=~/\b^(Where|where) (is|are|was) (the)?\b/)         
+    if($_[0]=~/\b^(Where|where) (is|are) (the)?\b/)         
     {
         print DST "Search Was executed: $lookUp\n\n\n";
         my $lookUp = $'; #gets whats in the middle of does and mean, so whatever (.+)+ equals 
